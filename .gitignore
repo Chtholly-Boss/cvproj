@@ -9,5 +9,6 @@ wheels/
 .vscode/
 data/
 *.log
+out/
 # Virtual environments
 .venv
