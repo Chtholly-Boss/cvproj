@@ -15,8 +15,8 @@ transform = transforms.Compose([
 val_dataset = dataset.VocDataSet(split='val', transform=transform)
 train_dataset = dataset.VocDataSet(split='train', transform=transform)
 
-val_loader = DataLoader(val_dataset, batch_size=8, shuffle=False, num_workers=1)
-train_loader = DataLoader(train_dataset, batch_size=16, shuffle=True, num_workers=1)
+val_loader = DataLoader(val_dataset, batch_size=16, shuffle=False, num_workers=1)
+train_loader = DataLoader(train_dataset, batch_size=32, shuffle=True, num_workers=1)
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print(f'Using device: {device}')
@@ -122,8 +122,8 @@ def train(model):
 if __name__ == "__main__":
     # model = net.ConvNet(21)
     # model = net.get_net(21)
-    model = net.FCN(21)
-    name = 'fcn'
+    model = net.UNet(n_channels=3, n_classes=21, bilinear=True)
+    name = 'unet'
     model_path = f'model_{name}.pth'
     start_epoch = 0
     
@@ -134,15 +134,15 @@ if __name__ == "__main__":
         model.load_state_dict(checkpoint['model_state_dict'])
         start_epoch = checkpoint['epoch']
         print(f"Resuming training from epoch {start_epoch}")
-    
-    for epoch in range(start_epoch, start_epoch + 10):
+    epochs = 10
+    for epoch in range(start_epoch, start_epoch + epochs):
+        print(f'Epoch {epoch + 1}')
         train(model)
         validate(model)
+        # Save model checkpoint
+        torch.save({
+            'epoch': epoch + 1,
+            'model_state_dict': model.state_dict(),
+        }, model_path)
     
-    # Save the model after training
-    torch.save({
-        'epoch': epoch + 1,
-        'model_state_dict': model.state_dict(),
-    }, model_path)
     
-    print(f"Training complete. Model saved to {model_path}")
