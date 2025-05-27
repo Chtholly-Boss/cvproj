@@ -10,5 +10,6 @@ wheels/
 data/
 *.log
 out/
+*.pth
 # Virtual environments
 .venv

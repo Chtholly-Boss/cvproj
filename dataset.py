@@ -18,7 +18,7 @@ class VocDataSet(Dataset):
         A function that transforms the image
     """
     NCLASS = 21
-    def __init__(self, root='data/VOCdevkit', split='train', transform=None, base_size=2561, crop_size=224):
+    def __init__(self, root='data/VOCdevkit', split='train', transform=None, base_size=512, crop_size=320):
         super(VocDataSet).__init__()
         self.root = root
         self.transform = transform
