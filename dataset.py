@@ -4,6 +4,10 @@ import numpy as np
 import torch
 from torch.utils.data import Dataset
 from PIL import Image, ImageOps, ImageFilter
+import tarfile
+import torchvision.transforms as transforms
+import torchvision.datasets as datasets
+
 
 class VocDataSet(Dataset):
     """Pascal VOC Semantic Segmentation Dataset.
@@ -135,7 +139,41 @@ class VocDataSet(Dataset):
                 'tv')
     
 if __name__ == '__main__':
-    import torchvision.transforms as transforms
+    # Download VOC2012 from torchvision
+
+    root = 'data'
+    voc_root = os.path.join(root, 'VOCdevkit')
+
+    if not os.path.exists(voc_root):
+        print(f"Downloading VOC2012 dataset to {voc_root}...")
+        # Use a mirror URL if the official download fails
+        # try:
+            # datasets.VOCSegmentation(root=root, year='2012', image_set='train', download=True)
+        # except Exception as e:
+        # print(f"Official download failed: {e}")
+        print("Trying alternative mirror...")
+        
+        # Define mirror URL
+        mirror_url = "http://host.robots.ox.ac.uk/pascal/VOC/voc2012/VOCtrainval_11-May-2012.tar"
+        
+        import urllib.request
+        
+        # Create directories if they don't exist
+        os.makedirs(root, exist_ok=True)
+        
+        # Download from mirror
+        tar_path = os.path.join(root, "VOCtrainval_11-May-2012.tar")
+        urllib.request.urlretrieve(mirror_url, tar_path)
+        
+        # Extract the tar file
+        with tarfile.open(tar_path) as tar:
+            tar.extractall(path=root)
+        
+        # Clean up
+        os.remove(tar_path)
+        print("Download completed.")
+    else:
+        print(f"VOC2012 dataset already exists at {voc_root}")
     transform = transforms.Compose([
         transforms.ToTensor(),
         transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])

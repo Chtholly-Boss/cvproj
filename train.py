@@ -6,6 +6,7 @@ import net
 from torchvision import transforms
 import numpy as np
 import os
+from score import batch_pix_accuracy, batch_intersection_union
 
 transform = transforms.Compose([
     transforms.ToTensor(),
@@ -15,134 +16,85 @@ transform = transforms.Compose([
 val_dataset = dataset.VocDataSet(split='val', transform=transform)
 train_dataset = dataset.VocDataSet(split='train', transform=transform)
 
-val_loader = DataLoader(val_dataset, batch_size=16, shuffle=False, num_workers=1)
-train_loader = DataLoader(train_dataset, batch_size=32, shuffle=True, num_workers=1)
+val_loader = DataLoader(val_dataset, batch_size=64, shuffle=False, num_workers=1)
+train_loader = DataLoader(train_dataset, batch_size=16, shuffle=True, num_workers=1)
 
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-print(f'Using device: {device}')
+class Trainer:
+    def __init__(self, name, model):
+        # environment setting
+        self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        self.name = name
+        self.model_path = f'model_{name}.pth'
+        # training parameters
+        self.lr = 1e-3
+        self.epoch = 0
+        # training modules
+        self.model = model.to(self.device)
+        self.criterion = torch.nn.CrossEntropyLoss(ignore_index=-1)
+        self.optimizer = torch.optim.Adam(self.model.parameters(), lr=self.lr)
+        self.lr_scheduler = torch.optim.lr_scheduler.MultiStepLR(self.optimizer,[30, 50, 100, 200, 300, 600])
+        # Scores 
+        self.pixacc = 0.0
+        self.mIoU = 0.0
+        if os.path.exists(self.model_path):
+            checkpoint = torch.load(self.model_path)
+            self.model.load_state_dict(checkpoint['model_state_dict'])
+            self.epoch = checkpoint['epoch']
+            self.mIoU = checkpoint['mIoU']
+            self.pixacc = checkpoint['pixacc']
+            print(f"Resuming training from epoch {self.epoch}")
+    def validate(self):
+        self.model.eval()
+        pixel_correct = 0
+        pixel_labeled = 0
+        total_inter = 0
+        total_union = 0
+        with torch.no_grad():
+            for i, (images, targets, _) in enumerate(val_loader):
+                images = images.to(self.device)
+                targets = targets.to(self.device)
+                outputs = self.model(images)
+                correct, labeled = batch_pix_accuracy(outputs, targets)
+                inter, union = batch_intersection_union(outputs, targets, 21)
+                pixel_labeled += labeled
+                pixel_correct += correct
+                total_inter += inter
+                total_union += union
+        pixacc = pixel_correct / pixel_labeled
+        iou = total_inter / (total_union + 1e-10)  # Avoid division by zero
+        mIoU = iou.mean().item()
+        if mIoU > self.mIoU:
+            self.mIoU = mIoU
+            print("\033[1;32mBetter IoU Get!\033[0m")
+            torch.save({
+                'epoch': self.epoch,
+                'pixacc': self.pixacc,
+                'mIoU': self.mIoU,
+                'model_state_dict': model.state_dict(),
+            }, self.model_path)
+        print(f'Epoch: {self.epoch} PixAcc: {pixacc:.4f}, mIoU: {mIoU:.4f}')
+        self.model.train()
 
-lr = 1e-4
+    def train(self):
+        self.model.train()
+        while True:
+            self.epoch += 1
+            for batch, (images, targets, _) in enumerate(train_loader):
+                images = images.to(self.device)
+                targets = targets.to(self.device)
 
-def intersectionAndUnion(imPred, imLab, numClass):
-    """
-    This function takes the prediction and label of a single image,
-    returns intersection and union areas for each class
-    To compute over many images do:
-    for i in range(Nimages):
-        (area_intersection[:,i], area_union[:,i]) = intersectionAndUnion(imPred[i], imLab[i])
-    IoU = 1.0 * np.sum(area_intersection, axis=1) / np.sum(np.spacing(1)+area_union, axis=1)
-    """
-    # Remove classes from unlabeled pixels in gt image.
-    # We should not penalize detections in unlabeled portions of the image.
-    imPred = imPred * (imLab >= 0)
-
-    # Compute area intersection:
-    intersection = imPred * (imPred == imLab)
-    (area_intersection, _) = np.histogram(intersection, bins=numClass, range=(1, numClass))
-
-    # Compute area union:
-    (area_pred, _) = np.histogram(imPred, bins=numClass, range=(1, numClass))
-    (area_lab, _) = np.histogram(imLab, bins=numClass, range=(1, numClass))
-    area_union = area_pred + area_lab - area_intersection
-    return (area_intersection, area_union)
-
-def batch_pix_accuracy(output, target):
-    """PixAcc"""
-    # inputs are numpy array, output 4D, target 3D
-    predict = torch.argmax(output.long(), 1) + 1
-    target = target.long() + 1
-
-    pixel_labeled = torch.sum(target > 0).item()
-    pixel_correct = torch.sum((predict == target) * (target > 0)).item()
-    assert pixel_correct <= pixel_labeled, "Correct area should be smaller than Labeled"
-    return pixel_correct, pixel_labeled
-
-def batch_intersection_union(output, target, nclass):
-    """mIoU"""
-    # inputs are numpy array, output 4D, target 3D
-    mini = 1
-    maxi = nclass
-    nbins = nclass
-    predict = torch.argmax(output, 1) + 1
-    target = target.float() + 1
-
-    predict = predict.float() * (target > 0).float()
-    intersection = predict * (predict == target).float()
-    # areas of intersection and union
-    # element 0 in intersection occur the main difference from np.bincount. set boundary to -1 is necessary.
-    area_inter = torch.histc(intersection.cpu(), bins=nbins, min=mini, max=maxi)
-    area_pred = torch.histc(predict.cpu(), bins=nbins, min=mini, max=maxi)
-    area_lab = torch.histc(target.cpu(), bins=nbins, min=mini, max=maxi)
-    area_union = area_pred + area_lab - area_inter
-    assert torch.sum(area_inter > area_union).item() == 0, "Intersection area should be smaller than Union area"
-    return area_inter.float(), area_union.float()
-
-def validate(model):
-    pixel_correct = 0
-    pixel_labeled = 0
-    total_inter = 0
-    total_union = 0
-    model.eval()
-    with torch.no_grad():
-        for i, (images, targets, filenames) in enumerate(val_loader):
-            images = images.to(device)
-            targets = targets.to(device)
-
-            outputs = model(images)
-            correct, labeled = batch_pix_accuracy(outputs, targets)
-            inter, union = batch_intersection_union(outputs, targets, 21)
-            pixel_labeled += labeled
-            pixel_correct += correct
-            total_inter += inter
-            total_union += union
-        model.train()
-    pixacc = pixel_correct / pixel_labeled
-    iou = total_inter / (total_union + 1e-10)  # Avoid division by zero
-    print(f'PixAcc: {pixacc:.4f}')
-    print(f'mIoU: {iou.mean().item():.4f}')
-
-def train(model):
-    model.to(device)
-    criterion = torch.nn.CrossEntropyLoss(ignore_index=-1)
-    optimizer = torch.optim.Adam(model.parameters(), lr=lr)
-    model.train()
-    for batch, (images, targets, _) in enumerate(train_loader):
-        images = images.to(device)
-        targets = targets.to(device)
-
-        # forward
-        outputs = model(images)
-        loss = criterion(outputs, targets)
-        optimizer.zero_grad()
-        loss.backward()
-        optimizer.step()
-        if batch % 10 == 0:
-            print(f'Batch {batch}, Loss: {loss.item():.4f}')
+                # forward
+                outputs = self.model(images)
+                loss = self.criterion(outputs, targets)
+                self.optimizer.zero_grad()
+                loss.backward()
+                self.optimizer.step()
+                if batch % 10 == 0:
+                    print(f'Batch {batch}, Loss: {loss.item():.4f}')
+            self.validate()
+            self.lr_scheduler.step()
 
 if __name__ == "__main__":
-    # model = net.ConvNet(21)
-    # model = net.get_net(21)
-    model = net.UNet(n_channels=3, n_classes=21, bilinear=True)
-    name = 'unet'
-    model_path = f'model_{name}.pth'
-    start_epoch = 0
-    
-    # Load model checkpoint if it exists
-    if os.path.exists(model_path):
-        print(f"Loading model checkpoint from {model_path}")
-        checkpoint = torch.load(model_path)
-        model.load_state_dict(checkpoint['model_state_dict'])
-        start_epoch = checkpoint['epoch']
-        print(f"Resuming training from epoch {start_epoch}")
-    epochs = 10
-    for epoch in range(start_epoch, start_epoch + epochs):
-        print(f'Epoch {epoch + 1}')
-        train(model)
-        validate(model)
-        # Save model checkpoint
-        torch.save({
-            'epoch': epoch + 1,
-            'model_state_dict': model.state_dict(),
-        }, model_path)
-    
-    
+    model = net.UNet(n_channels=3, n_classes=21, bilinear=False)
+    trainer = Trainer('unet', model)
+    trainer.train()
