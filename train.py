@@ -121,8 +121,10 @@ def train(model):
 
 if __name__ == "__main__":
     # model = net.ConvNet(21)
-    model = net.get_net(21)
-    model_path = f'model_{lr}.pth'
+    # model = net.get_net(21)
+    model = net.FCN(21)
+    name = 'fcn'
+    model_path = f'model_{name}.pth'
     start_epoch = 0
     
     # Load model checkpoint if it exists
