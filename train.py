@@ -1,5 +1,7 @@
 import torch
 from torch import Tensor
+from torch import nn
+from torch.nn import functional as F
 from torch.utils.data import DataLoader
 import dataset
 import net
@@ -18,7 +20,7 @@ train_dataset = dataset.VocDataSet(split='train', transform=transform)
 
 val_loader = DataLoader(val_dataset, batch_size=64, shuffle=False, num_workers=1)
 train_loader = DataLoader(train_dataset, batch_size=16, shuffle=True, num_workers=1)
-
+    
 class Trainer:
     def __init__(self, name, model):
         # environment setting
@@ -26,13 +28,12 @@ class Trainer:
         self.name = name
         self.model_path = f'model_{name}.pth'
         # training parameters
-        self.lr = 1e-3
+        self.lr = 1e-5
         self.epoch = 0
         # training modules
         self.model = model.to(self.device)
         self.criterion = torch.nn.CrossEntropyLoss(ignore_index=-1)
-        self.optimizer = torch.optim.Adam(self.model.parameters(), lr=self.lr)
-        self.lr_scheduler = torch.optim.lr_scheduler.MultiStepLR(self.optimizer,[30, 50, 100, 200, 300, 600])
+        self.optimizer = torch.optim.AdamW(self.model.parameters(), lr=self.lr)
         # Scores 
         self.pixacc = 0.0
         self.mIoU = 0.0
@@ -92,7 +93,6 @@ class Trainer:
                 if batch % 10 == 0:
                     print(f'Batch {batch}, Loss: {loss.item():.4f}')
             self.validate()
-            self.lr_scheduler.step()
 
 if __name__ == "__main__":
     model = net.UNet(n_channels=3, n_classes=21, bilinear=False)
