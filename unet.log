@@ -1,0 +1,5974 @@
+Found 1449 images in the folder data/VOCdevkit/VOC2012
+Found 1464 images in the folder data/VOCdevkit/VOC2012
+Batch 0, Loss: 3.0405
+Batch 10, Loss: 3.0194
+Batch 20, Loss: 2.9923
+Batch 30, Loss: 2.7756
+Batch 40, Loss: 2.7858
+Batch 50, Loss: 2.7352
+Batch 60, Loss: 2.7931
+Batch 70, Loss: 2.6961
+Batch 80, Loss: 2.7420
+Batch 90, Loss: 2.6423
+[1;32mBetter IoU Get![0m
+Epoch: 1 PixAcc: 0.6785, mIoU: 0.0306
+Batch 0, Loss: 2.6333
+Batch 10, Loss: 2.4726
+Batch 20, Loss: 2.6780
+Batch 30, Loss: 2.4581
+Batch 40, Loss: 2.6988
+Batch 50, Loss: 2.6228
+Batch 60, Loss: 2.4307
+Batch 70, Loss: 2.4845
+Batch 80, Loss: 2.4893
+Batch 90, Loss: 2.4593
+[1;32mBetter IoU Get![0m
+Epoch: 2 PixAcc: 0.6839, mIoU: 0.0312
+Batch 0, Loss: 2.5259
+Batch 10, Loss: 2.2996
+Batch 20, Loss: 2.5073
+Batch 30, Loss: 2.4444
+Batch 40, Loss: 2.4069
+Batch 50, Loss: 2.3668
+Batch 60, Loss: 2.3763
+Batch 70, Loss: 2.4576
+Batch 80, Loss: 2.2278
+Batch 90, Loss: 2.3988
+Epoch: 3 PixAcc: 0.6768, mIoU: 0.0303
+Batch 0, Loss: 2.3236
+Batch 10, Loss: 2.2901
+Batch 20, Loss: 2.2777
+Batch 30, Loss: 2.1291
+Batch 40, Loss: 2.1943
+Batch 50, Loss: 2.1341
+Batch 60, Loss: 2.4338
+Batch 70, Loss: 2.1620
+Batch 80, Loss: 2.1739
+Batch 90, Loss: 2.3664
+[1;32mBetter IoU Get![0m
+Epoch: 4 PixAcc: 0.6773, mIoU: 0.0322
+Batch 0, Loss: 2.0659
+Batch 10, Loss: 2.0999
+Batch 20, Loss: 2.0746
+Batch 30, Loss: 2.0680
+Batch 40, Loss: 2.0580
+Batch 50, Loss: 1.9247
+Batch 60, Loss: 2.1388
+Batch 70, Loss: 2.3119
+Batch 80, Loss: 2.2432
+Batch 90, Loss: 2.0503
+[1;32mBetter IoU Get![0m
+Epoch: 5 PixAcc: 0.6869, mIoU: 0.0359
+Batch 0, Loss: 2.0144
+Batch 10, Loss: 1.9379
+Batch 20, Loss: 2.1696
+Batch 30, Loss: 2.2014
+Batch 40, Loss: 1.9134
+Batch 50, Loss: 2.0950
+Batch 60, Loss: 1.9863
+Batch 70, Loss: 2.1544
+Batch 80, Loss: 2.3641
+Batch 90, Loss: 1.9563
+[1;32mBetter IoU Get![0m
+Epoch: 6 PixAcc: 0.6721, mIoU: 0.0362
+Batch 0, Loss: 2.1511
+Batch 10, Loss: 2.0138
+Batch 20, Loss: 2.0450
+Batch 30, Loss: 1.8212
+Batch 40, Loss: 2.0961
+Batch 50, Loss: 2.1976
+Batch 60, Loss: 1.9750
+Batch 70, Loss: 2.0415
+Batch 80, Loss: 1.8993
+Batch 90, Loss: 1.8671
+Epoch: 7 PixAcc: 0.6850, mIoU: 0.0336
+Batch 0, Loss: 1.9388
+Batch 10, Loss: 1.8915
+Batch 20, Loss: 1.9291
+Batch 30, Loss: 1.9689
+Batch 40, Loss: 1.6537
+Batch 50, Loss: 2.1314
+Batch 60, Loss: 1.6029
+Batch 70, Loss: 1.9747
+Batch 80, Loss: 1.6540
+Batch 90, Loss: 1.8213
+[1;32mBetter IoU Get![0m
+Epoch: 8 PixAcc: 0.6875, mIoU: 0.0371
+Batch 0, Loss: 2.0118
+Batch 10, Loss: 2.0476
+Batch 20, Loss: 1.7770
+Batch 30, Loss: 1.9100
+Batch 40, Loss: 1.7088
+Batch 50, Loss: 1.9111
+Batch 60, Loss: 1.4795
+Batch 70, Loss: 1.8755
+Batch 80, Loss: 2.0095
+Batch 90, Loss: 1.8726
+[1;32mBetter IoU Get![0m
+Epoch: 9 PixAcc: 0.6845, mIoU: 0.0415
+Batch 0, Loss: 1.6411
+Batch 10, Loss: 2.0434
+Batch 20, Loss: 1.7209
+Batch 30, Loss: 1.8710
+Batch 40, Loss: 1.6967
+Batch 50, Loss: 1.6675
+Batch 60, Loss: 1.8041
+Batch 70, Loss: 1.4821
+Batch 80, Loss: 1.5991
+Batch 90, Loss: 1.4990
+Epoch: 10 PixAcc: 0.6849, mIoU: 0.0410
+Batch 0, Loss: 1.7918
+Batch 10, Loss: 1.7537
+Batch 20, Loss: 1.5511
+Batch 30, Loss: 1.6068
+Batch 40, Loss: 1.8251
+Batch 50, Loss: 1.7300
+Batch 60, Loss: 1.4727
+Batch 70, Loss: 1.6484
+Batch 80, Loss: 1.7004
+Batch 90, Loss: 1.7647
+Epoch: 11 PixAcc: 0.6855, mIoU: 0.0375
+Batch 0, Loss: 1.5538
+Batch 10, Loss: 1.6848
+Batch 20, Loss: 1.2748
+Batch 30, Loss: 1.6366
+Batch 40, Loss: 1.6419
+Batch 50, Loss: 1.5969
+Batch 60, Loss: 1.4765
+Batch 70, Loss: 1.4980
+Batch 80, Loss: 1.8143
+Batch 90, Loss: 1.9516
+Epoch: 12 PixAcc: 0.6844, mIoU: 0.0392
+Batch 0, Loss: 1.6220
+Batch 10, Loss: 1.8074
+Batch 20, Loss: 1.6219
+Batch 30, Loss: 1.5979
+Batch 40, Loss: 1.7039
+Batch 50, Loss: 1.6906
+Batch 60, Loss: 1.6419
+Batch 70, Loss: 1.5987
+Batch 80, Loss: 1.9493
+Batch 90, Loss: 1.6180
+Epoch: 13 PixAcc: 0.6846, mIoU: 0.0387
+Batch 0, Loss: 1.8750
+Batch 10, Loss: 1.8390
+Batch 20, Loss: 1.9010
+Batch 30, Loss: 1.6845
+Batch 40, Loss: 1.3579
+Batch 50, Loss: 2.0185
+Batch 60, Loss: 1.7965
+Batch 70, Loss: 1.6421
+Batch 80, Loss: 1.2016
+Batch 90, Loss: 1.4627
+Epoch: 14 PixAcc: 0.6835, mIoU: 0.0403
+Batch 0, Loss: 1.4699
+Batch 10, Loss: 1.4013
+Batch 20, Loss: 1.2927
+Batch 30, Loss: 1.8143
+Batch 40, Loss: 1.5962
+Batch 50, Loss: 1.8161
+Batch 60, Loss: 1.4537
+Batch 70, Loss: 1.5489
+Batch 80, Loss: 1.8403
+Batch 90, Loss: 1.8675
+Epoch: 15 PixAcc: 0.6849, mIoU: 0.0401
+Batch 0, Loss: 1.6959
+Batch 10, Loss: 1.3861
+Batch 20, Loss: 1.1965
+Batch 30, Loss: 2.0327
+Batch 40, Loss: 1.5831
+Batch 50, Loss: 1.3810
+Batch 60, Loss: 2.2967
+Batch 70, Loss: 1.7777
+Batch 80, Loss: 1.5875
+Batch 90, Loss: 1.6754
+Epoch: 16 PixAcc: 0.6856, mIoU: 0.0368
+Batch 0, Loss: 1.4760
+Batch 10, Loss: 1.3783
+Batch 20, Loss: 1.4060
+Batch 30, Loss: 1.3928
+Batch 40, Loss: 1.5318
+Batch 50, Loss: 1.0925
+Batch 60, Loss: 1.7209
+Batch 70, Loss: 1.0817
+Batch 80, Loss: 1.2554
+Batch 90, Loss: 1.2183
+Epoch: 17 PixAcc: 0.6860, mIoU: 0.0369
+Batch 0, Loss: 1.8822
+Batch 10, Loss: 1.6582
+Batch 20, Loss: 1.5118
+Batch 30, Loss: 1.6805
+Batch 40, Loss: 1.9770
+Batch 50, Loss: 1.7045
+Batch 60, Loss: 1.5057
+Batch 70, Loss: 1.2881
+Batch 80, Loss: 1.5225
+Batch 90, Loss: 1.8335
+Epoch: 18 PixAcc: 0.6861, mIoU: 0.0391
+Batch 0, Loss: 0.9854
+Batch 10, Loss: 1.2569
+Batch 20, Loss: 1.7932
+Batch 30, Loss: 1.3405
+Batch 40, Loss: 1.1286
+Batch 50, Loss: 1.4361
+Batch 60, Loss: 1.4707
+Batch 70, Loss: 1.4003
+Batch 80, Loss: 1.3766
+Batch 90, Loss: 1.6665
+Epoch: 19 PixAcc: 0.6861, mIoU: 0.0383
+Batch 0, Loss: 1.5947
+Batch 10, Loss: 1.5175
+Batch 20, Loss: 1.5612
+Batch 30, Loss: 1.5626
+Batch 40, Loss: 1.3668
+Batch 50, Loss: 1.2105
+Batch 60, Loss: 1.8922
+Batch 70, Loss: 1.2028
+Batch 80, Loss: 1.8081
+Batch 90, Loss: 1.4413
+Epoch: 20 PixAcc: 0.6864, mIoU: 0.0364
+Batch 0, Loss: 2.0611
+Batch 10, Loss: 1.5909
+Batch 20, Loss: 1.8031
+Batch 30, Loss: 1.5803
+Batch 40, Loss: 1.2702
+Batch 50, Loss: 1.4332
+Batch 60, Loss: 1.7815
+Batch 70, Loss: 1.2976
+Batch 80, Loss: 1.7460
+Batch 90, Loss: 1.7285
+Epoch: 21 PixAcc: 0.6858, mIoU: 0.0346
+Batch 0, Loss: 1.4350
+Batch 10, Loss: 1.2436
+Batch 20, Loss: 2.0750
+Batch 30, Loss: 1.5139
+Batch 40, Loss: 1.6727
+Batch 50, Loss: 1.4677
+Batch 60, Loss: 1.9891
+Batch 70, Loss: 1.3519
+Batch 80, Loss: 1.3148
+Batch 90, Loss: 1.6369
+Epoch: 22 PixAcc: 0.6878, mIoU: 0.0408
+Batch 0, Loss: 1.7972
+Batch 10, Loss: 1.5734
+Batch 20, Loss: 1.5621
+Batch 30, Loss: 1.5360
+Batch 40, Loss: 1.8111
+Batch 50, Loss: 1.3726
+Batch 60, Loss: 1.5772
+Batch 70, Loss: 1.1858
+Batch 80, Loss: 1.5128
+Batch 90, Loss: 1.6110
+Epoch: 23 PixAcc: 0.6864, mIoU: 0.0397
+Batch 0, Loss: 1.6670
+Batch 10, Loss: 1.7138
+Batch 20, Loss: 1.6753
+Batch 30, Loss: 1.5873
+Batch 40, Loss: 1.8229
+Batch 50, Loss: 1.7107
+Batch 60, Loss: 1.7232
+Batch 70, Loss: 1.5877
+Batch 80, Loss: 1.3363
+Batch 90, Loss: 1.4704
+[1;32mBetter IoU Get![0m
+Epoch: 24 PixAcc: 0.6891, mIoU: 0.0465
+Batch 0, Loss: 1.2348
+Batch 10, Loss: 1.5450
+Batch 20, Loss: 1.5996
+Batch 30, Loss: 1.5952
+Batch 40, Loss: 1.1288
+Batch 50, Loss: 1.1251
+Batch 60, Loss: 1.5792
+Batch 70, Loss: 1.6666
+Batch 80, Loss: 1.5552
+Batch 90, Loss: 1.3102
+[1;32mBetter IoU Get![0m
+Epoch: 25 PixAcc: 0.6896, mIoU: 0.0506
+Batch 0, Loss: 1.5142
+Batch 10, Loss: 1.5501
+Batch 20, Loss: 1.9414
+Batch 30, Loss: 1.5640
+Batch 40, Loss: 0.9772
+Batch 50, Loss: 1.6414
+Batch 60, Loss: 1.3299
+Batch 70, Loss: 1.9238
+Batch 80, Loss: 1.4462
+Batch 90, Loss: 1.4934
+Epoch: 26 PixAcc: 0.6895, mIoU: 0.0467
+Batch 0, Loss: 1.6036
+Batch 10, Loss: 0.9492
+Batch 20, Loss: 1.5731
+Batch 30, Loss: 1.3204
+Batch 40, Loss: 1.4977
+Batch 50, Loss: 1.8219
+Batch 60, Loss: 1.2895
+Batch 70, Loss: 1.1192
+Batch 80, Loss: 1.4027
+Batch 90, Loss: 1.7634
+Epoch: 27 PixAcc: 0.6885, mIoU: 0.0405
+Batch 0, Loss: 1.5407
+Batch 10, Loss: 1.2143
+Batch 20, Loss: 1.5105
+Batch 30, Loss: 1.2342
+Batch 40, Loss: 1.4855
+Batch 50, Loss: 1.8027
+Batch 60, Loss: 1.1296
+Batch 70, Loss: 1.4515
+Batch 80, Loss: 0.9903
+Batch 90, Loss: 1.4207
+Epoch: 28 PixAcc: 0.6850, mIoU: 0.0452
+Batch 0, Loss: 1.2332
+Batch 10, Loss: 1.3686
+Batch 20, Loss: 1.5035
+Batch 30, Loss: 1.4318
+Batch 40, Loss: 1.3168
+Batch 50, Loss: 1.2998
+Batch 60, Loss: 1.3559
+Batch 70, Loss: 1.6479
+Batch 80, Loss: 1.2472
+Batch 90, Loss: 1.9081
+[1;32mBetter IoU Get![0m
+Epoch: 29 PixAcc: 0.6950, mIoU: 0.0545
+Batch 0, Loss: 1.3315
+Batch 10, Loss: 1.4682
+Batch 20, Loss: 1.3463
+Batch 30, Loss: 1.2553
+Batch 40, Loss: 1.3034
+Batch 50, Loss: 1.4396
+Batch 60, Loss: 1.3787
+Batch 70, Loss: 1.4417
+Batch 80, Loss: 1.4375
+Batch 90, Loss: 1.2948
+Epoch: 30 PixAcc: 0.6927, mIoU: 0.0474
+Batch 0, Loss: 1.7934
+Batch 10, Loss: 1.1663
+Batch 20, Loss: 1.5604
+Batch 30, Loss: 1.6689
+Batch 40, Loss: 1.3530
+Batch 50, Loss: 1.4204
+Batch 60, Loss: 0.8432
+Batch 70, Loss: 1.0068
+Batch 80, Loss: 1.5014
+Batch 90, Loss: 1.6396
+Epoch: 31 PixAcc: 0.6914, mIoU: 0.0474
+Batch 0, Loss: 1.8480
+Batch 10, Loss: 1.2288
+Batch 20, Loss: 1.1925
+Batch 30, Loss: 1.0394
+Batch 40, Loss: 1.1883
+Batch 50, Loss: 1.3343
+Batch 60, Loss: 1.5811
+Batch 70, Loss: 1.8853
+Batch 80, Loss: 1.2481
+Batch 90, Loss: 1.2172
+[1;32mBetter IoU Get![0m
+Epoch: 32 PixAcc: 0.6955, mIoU: 0.0558
+Batch 0, Loss: 1.7440
+Batch 10, Loss: 1.5469
+Batch 20, Loss: 1.3445
+Batch 30, Loss: 1.4361
+Batch 40, Loss: 1.1313
+Batch 50, Loss: 1.2391
+Batch 60, Loss: 1.2596
+Batch 70, Loss: 1.3298
+Batch 80, Loss: 1.9679
+Batch 90, Loss: 1.5977
+Epoch: 33 PixAcc: 0.6919, mIoU: 0.0484
+Batch 0, Loss: 1.1311
+Batch 10, Loss: 1.3029
+Batch 20, Loss: 1.6214
+Batch 30, Loss: 1.3199
+Batch 40, Loss: 1.7972
+Batch 50, Loss: 1.8511
+Batch 60, Loss: 1.4184
+Batch 70, Loss: 1.0115
+Batch 80, Loss: 1.4234
+Batch 90, Loss: 1.1271
+Epoch: 34 PixAcc: 0.6987, mIoU: 0.0549
+Batch 0, Loss: 1.5298
+Batch 10, Loss: 1.3807
+Batch 20, Loss: 0.9131
+Batch 30, Loss: 1.1987
+Batch 40, Loss: 1.3687
+Batch 50, Loss: 1.3988
+Batch 60, Loss: 0.9797
+Batch 70, Loss: 1.0604
+Batch 80, Loss: 1.5189
+Batch 90, Loss: 1.1821
+Epoch: 35 PixAcc: 0.6930, mIoU: 0.0551
+Batch 0, Loss: 1.0729
+Batch 10, Loss: 2.2008
+Batch 20, Loss: 1.7521
+Batch 30, Loss: 1.2416
+Batch 40, Loss: 1.6992
+Batch 50, Loss: 1.5436
+Batch 60, Loss: 1.3815
+Batch 70, Loss: 1.9829
+Batch 80, Loss: 1.5612
+Batch 90, Loss: 1.6820
+Epoch: 36 PixAcc: 0.6948, mIoU: 0.0556
+Batch 0, Loss: 2.0634
+Batch 10, Loss: 1.3866
+Batch 20, Loss: 1.6079
+Batch 30, Loss: 1.6668
+Batch 40, Loss: 1.2929
+Batch 50, Loss: 1.5327
+Batch 60, Loss: 1.7380
+Batch 70, Loss: 0.9941
+Batch 80, Loss: 1.1135
+Batch 90, Loss: 1.1552
+Epoch: 37 PixAcc: 0.6947, mIoU: 0.0498
+Batch 0, Loss: 1.2616
+Batch 10, Loss: 1.4170
+Batch 20, Loss: 1.6019
+Batch 30, Loss: 1.0702
+Batch 40, Loss: 1.3484
+Batch 50, Loss: 1.3652
+Batch 60, Loss: 1.5590
+Batch 70, Loss: 1.6794
+Batch 80, Loss: 1.5811
+Batch 90, Loss: 1.8296
+[1;32mBetter IoU Get![0m
+Epoch: 38 PixAcc: 0.6979, mIoU: 0.0568
+Batch 0, Loss: 1.5467
+Batch 10, Loss: 1.5776
+Batch 20, Loss: 1.0314
+Batch 30, Loss: 1.6458
+Batch 40, Loss: 0.9637
+Batch 50, Loss: 1.2366
+Batch 60, Loss: 1.7202
+Batch 70, Loss: 1.7347
+Batch 80, Loss: 1.4271
+Batch 90, Loss: 1.0198
+Epoch: 39 PixAcc: 0.6958, mIoU: 0.0566
+Batch 0, Loss: 1.2983
+Batch 10, Loss: 1.2272
+Batch 20, Loss: 1.1283
+Batch 30, Loss: 1.0294
+Batch 40, Loss: 1.1135
+Batch 50, Loss: 1.4658
+Batch 60, Loss: 1.1049
+Batch 70, Loss: 1.4310
+Batch 80, Loss: 1.4093
+Batch 90, Loss: 1.1541
+[1;32mBetter IoU Get![0m
+Epoch: 40 PixAcc: 0.6983, mIoU: 0.0647
+Batch 0, Loss: 0.9529
+Batch 10, Loss: 1.5097
+Batch 20, Loss: 1.6157
+Batch 30, Loss: 1.7079
+Batch 40, Loss: 1.3727
+Batch 50, Loss: 1.5366
+Batch 60, Loss: 1.2095
+Batch 70, Loss: 1.0810
+Batch 80, Loss: 1.6246
+Batch 90, Loss: 1.2946
+Epoch: 41 PixAcc: 0.6976, mIoU: 0.0545
+Batch 0, Loss: 1.0373
+Batch 10, Loss: 1.0408
+Batch 20, Loss: 1.0184
+Batch 30, Loss: 1.2170
+Batch 40, Loss: 1.1581
+Batch 50, Loss: 1.1631
+Batch 60, Loss: 1.4091
+Batch 70, Loss: 1.1616
+Batch 80, Loss: 1.2670
+Batch 90, Loss: 2.0893
+Epoch: 42 PixAcc: 0.6960, mIoU: 0.0618
+Batch 0, Loss: 1.4874
+Batch 10, Loss: 1.4339
+Batch 20, Loss: 1.5936
+Batch 30, Loss: 1.7307
+Batch 40, Loss: 1.3352
+Batch 50, Loss: 1.0900
+Batch 60, Loss: 1.4310
+Batch 70, Loss: 1.5184
+Batch 80, Loss: 1.6066
+Batch 90, Loss: 1.4918
+Epoch: 43 PixAcc: 0.6983, mIoU: 0.0612
+Batch 0, Loss: 1.5174
+Batch 10, Loss: 1.2241
+Batch 20, Loss: 1.1008
+Batch 30, Loss: 1.3771
+Batch 40, Loss: 1.2869
+Batch 50, Loss: 1.2574
+Batch 60, Loss: 1.2813
+Batch 70, Loss: 1.3690
+Batch 80, Loss: 1.7076
+Batch 90, Loss: 1.4270
+Epoch: 44 PixAcc: 0.7005, mIoU: 0.0581
+Batch 0, Loss: 1.3344
+Batch 10, Loss: 1.2825
+Batch 20, Loss: 1.9572
+Batch 30, Loss: 1.0639
+Batch 40, Loss: 1.1134
+Batch 50, Loss: 1.2776
+Batch 60, Loss: 1.3963
+Batch 70, Loss: 1.6061
+Batch 80, Loss: 1.5953
+Batch 90, Loss: 1.1233
+Epoch: 45 PixAcc: 0.7001, mIoU: 0.0593
+Batch 0, Loss: 1.6790
+Batch 10, Loss: 0.9790
+Batch 20, Loss: 1.2200
+Batch 30, Loss: 1.2918
+Batch 40, Loss: 1.0687
+Batch 50, Loss: 1.2080
+Batch 60, Loss: 1.0095
+Batch 70, Loss: 1.7419
+Batch 80, Loss: 1.3380
+Batch 90, Loss: 1.7258
+Epoch: 46 PixAcc: 0.7038, mIoU: 0.0625
+Batch 0, Loss: 1.6757
+Batch 10, Loss: 0.9840
+Batch 20, Loss: 1.4031
+Batch 30, Loss: 1.3979
+Batch 40, Loss: 1.5415
+Batch 50, Loss: 1.2796
+Batch 60, Loss: 1.3945
+Batch 70, Loss: 1.5823
+Batch 80, Loss: 0.9985
+Batch 90, Loss: 1.5266
+[1;32mBetter IoU Get![0m
+Epoch: 47 PixAcc: 0.7036, mIoU: 0.0676
+Batch 0, Loss: 1.4722
+Batch 10, Loss: 1.0253
+Batch 20, Loss: 1.2157
+Batch 30, Loss: 1.2486
+Batch 40, Loss: 1.0038
+Batch 50, Loss: 1.2105
+Batch 60, Loss: 1.4629
+Batch 70, Loss: 1.8199
+Batch 80, Loss: 1.0371
+Batch 90, Loss: 1.5624
+Epoch: 48 PixAcc: 0.7069, mIoU: 0.0668
+Batch 0, Loss: 0.8817
+Batch 10, Loss: 1.6090
+Batch 20, Loss: 1.5192
+Batch 30, Loss: 1.1149
+Batch 40, Loss: 1.3384
+Batch 50, Loss: 1.2282
+Batch 60, Loss: 1.0094
+Batch 70, Loss: 1.2467
+Batch 80, Loss: 1.0668
+Batch 90, Loss: 1.2138
+Epoch: 49 PixAcc: 0.7017, mIoU: 0.0580
+Batch 0, Loss: 1.1095
+Batch 10, Loss: 1.4841
+Batch 20, Loss: 1.4568
+Batch 30, Loss: 1.7014
+Batch 40, Loss: 1.3813
+Batch 50, Loss: 1.4300
+Batch 60, Loss: 0.9789
+Batch 70, Loss: 1.6782
+Batch 80, Loss: 1.2032
+Batch 90, Loss: 1.3080
+Epoch: 50 PixAcc: 0.7074, mIoU: 0.0672
+Batch 0, Loss: 1.1944
+Batch 10, Loss: 1.3803
+Batch 20, Loss: 1.3383
+Batch 30, Loss: 1.1648
+Batch 40, Loss: 1.1521
+Batch 50, Loss: 1.6727
+Batch 60, Loss: 1.2211
+Batch 70, Loss: 1.8543
+Batch 80, Loss: 1.1119
+Batch 90, Loss: 1.1672
+Epoch: 51 PixAcc: 0.7039, mIoU: 0.0643
+Batch 0, Loss: 1.3140
+Batch 10, Loss: 1.4726
+Batch 20, Loss: 1.2627
+Batch 30, Loss: 1.3238
+Batch 40, Loss: 1.6761
+Batch 50, Loss: 1.4402
+Batch 60, Loss: 1.1104
+Batch 70, Loss: 1.6458
+Batch 80, Loss: 1.3792
+Batch 90, Loss: 0.8634
+[1;32mBetter IoU Get![0m
+Epoch: 52 PixAcc: 0.7021, mIoU: 0.0709
+Batch 0, Loss: 1.2261
+Batch 10, Loss: 1.4033
+Batch 20, Loss: 1.2736
+Batch 30, Loss: 1.3588
+Batch 40, Loss: 1.0943
+Batch 50, Loss: 1.4059
+Batch 60, Loss: 1.1731
+Batch 70, Loss: 1.2986
+Batch 80, Loss: 1.2541
+Batch 90, Loss: 1.0529
+[1;32mBetter IoU Get![0m
+Epoch: 53 PixAcc: 0.7073, mIoU: 0.0760
+Batch 0, Loss: 1.2043
+Batch 10, Loss: 0.8918
+Batch 20, Loss: 1.0197
+Batch 30, Loss: 0.9135
+Batch 40, Loss: 1.6692
+Batch 50, Loss: 1.0892
+Batch 60, Loss: 0.9551
+Batch 70, Loss: 1.2379
+Batch 80, Loss: 1.3301
+Batch 90, Loss: 1.4154
+Epoch: 54 PixAcc: 0.7004, mIoU: 0.0615
+Batch 0, Loss: 1.5549
+Batch 10, Loss: 1.4335
+Batch 20, Loss: 1.3110
+Batch 30, Loss: 1.5006
+Batch 40, Loss: 1.3919
+Batch 50, Loss: 1.6585
+Batch 60, Loss: 1.4614
+Batch 70, Loss: 1.3596
+Batch 80, Loss: 1.4477
+Batch 90, Loss: 0.9762
+Epoch: 55 PixAcc: 0.7066, mIoU: 0.0623
+Batch 0, Loss: 1.4814
+Batch 10, Loss: 0.9778
+Batch 20, Loss: 1.4919
+Batch 30, Loss: 1.2683
+Batch 40, Loss: 1.0424
+Batch 50, Loss: 1.5143
+Batch 60, Loss: 1.0116
+Batch 70, Loss: 1.2712
+Batch 80, Loss: 0.9323
+Batch 90, Loss: 1.2828
+Epoch: 56 PixAcc: 0.7021, mIoU: 0.0682
+Batch 0, Loss: 1.2744
+Batch 10, Loss: 1.3847
+Batch 20, Loss: 1.0069
+Batch 30, Loss: 1.9350
+Batch 40, Loss: 1.1084
+Batch 50, Loss: 1.3792
+Batch 60, Loss: 1.1491
+Batch 70, Loss: 1.2925
+Batch 80, Loss: 1.2866
+Batch 90, Loss: 1.3593
+Epoch: 57 PixAcc: 0.7070, mIoU: 0.0716
+Batch 0, Loss: 1.5271
+Batch 10, Loss: 1.3769
+Batch 20, Loss: 1.1228
+Batch 30, Loss: 1.2872
+Batch 40, Loss: 1.1940
+Batch 50, Loss: 1.1981
+Batch 60, Loss: 1.4322
+Batch 70, Loss: 1.3233
+Batch 80, Loss: 1.0682
+Batch 90, Loss: 1.0080
+Epoch: 58 PixAcc: 0.7100, mIoU: 0.0714
+Batch 0, Loss: 1.1340
+Batch 10, Loss: 1.3685
+Batch 20, Loss: 0.9856
+Batch 30, Loss: 1.1753
+Batch 40, Loss: 1.4209
+Batch 50, Loss: 1.3684
+Batch 60, Loss: 1.0842
+Batch 70, Loss: 0.9962
+Batch 80, Loss: 1.2999
+Batch 90, Loss: 1.4242
+Epoch: 59 PixAcc: 0.7114, mIoU: 0.0675
+Batch 0, Loss: 1.0295
+Batch 10, Loss: 1.2452
+Batch 20, Loss: 1.2179
+Batch 30, Loss: 1.1559
+Batch 40, Loss: 1.4155
+Batch 50, Loss: 1.3740
+Batch 60, Loss: 1.0786
+Batch 70, Loss: 0.9903
+Batch 80, Loss: 1.1455
+Batch 90, Loss: 1.1698
+Epoch: 60 PixAcc: 0.7092, mIoU: 0.0730
+Batch 0, Loss: 1.1092
+Batch 10, Loss: 1.3214
+Batch 20, Loss: 1.1101
+Batch 30, Loss: 1.1266
+Batch 40, Loss: 1.3601
+Batch 50, Loss: 1.1078
+Batch 60, Loss: 0.9829
+Batch 70, Loss: 1.2711
+Batch 80, Loss: 1.5838
+Batch 90, Loss: 1.5750
+[1;32mBetter IoU Get![0m
+Epoch: 61 PixAcc: 0.7103, mIoU: 0.0777
+Batch 0, Loss: 1.5711
+Batch 10, Loss: 1.3680
+Batch 20, Loss: 1.4682
+Batch 30, Loss: 0.8501
+Batch 40, Loss: 1.8867
+Batch 50, Loss: 1.0681
+Batch 60, Loss: 1.6043
+Batch 70, Loss: 1.2713
+Batch 80, Loss: 0.9503
+Batch 90, Loss: 1.2061
+Epoch: 62 PixAcc: 0.7126, mIoU: 0.0733
+Batch 0, Loss: 1.5418
+Batch 10, Loss: 1.2161
+Batch 20, Loss: 1.2459
+Batch 30, Loss: 1.4592
+Batch 40, Loss: 1.3797
+Batch 50, Loss: 1.2374
+Batch 60, Loss: 0.9708
+Batch 70, Loss: 1.3254
+Batch 80, Loss: 0.9521
+Batch 90, Loss: 0.9317
+Epoch: 63 PixAcc: 0.7144, mIoU: 0.0749
+Batch 0, Loss: 1.0505
+Batch 10, Loss: 1.3678
+Batch 20, Loss: 1.2809
+Batch 30, Loss: 0.9387
+Batch 40, Loss: 1.2458
+Batch 50, Loss: 1.0856
+Batch 60, Loss: 1.0881
+Batch 70, Loss: 1.2325
+Batch 80, Loss: 1.2658
+Batch 90, Loss: 1.3405
+Epoch: 64 PixAcc: 0.7012, mIoU: 0.0593
+Batch 0, Loss: 1.0805
+Batch 10, Loss: 1.1793
+Batch 20, Loss: 1.0525
+Batch 30, Loss: 0.7546
+Batch 40, Loss: 0.9169
+Batch 50, Loss: 1.0819
+Batch 60, Loss: 1.5127
+Batch 70, Loss: 1.3576
+Batch 80, Loss: 1.2535
+Batch 90, Loss: 1.4763
+[1;32mBetter IoU Get![0m
+Epoch: 65 PixAcc: 0.7122, mIoU: 0.0781
+Batch 0, Loss: 1.1531
+Batch 10, Loss: 1.0586
+Batch 20, Loss: 1.0290
+Batch 30, Loss: 0.9859
+Batch 40, Loss: 1.5415
+Batch 50, Loss: 1.6542
+Batch 60, Loss: 1.4837
+Batch 70, Loss: 1.1168
+Batch 80, Loss: 1.5974
+Batch 90, Loss: 1.2531
+Epoch: 66 PixAcc: 0.7104, mIoU: 0.0714
+Batch 0, Loss: 1.2220
+Batch 10, Loss: 0.9782
+Batch 20, Loss: 1.0985
+Batch 30, Loss: 0.9819
+Batch 40, Loss: 1.3978
+Batch 50, Loss: 1.1707
+Batch 60, Loss: 0.9673
+Batch 70, Loss: 1.0482
+Batch 80, Loss: 1.5837
+Batch 90, Loss: 1.2941
+Epoch: 67 PixAcc: 0.7128, mIoU: 0.0778
+Batch 0, Loss: 0.8859
+Batch 10, Loss: 1.3114
+Batch 20, Loss: 1.2902
+Batch 30, Loss: 0.9078
+Batch 40, Loss: 1.0982
+Batch 50, Loss: 1.6040
+Batch 60, Loss: 1.0800
+Batch 70, Loss: 1.3100
+Batch 80, Loss: 0.9174
+Batch 90, Loss: 1.1520
+[1;32mBetter IoU Get![0m
+Epoch: 68 PixAcc: 0.7132, mIoU: 0.0867
+Batch 0, Loss: 1.2090
+Batch 10, Loss: 1.2925
+Batch 20, Loss: 1.1585
+Batch 30, Loss: 1.1339
+Batch 40, Loss: 1.0786
+Batch 50, Loss: 1.3461
+Batch 60, Loss: 1.0460
+Batch 70, Loss: 1.1446
+Batch 80, Loss: 1.3497
+Batch 90, Loss: 1.0800
+Epoch: 69 PixAcc: 0.7140, mIoU: 0.0819
+Batch 0, Loss: 0.9811
+Batch 10, Loss: 1.2545
+Batch 20, Loss: 1.2521
+Batch 30, Loss: 1.1133
+Batch 40, Loss: 1.2783
+Batch 50, Loss: 0.9491
+Batch 60, Loss: 0.9877
+Batch 70, Loss: 1.4015
+Batch 80, Loss: 0.9172
+Batch 90, Loss: 1.6115
+Epoch: 70 PixAcc: 0.7077, mIoU: 0.0798
+Batch 0, Loss: 1.4343
+Batch 10, Loss: 1.6970
+Batch 20, Loss: 0.8806
+Batch 30, Loss: 1.0785
+Batch 40, Loss: 0.8987
+Batch 50, Loss: 1.2833
+Batch 60, Loss: 1.0503
+Batch 70, Loss: 1.3239
+Batch 80, Loss: 1.6996
+Batch 90, Loss: 1.0276
+[1;32mBetter IoU Get![0m
+Epoch: 71 PixAcc: 0.7167, mIoU: 0.0874
+Batch 0, Loss: 1.6894
+Batch 10, Loss: 1.4290
+Batch 20, Loss: 0.8371
+Batch 30, Loss: 0.9005
+Batch 40, Loss: 1.4771
+Batch 50, Loss: 1.2304
+Batch 60, Loss: 1.3047
+Batch 70, Loss: 1.2237
+Batch 80, Loss: 1.6518
+Batch 90, Loss: 0.7659
+Epoch: 72 PixAcc: 0.7213, mIoU: 0.0836
+Batch 0, Loss: 1.2236
+Batch 10, Loss: 0.9719
+Batch 20, Loss: 0.8829
+Batch 30, Loss: 1.1817
+Batch 40, Loss: 1.0834
+Batch 50, Loss: 1.7051
+Batch 60, Loss: 1.2107
+Batch 70, Loss: 1.0619
+Batch 80, Loss: 1.5081
+Batch 90, Loss: 1.0683
+Epoch: 73 PixAcc: 0.7111, mIoU: 0.0739
+Batch 0, Loss: 1.1624
+Batch 10, Loss: 1.3263
+Batch 20, Loss: 1.1029
+Batch 30, Loss: 1.0481
+Batch 40, Loss: 1.1829
+Batch 50, Loss: 1.0505
+Batch 60, Loss: 1.8958
+Batch 70, Loss: 0.9278
+Batch 80, Loss: 1.1124
+Batch 90, Loss: 1.1244
+Epoch: 74 PixAcc: 0.7177, mIoU: 0.0776
+Batch 0, Loss: 1.2267
+Batch 10, Loss: 1.0732
+Batch 20, Loss: 1.3102
+Batch 30, Loss: 1.3276
+Batch 40, Loss: 0.9241
+Batch 50, Loss: 1.6926
+Batch 60, Loss: 0.9128
+Batch 70, Loss: 1.3770
+Batch 80, Loss: 1.0882
+Batch 90, Loss: 1.0428
+Epoch: 75 PixAcc: 0.7170, mIoU: 0.0727
+Batch 0, Loss: 1.0682
+Batch 10, Loss: 1.4150
+Batch 20, Loss: 1.1909
+Batch 30, Loss: 1.0055
+Batch 40, Loss: 1.2393
+Batch 50, Loss: 1.0221
+Batch 60, Loss: 1.1511
+Batch 70, Loss: 1.1576
+Batch 80, Loss: 1.3990
+Batch 90, Loss: 0.8914
+Epoch: 76 PixAcc: 0.7174, mIoU: 0.0858
+Batch 0, Loss: 1.8323
+Batch 10, Loss: 0.9465
+Batch 20, Loss: 1.0468
+Batch 30, Loss: 1.2959
+Batch 40, Loss: 1.5689
+Batch 50, Loss: 0.9988
+Batch 60, Loss: 1.1491
+Batch 70, Loss: 1.3202
+Batch 80, Loss: 0.9326
+Batch 90, Loss: 1.2914
+[1;32mBetter IoU Get![0m
+Epoch: 77 PixAcc: 0.7177, mIoU: 0.0881
+Batch 0, Loss: 1.0226
+Batch 10, Loss: 1.1296
+Batch 20, Loss: 1.0150
+Batch 30, Loss: 1.4518
+Batch 40, Loss: 1.3255
+Batch 50, Loss: 1.2867
+Batch 60, Loss: 0.9037
+Batch 70, Loss: 1.4021
+Batch 80, Loss: 1.3772
+Batch 90, Loss: 1.4423
+Epoch: 78 PixAcc: 0.7221, mIoU: 0.0855
+Batch 0, Loss: 0.8884
+Batch 10, Loss: 0.8945
+Batch 20, Loss: 1.2157
+Batch 30, Loss: 0.9806
+Batch 40, Loss: 1.4038
+Batch 50, Loss: 1.2111
+Batch 60, Loss: 1.3221
+Batch 70, Loss: 1.1789
+Batch 80, Loss: 1.4241
+Batch 90, Loss: 0.7567
+Epoch: 79 PixAcc: 0.7129, mIoU: 0.0831
+Batch 0, Loss: 1.2991
+Batch 10, Loss: 1.0002
+Batch 20, Loss: 1.1044
+Batch 30, Loss: 1.1972
+Batch 40, Loss: 0.9618
+Batch 50, Loss: 1.3047
+Batch 60, Loss: 1.3293
+Batch 70, Loss: 1.3933
+Batch 80, Loss: 1.2431
+Batch 90, Loss: 1.4317
+Epoch: 80 PixAcc: 0.7165, mIoU: 0.0807
+Batch 0, Loss: 0.6835
+Batch 10, Loss: 1.2286
+Batch 20, Loss: 1.7927
+Batch 30, Loss: 1.3412
+Batch 40, Loss: 1.2828
+Batch 50, Loss: 0.9909
+Batch 60, Loss: 1.4688
+Batch 70, Loss: 1.2213
+Batch 80, Loss: 1.0099
+Batch 90, Loss: 1.0933
+[1;32mBetter IoU Get![0m
+Epoch: 81 PixAcc: 0.7240, mIoU: 0.0930
+Batch 0, Loss: 1.3376
+Batch 10, Loss: 1.0962
+Batch 20, Loss: 0.7381
+Batch 30, Loss: 1.2216
+Batch 40, Loss: 0.8418
+Batch 50, Loss: 0.9802
+Batch 60, Loss: 1.1724
+Batch 70, Loss: 1.2084
+Batch 80, Loss: 1.3760
+Batch 90, Loss: 1.3451
+Epoch: 82 PixAcc: 0.7151, mIoU: 0.0698
+Batch 0, Loss: 1.0915
+Batch 10, Loss: 1.0815
+Batch 20, Loss: 1.6484
+Batch 30, Loss: 1.1539
+Batch 40, Loss: 1.3414
+Batch 50, Loss: 1.1435
+Batch 60, Loss: 1.0914
+Batch 70, Loss: 1.1479
+Batch 80, Loss: 0.8819
+Batch 90, Loss: 1.1674
+Epoch: 83 PixAcc: 0.7179, mIoU: 0.0744
+Batch 0, Loss: 1.0624
+Batch 10, Loss: 0.8974
+Batch 20, Loss: 1.5540
+Batch 30, Loss: 0.9535
+Batch 40, Loss: 0.9192
+Batch 50, Loss: 1.3809
+Batch 60, Loss: 1.1992
+Batch 70, Loss: 1.0260
+Batch 80, Loss: 1.0922
+Batch 90, Loss: 1.0784
+[1;32mBetter IoU Get![0m
+Epoch: 84 PixAcc: 0.7237, mIoU: 0.0944
+Batch 0, Loss: 1.0064
+Batch 10, Loss: 1.1916
+Batch 20, Loss: 1.5521
+Batch 30, Loss: 1.1644
+Batch 40, Loss: 0.8150
+Batch 50, Loss: 1.2346
+Batch 60, Loss: 1.1646
+Batch 70, Loss: 1.2242
+Batch 80, Loss: 1.1209
+Batch 90, Loss: 1.1183
+[1;32mBetter IoU Get![0m
+Epoch: 85 PixAcc: 0.7266, mIoU: 0.0971
+Batch 0, Loss: 1.1346
+Batch 10, Loss: 1.0288
+Batch 20, Loss: 1.1209
+Batch 30, Loss: 1.1335
+Batch 40, Loss: 1.2103
+Batch 50, Loss: 1.0749
+Batch 60, Loss: 1.1176
+Batch 70, Loss: 1.1971
+Batch 80, Loss: 0.9862
+Batch 90, Loss: 1.2521
+Epoch: 86 PixAcc: 0.7238, mIoU: 0.0938
+Batch 0, Loss: 1.2166
+Batch 10, Loss: 1.1006
+Batch 20, Loss: 1.3441
+Batch 30, Loss: 1.4732
+Batch 40, Loss: 1.3309
+Batch 50, Loss: 0.9840
+Batch 60, Loss: 1.4883
+Batch 70, Loss: 1.2629
+Batch 80, Loss: 1.3302
+Batch 90, Loss: 1.1933
+Epoch: 87 PixAcc: 0.7241, mIoU: 0.0957
+Batch 0, Loss: 1.2967
+Batch 10, Loss: 0.9839
+Batch 20, Loss: 0.9207
+Batch 30, Loss: 1.0657
+Batch 40, Loss: 0.9441
+Batch 50, Loss: 1.3039
+Batch 60, Loss: 0.9927
+Batch 70, Loss: 1.3040
+Batch 80, Loss: 1.1548
+Batch 90, Loss: 1.2148
+Epoch: 88 PixAcc: 0.7179, mIoU: 0.0902
+Batch 0, Loss: 1.4158
+Batch 10, Loss: 0.8584
+Batch 20, Loss: 1.0465
+Batch 30, Loss: 0.7830
+Batch 40, Loss: 0.8792
+Batch 50, Loss: 0.9390
+Batch 60, Loss: 1.5564
+Batch 70, Loss: 0.7796
+Batch 80, Loss: 1.1093
+Batch 90, Loss: 0.8754
+[1;32mBetter IoU Get![0m
+Epoch: 89 PixAcc: 0.7260, mIoU: 0.0975
+Batch 0, Loss: 0.6491
+Batch 10, Loss: 1.2450
+Batch 20, Loss: 0.8913
+Batch 30, Loss: 1.1719
+Batch 40, Loss: 0.8508
+Batch 50, Loss: 1.5336
+Batch 60, Loss: 1.1496
+Batch 70, Loss: 1.3565
+Batch 80, Loss: 1.0256
+Batch 90, Loss: 1.6012
+Epoch: 90 PixAcc: 0.7183, mIoU: 0.0758
+Batch 0, Loss: 0.7450
+Batch 10, Loss: 0.9903
+Batch 20, Loss: 1.8018
+Batch 30, Loss: 1.3286
+Batch 40, Loss: 1.3755
+Batch 50, Loss: 1.2481
+Batch 60, Loss: 1.2123
+Batch 70, Loss: 0.9446
+Batch 80, Loss: 1.0349
+Batch 90, Loss: 1.0252
+Epoch: 91 PixAcc: 0.7246, mIoU: 0.0922
+Batch 0, Loss: 0.9759
+Batch 10, Loss: 1.2071
+Batch 20, Loss: 1.1312
+Batch 30, Loss: 1.2634
+Batch 40, Loss: 1.1609
+Batch 50, Loss: 1.2166
+Batch 60, Loss: 1.1036
+Batch 70, Loss: 1.4563
+Batch 80, Loss: 1.1479
+Batch 90, Loss: 0.7391
+[1;32mBetter IoU Get![0m
+Epoch: 92 PixAcc: 0.7300, mIoU: 0.1008
+Batch 0, Loss: 1.0959
+Batch 10, Loss: 1.5305
+Batch 20, Loss: 0.8762
+Batch 30, Loss: 1.2256
+Batch 40, Loss: 0.9646
+Batch 50, Loss: 0.9170
+Batch 60, Loss: 1.3376
+Batch 70, Loss: 1.1224
+Batch 80, Loss: 1.0020
+Batch 90, Loss: 1.1270
+[1;32mBetter IoU Get![0m
+Epoch: 93 PixAcc: 0.7290, mIoU: 0.1025
+Batch 0, Loss: 0.9825
+Batch 10, Loss: 1.0534
+Batch 20, Loss: 1.2180
+Batch 30, Loss: 1.7242
+Batch 40, Loss: 1.5422
+Batch 50, Loss: 1.3481
+Batch 60, Loss: 1.0432
+Batch 70, Loss: 1.3257
+Batch 80, Loss: 0.9493
+Batch 90, Loss: 1.2058
+Epoch: 94 PixAcc: 0.7233, mIoU: 0.0916
+Batch 0, Loss: 1.1284
+Batch 10, Loss: 1.2370
+Batch 20, Loss: 0.8361
+Batch 30, Loss: 1.3289
+Batch 40, Loss: 1.1746
+Batch 50, Loss: 1.1002
+Batch 60, Loss: 1.1104
+Batch 70, Loss: 1.2301
+Batch 80, Loss: 0.9683
+Batch 90, Loss: 1.4151
+Epoch: 95 PixAcc: 0.7244, mIoU: 0.0948
+Batch 0, Loss: 1.3021
+Batch 10, Loss: 1.0628
+Batch 20, Loss: 0.8923
+Batch 30, Loss: 1.1410
+Batch 40, Loss: 1.3758
+Batch 50, Loss: 0.8465
+Batch 60, Loss: 0.8817
+Batch 70, Loss: 0.8365
+Batch 80, Loss: 0.7866
+Batch 90, Loss: 0.9613
+[1;32mBetter IoU Get![0m
+Epoch: 96 PixAcc: 0.7248, mIoU: 0.1044
+Batch 0, Loss: 0.8855
+Batch 10, Loss: 1.1392
+Batch 20, Loss: 1.2041
+Batch 30, Loss: 1.2047
+Batch 40, Loss: 1.1297
+Batch 50, Loss: 1.2100
+Batch 60, Loss: 1.1605
+Batch 70, Loss: 1.2263
+Batch 80, Loss: 0.9457
+Batch 90, Loss: 0.9605
+Epoch: 97 PixAcc: 0.7179, mIoU: 0.0873
+Batch 0, Loss: 1.0554
+Batch 10, Loss: 0.7709
+Batch 20, Loss: 1.3647
+Batch 30, Loss: 1.5591
+Batch 40, Loss: 0.7307
+Batch 50, Loss: 1.4766
+Batch 60, Loss: 0.8999
+Batch 70, Loss: 1.3625
+Batch 80, Loss: 0.9717
+Batch 90, Loss: 1.1468
+Epoch: 98 PixAcc: 0.7211, mIoU: 0.0968
+Batch 0, Loss: 0.9776
+Batch 10, Loss: 0.9613
+Batch 20, Loss: 0.8013
+Batch 30, Loss: 0.8214
+Batch 40, Loss: 0.8694
+Batch 50, Loss: 0.8191
+Batch 60, Loss: 1.2777
+Batch 70, Loss: 0.8400
+Batch 80, Loss: 1.5560
+Batch 90, Loss: 1.1944
+Epoch: 99 PixAcc: 0.7307, mIoU: 0.0998
+Batch 0, Loss: 0.6702
+Batch 10, Loss: 1.0706
+Batch 20, Loss: 1.2417
+Batch 30, Loss: 1.2902
+Batch 40, Loss: 0.9360
+Batch 50, Loss: 1.3297
+Batch 60, Loss: 1.3885
+Batch 70, Loss: 1.0449
+Batch 80, Loss: 1.2048
+Batch 90, Loss: 1.3023
+Epoch: 100 PixAcc: 0.7284, mIoU: 0.1015
+Batch 0, Loss: 1.1315
+Batch 10, Loss: 0.8967
+Batch 20, Loss: 1.2257
+Batch 30, Loss: 1.4539
+Batch 40, Loss: 1.0546
+Batch 50, Loss: 1.2017
+Batch 60, Loss: 1.1808
+Batch 70, Loss: 1.2285
+Batch 80, Loss: 1.0463
+Batch 90, Loss: 1.1764
+[1;32mBetter IoU Get![0m
+Epoch: 101 PixAcc: 0.7324, mIoU: 0.1092
+Batch 0, Loss: 1.6273
+Batch 10, Loss: 0.9305
+Batch 20, Loss: 0.9433
+Batch 30, Loss: 0.9547
+Batch 40, Loss: 1.1899
+Batch 50, Loss: 1.2040
+Batch 60, Loss: 0.7464
+Batch 70, Loss: 0.9871
+Batch 80, Loss: 1.3006
+Batch 90, Loss: 0.7554
+Epoch: 102 PixAcc: 0.7186, mIoU: 0.0960
+Batch 0, Loss: 1.3017
+Batch 10, Loss: 1.4325
+Batch 20, Loss: 1.0079
+Batch 30, Loss: 1.1560
+Batch 40, Loss: 0.9238
+Batch 50, Loss: 1.1816
+Batch 60, Loss: 1.1046
+Batch 70, Loss: 1.6348
+Batch 80, Loss: 0.9452
+Batch 90, Loss: 1.2346
+Epoch: 103 PixAcc: 0.7143, mIoU: 0.1015
+Batch 0, Loss: 1.1959
+Batch 10, Loss: 1.0209
+Batch 20, Loss: 1.0452
+Batch 30, Loss: 0.9247
+Batch 40, Loss: 0.8335
+Batch 50, Loss: 0.9967
+Batch 60, Loss: 1.2024
+Batch 70, Loss: 0.8586
+Batch 80, Loss: 0.8917
+Batch 90, Loss: 1.2370
+[1;32mBetter IoU Get![0m
+Epoch: 104 PixAcc: 0.7345, mIoU: 0.1123
+Batch 0, Loss: 1.4364
+Batch 10, Loss: 0.9521
+Batch 20, Loss: 1.1880
+Batch 30, Loss: 1.4554
+Batch 40, Loss: 1.5569
+Batch 50, Loss: 1.2647
+Batch 60, Loss: 1.1549
+Batch 70, Loss: 1.0855
+Batch 80, Loss: 0.9253
+Batch 90, Loss: 0.8170
+Epoch: 105 PixAcc: 0.7231, mIoU: 0.1039
+Batch 0, Loss: 1.3681
+Batch 10, Loss: 0.9665
+Batch 20, Loss: 1.3425
+Batch 30, Loss: 0.8367
+Batch 40, Loss: 0.9033
+Batch 50, Loss: 1.1783
+Batch 60, Loss: 0.9499
+Batch 70, Loss: 0.8145
+Batch 80, Loss: 1.1839
+Batch 90, Loss: 0.9446
+[1;32mBetter IoU Get![0m
+Epoch: 106 PixAcc: 0.7366, mIoU: 0.1150
+Batch 0, Loss: 1.0860
+Batch 10, Loss: 1.0696
+Batch 20, Loss: 0.9829
+Batch 30, Loss: 0.9426
+Batch 40, Loss: 1.1046
+Batch 50, Loss: 1.0955
+Batch 60, Loss: 0.9613
+Batch 70, Loss: 1.1253
+Batch 80, Loss: 1.1354
+Batch 90, Loss: 0.9077
+Epoch: 107 PixAcc: 0.7295, mIoU: 0.1118
+Batch 0, Loss: 1.0390
+Batch 10, Loss: 0.7707
+Batch 20, Loss: 0.9065
+Batch 30, Loss: 1.2359
+Batch 40, Loss: 1.0249
+Batch 50, Loss: 1.1941
+Batch 60, Loss: 0.9150
+Batch 70, Loss: 0.6712
+Batch 80, Loss: 1.7842
+Batch 90, Loss: 1.1788
+[1;32mBetter IoU Get![0m
+Epoch: 108 PixAcc: 0.7323, mIoU: 0.1151
+Batch 0, Loss: 0.9050
+Batch 10, Loss: 1.2545
+Batch 20, Loss: 1.0708
+Batch 30, Loss: 0.8760
+Batch 40, Loss: 1.2381
+Batch 50, Loss: 0.8596
+Batch 60, Loss: 1.0728
+Batch 70, Loss: 1.2748
+Batch 80, Loss: 0.8465
+Batch 90, Loss: 1.1439
+Epoch: 109 PixAcc: 0.7287, mIoU: 0.1144
+Batch 0, Loss: 1.1411
+Batch 10, Loss: 0.8466
+Batch 20, Loss: 1.1185
+Batch 30, Loss: 1.4019
+Batch 40, Loss: 1.2630
+Batch 50, Loss: 1.2434
+Batch 60, Loss: 1.2381
+Batch 70, Loss: 0.9655
+Batch 80, Loss: 0.7924
+Batch 90, Loss: 0.9191
+Epoch: 110 PixAcc: 0.7253, mIoU: 0.1111
+Batch 0, Loss: 1.5179
+Batch 10, Loss: 0.8554
+Batch 20, Loss: 0.9812
+Batch 30, Loss: 1.1803
+Batch 40, Loss: 1.1124
+Batch 50, Loss: 1.1516
+Batch 60, Loss: 0.7830
+Batch 70, Loss: 0.9419
+Batch 80, Loss: 0.9185
+Batch 90, Loss: 0.8260
+[1;32mBetter IoU Get![0m
+Epoch: 111 PixAcc: 0.7327, mIoU: 0.1238
+Batch 0, Loss: 1.3665
+Batch 10, Loss: 1.0260
+Batch 20, Loss: 0.8125
+Batch 30, Loss: 1.3063
+Batch 40, Loss: 1.1084
+Batch 50, Loss: 0.9622
+Batch 60, Loss: 1.2449
+Batch 70, Loss: 0.9271
+Batch 80, Loss: 1.1668
+Batch 90, Loss: 1.3073
+Epoch: 112 PixAcc: 0.7376, mIoU: 0.1217
+Batch 0, Loss: 1.0393
+Batch 10, Loss: 0.7961
+Batch 20, Loss: 1.8055
+Batch 30, Loss: 0.8043
+Batch 40, Loss: 1.5775
+Batch 50, Loss: 1.0862
+Batch 60, Loss: 0.9700
+Batch 70, Loss: 1.2140
+Batch 80, Loss: 1.0317
+Batch 90, Loss: 1.2382
+Epoch: 113 PixAcc: 0.7356, mIoU: 0.1183
+Batch 0, Loss: 0.9295
+Batch 10, Loss: 1.4103
+Batch 20, Loss: 1.1685
+Batch 30, Loss: 1.0481
+Batch 40, Loss: 1.1707
+Batch 50, Loss: 1.0781
+Batch 60, Loss: 1.0818
+Batch 70, Loss: 0.7124
+Batch 80, Loss: 0.7462
+Batch 90, Loss: 0.7838
+[1;32mBetter IoU Get![0m
+Epoch: 114 PixAcc: 0.7367, mIoU: 0.1275
+Batch 0, Loss: 0.7737
+Batch 10, Loss: 0.8097
+Batch 20, Loss: 0.8505
+Batch 30, Loss: 0.9257
+Batch 40, Loss: 1.1245
+Batch 50, Loss: 0.8580
+Batch 60, Loss: 1.1003
+Batch 70, Loss: 1.1226
+Batch 80, Loss: 0.9774
+Batch 90, Loss: 0.9222
+Epoch: 115 PixAcc: 0.7348, mIoU: 0.1147
+Batch 0, Loss: 1.5272
+Batch 10, Loss: 1.4221
+Batch 20, Loss: 1.1530
+Batch 30, Loss: 0.9896
+Batch 40, Loss: 0.9784
+Batch 50, Loss: 0.7621
+Batch 60, Loss: 0.8827
+Batch 70, Loss: 1.1008
+Batch 80, Loss: 1.8280
+Batch 90, Loss: 0.9447
+Epoch: 116 PixAcc: 0.7352, mIoU: 0.1172
+Batch 0, Loss: 0.9094
+Batch 10, Loss: 0.9455
+Batch 20, Loss: 1.1588
+Batch 30, Loss: 0.9420
+Batch 40, Loss: 0.8516
+Batch 50, Loss: 1.1843
+Batch 60, Loss: 1.0745
+Batch 70, Loss: 0.9631
+Batch 80, Loss: 0.8185
+Batch 90, Loss: 0.8311
+[1;32mBetter IoU Get![0m
+Epoch: 117 PixAcc: 0.7360, mIoU: 0.1323
+Batch 0, Loss: 1.7232
+Batch 10, Loss: 1.4093
+Batch 20, Loss: 0.8838
+Batch 30, Loss: 1.1382
+Batch 40, Loss: 0.8606
+Batch 50, Loss: 0.9483
+Batch 60, Loss: 1.0868
+Batch 70, Loss: 0.9341
+Batch 80, Loss: 1.2634
+Batch 90, Loss: 0.7897
+Epoch: 118 PixAcc: 0.7365, mIoU: 0.1289
+Batch 0, Loss: 1.5456
+Batch 10, Loss: 1.0012
+Batch 20, Loss: 0.9686
+Batch 30, Loss: 1.2027
+Batch 40, Loss: 1.3598
+Batch 50, Loss: 0.8712
+Batch 60, Loss: 0.7970
+Batch 70, Loss: 0.6041
+Batch 80, Loss: 1.0541
+Batch 90, Loss: 1.4183
+Epoch: 119 PixAcc: 0.7380, mIoU: 0.1258
+Batch 0, Loss: 0.9152
+Batch 10, Loss: 1.0222
+Batch 20, Loss: 1.0664
+Batch 30, Loss: 0.8519
+Batch 40, Loss: 1.2115
+Batch 50, Loss: 0.7668
+Batch 60, Loss: 1.2409
+Batch 70, Loss: 0.9895
+Batch 80, Loss: 1.0375
+Batch 90, Loss: 0.9516
+Epoch: 120 PixAcc: 0.7303, mIoU: 0.1228
+Batch 0, Loss: 1.0525
+Batch 10, Loss: 1.3528
+Batch 20, Loss: 1.1849
+Batch 30, Loss: 1.0576
+Batch 40, Loss: 0.7343
+Batch 50, Loss: 0.9777
+Batch 60, Loss: 0.8298
+Batch 70, Loss: 1.0633
+Batch 80, Loss: 1.0868
+Batch 90, Loss: 0.8534
+Epoch: 121 PixAcc: 0.7429, mIoU: 0.1318
+Batch 0, Loss: 1.1625
+Batch 10, Loss: 1.1678
+Batch 20, Loss: 1.0951
+Batch 30, Loss: 0.9184
+Batch 40, Loss: 0.9916
+Batch 50, Loss: 0.9906
+Batch 60, Loss: 1.4492
+Batch 70, Loss: 1.0862
+Batch 80, Loss: 1.0526
+Batch 90, Loss: 0.8070
+[1;32mBetter IoU Get![0m
+Epoch: 122 PixAcc: 0.7415, mIoU: 0.1345
+Batch 0, Loss: 0.7076
+Batch 10, Loss: 0.8011
+Batch 20, Loss: 0.9241
+Batch 30, Loss: 1.1792
+Batch 40, Loss: 0.9217
+Batch 50, Loss: 0.9007
+Batch 60, Loss: 1.0441
+Batch 70, Loss: 1.3196
+Batch 80, Loss: 1.0524
+Batch 90, Loss: 1.0106
+Epoch: 123 PixAcc: 0.7316, mIoU: 0.1274
+Batch 0, Loss: 1.5208
+Batch 10, Loss: 1.1173
+Batch 20, Loss: 0.6144
+Batch 30, Loss: 1.0441
+Batch 40, Loss: 0.9762
+Batch 50, Loss: 1.0837
+Batch 60, Loss: 1.2782
+Batch 70, Loss: 1.4553
+Batch 80, Loss: 1.0319
+Batch 90, Loss: 1.0448
+Epoch: 124 PixAcc: 0.7215, mIoU: 0.1214
+Batch 0, Loss: 1.1976
+Batch 10, Loss: 0.8484
+Batch 20, Loss: 0.6711
+Batch 30, Loss: 0.8386
+Batch 40, Loss: 1.3131
+Batch 50, Loss: 0.8905
+Batch 60, Loss: 0.9885
+Batch 70, Loss: 0.9326
+Batch 80, Loss: 0.9096
+Batch 90, Loss: 1.3264
+Epoch: 125 PixAcc: 0.7352, mIoU: 0.1307
+Batch 0, Loss: 1.0706
+Batch 10, Loss: 0.8492
+Batch 20, Loss: 1.4921
+Batch 30, Loss: 1.2590
+Batch 40, Loss: 0.8870
+Batch 50, Loss: 0.8304
+Batch 60, Loss: 1.0900
+Batch 70, Loss: 1.1472
+Batch 80, Loss: 0.7990
+Batch 90, Loss: 0.6795
+Epoch: 126 PixAcc: 0.7352, mIoU: 0.1308
+Batch 0, Loss: 0.8863
+Batch 10, Loss: 0.8841
+Batch 20, Loss: 1.1339
+Batch 30, Loss: 0.9138
+Batch 40, Loss: 0.9321
+Batch 50, Loss: 0.8367
+Batch 60, Loss: 0.9159
+Batch 70, Loss: 0.9388
+Batch 80, Loss: 0.8805
+Batch 90, Loss: 0.7734
+[1;32mBetter IoU Get![0m
+Epoch: 127 PixAcc: 0.7399, mIoU: 0.1352
+Batch 0, Loss: 0.8869
+Batch 10, Loss: 0.8893
+Batch 20, Loss: 0.7519
+Batch 30, Loss: 1.2078
+Batch 40, Loss: 1.1766
+Batch 50, Loss: 1.1321
+Batch 60, Loss: 1.3970
+Batch 70, Loss: 0.6629
+Batch 80, Loss: 0.8563
+Batch 90, Loss: 0.7994
+Epoch: 128 PixAcc: 0.7328, mIoU: 0.1202
+Batch 0, Loss: 0.9492
+Batch 10, Loss: 1.0329
+Batch 20, Loss: 1.2801
+Batch 30, Loss: 0.7561
+Batch 40, Loss: 0.7629
+Batch 50, Loss: 0.7556
+Batch 60, Loss: 0.7553
+Batch 70, Loss: 0.9632
+Batch 80, Loss: 0.7642
+Batch 90, Loss: 0.9199
+[1;32mBetter IoU Get![0m
+Epoch: 129 PixAcc: 0.7419, mIoU: 0.1375
+Batch 0, Loss: 0.9829
+Batch 10, Loss: 0.8727
+Batch 20, Loss: 1.4071
+Batch 30, Loss: 1.0854
+Batch 40, Loss: 1.9264
+Batch 50, Loss: 1.0714
+Batch 60, Loss: 0.9399
+Batch 70, Loss: 1.3180
+Batch 80, Loss: 1.0903
+Batch 90, Loss: 1.0328
+Epoch: 130 PixAcc: 0.7377, mIoU: 0.1257
+Batch 0, Loss: 0.9769
+Batch 10, Loss: 0.8035
+Batch 20, Loss: 1.2466
+Batch 30, Loss: 0.8451
+Batch 40, Loss: 1.2701
+Batch 50, Loss: 1.2180
+Batch 60, Loss: 1.0264
+Batch 70, Loss: 1.3610
+Batch 80, Loss: 1.0573
+Batch 90, Loss: 1.5705
+Epoch: 131 PixAcc: 0.7381, mIoU: 0.1230
+Batch 0, Loss: 1.1049
+Batch 10, Loss: 1.2097
+Batch 20, Loss: 0.9619
+Batch 30, Loss: 1.2398
+Batch 40, Loss: 0.9160
+Batch 50, Loss: 1.4330
+Batch 60, Loss: 0.9121
+Batch 70, Loss: 1.1723
+Batch 80, Loss: 0.9699
+Batch 90, Loss: 0.8507
+Epoch: 132 PixAcc: 0.7341, mIoU: 0.1243
+Batch 0, Loss: 0.8827
+Batch 10, Loss: 0.7598
+Batch 20, Loss: 1.0441
+Batch 30, Loss: 0.7319
+Batch 40, Loss: 1.0276
+Batch 50, Loss: 1.0295
+Batch 60, Loss: 1.1205
+Batch 70, Loss: 0.9375
+Batch 80, Loss: 0.7641
+Batch 90, Loss: 1.0170
+[1;32mBetter IoU Get![0m
+Epoch: 133 PixAcc: 0.7438, mIoU: 0.1376
+Batch 0, Loss: 0.8155
+Batch 10, Loss: 1.1850
+Batch 20, Loss: 1.1427
+Batch 30, Loss: 0.9887
+Batch 40, Loss: 0.7191
+Batch 50, Loss: 1.0162
+Batch 60, Loss: 1.0152
+Batch 70, Loss: 0.8468
+Batch 80, Loss: 0.8163
+Batch 90, Loss: 0.7746
+Epoch: 134 PixAcc: 0.7348, mIoU: 0.1338
+Batch 0, Loss: 1.0400
+Batch 10, Loss: 0.7042
+Batch 20, Loss: 1.3110
+Batch 30, Loss: 1.0989
+Batch 40, Loss: 0.9774
+Batch 50, Loss: 0.7496
+Batch 60, Loss: 0.9704
+Batch 70, Loss: 1.0793
+Batch 80, Loss: 0.6938
+Batch 90, Loss: 0.9913
+[1;32mBetter IoU Get![0m
+Epoch: 135 PixAcc: 0.7348, mIoU: 0.1401
+Batch 0, Loss: 0.8618
+Batch 10, Loss: 0.7888
+Batch 20, Loss: 1.1780
+Batch 30, Loss: 0.9487
+Batch 40, Loss: 1.1027
+Batch 50, Loss: 0.8478
+Batch 60, Loss: 1.0086
+Batch 70, Loss: 0.9166
+Batch 80, Loss: 0.9634
+Batch 90, Loss: 1.6465
+Epoch: 136 PixAcc: 0.7334, mIoU: 0.1364
+Batch 0, Loss: 0.8643
+Batch 10, Loss: 1.1567
+Batch 20, Loss: 1.0540
+Batch 30, Loss: 0.8400
+Batch 40, Loss: 1.1093
+Batch 50, Loss: 1.1118
+Batch 60, Loss: 0.9650
+Batch 70, Loss: 0.9536
+Batch 80, Loss: 0.8071
+Batch 90, Loss: 1.0068
+[1;32mBetter IoU Get![0m
+Epoch: 137 PixAcc: 0.7345, mIoU: 0.1421
+Batch 0, Loss: 1.1836
+Batch 10, Loss: 1.0016
+Batch 20, Loss: 0.8362
+Batch 30, Loss: 0.7578
+Batch 40, Loss: 0.9119
+Batch 50, Loss: 1.2585
+Batch 60, Loss: 1.2755
+Batch 70, Loss: 1.1300
+Batch 80, Loss: 0.9333
+Batch 90, Loss: 1.6221
+Epoch: 138 PixAcc: 0.7390, mIoU: 0.1397
+Batch 0, Loss: 1.0710
+Batch 10, Loss: 1.2319
+Batch 20, Loss: 0.8121
+Batch 30, Loss: 1.3114
+Batch 40, Loss: 0.6470
+Batch 50, Loss: 0.9968
+Batch 60, Loss: 1.1869
+Batch 70, Loss: 0.8341
+Batch 80, Loss: 1.1402
+Batch 90, Loss: 1.0781
+Epoch: 139 PixAcc: 0.7419, mIoU: 0.1368
+Batch 0, Loss: 1.4544
+Batch 10, Loss: 1.1641
+Batch 20, Loss: 1.3213
+Batch 30, Loss: 0.7920
+Batch 40, Loss: 0.8732
+Batch 50, Loss: 0.6890
+Batch 60, Loss: 0.9072
+Batch 70, Loss: 1.0950
+Batch 80, Loss: 0.7917
+Batch 90, Loss: 1.2406
+Epoch: 140 PixAcc: 0.7386, mIoU: 0.1406
+Batch 0, Loss: 0.9781
+Batch 10, Loss: 0.9008
+Batch 20, Loss: 1.0905
+Batch 30, Loss: 1.2179
+Batch 40, Loss: 1.2256
+Batch 50, Loss: 0.9024
+Batch 60, Loss: 1.0123
+Batch 70, Loss: 0.9437
+Batch 80, Loss: 1.1943
+Batch 90, Loss: 1.1740
+Epoch: 141 PixAcc: 0.7340, mIoU: 0.1194
+Batch 0, Loss: 1.0325
+Batch 10, Loss: 1.6382
+Batch 20, Loss: 1.0727
+Batch 30, Loss: 1.1114
+Batch 40, Loss: 1.1567
+Batch 50, Loss: 0.9672
+Batch 60, Loss: 1.2356
+Batch 70, Loss: 0.9268
+Batch 80, Loss: 0.9094
+Batch 90, Loss: 1.3584
+[1;32mBetter IoU Get![0m
+Epoch: 142 PixAcc: 0.7486, mIoU: 0.1428
+Batch 0, Loss: 1.0172
+Batch 10, Loss: 1.0558
+Batch 20, Loss: 0.9261
+Batch 30, Loss: 1.4531
+Batch 40, Loss: 0.7972
+Batch 50, Loss: 1.4673
+Batch 60, Loss: 1.4261
+Batch 70, Loss: 1.0852
+Batch 80, Loss: 1.3331
+Batch 90, Loss: 1.2460
+Epoch: 143 PixAcc: 0.7437, mIoU: 0.1351
+Batch 0, Loss: 0.9601
+Batch 10, Loss: 0.9473
+Batch 20, Loss: 0.6782
+Batch 30, Loss: 0.7338
+Batch 40, Loss: 0.7242
+Batch 50, Loss: 1.1211
+Batch 60, Loss: 0.8228
+Batch 70, Loss: 1.1793
+Batch 80, Loss: 1.3143
+Batch 90, Loss: 1.2699
+[1;32mBetter IoU Get![0m
+Epoch: 144 PixAcc: 0.7412, mIoU: 0.1439
+Batch 0, Loss: 1.2349
+Batch 10, Loss: 0.9173
+Batch 20, Loss: 1.2072
+Batch 30, Loss: 0.8842
+Batch 40, Loss: 1.1802
+Batch 50, Loss: 0.9915
+Batch 60, Loss: 0.9184
+Batch 70, Loss: 0.9422
+Batch 80, Loss: 1.1140
+Batch 90, Loss: 1.3735
+Epoch: 145 PixAcc: 0.7357, mIoU: 0.1344
+Batch 0, Loss: 0.9403
+Batch 10, Loss: 0.7838
+Batch 20, Loss: 1.3512
+Batch 30, Loss: 1.1270
+Batch 40, Loss: 0.7966
+Batch 50, Loss: 1.1583
+Batch 60, Loss: 0.9176
+Batch 70, Loss: 1.0103
+Batch 80, Loss: 0.8497
+Batch 90, Loss: 1.2037
+Epoch: 146 PixAcc: 0.7420, mIoU: 0.1320
+Batch 0, Loss: 1.1103
+Batch 10, Loss: 0.8549
+Batch 20, Loss: 1.0763
+Batch 30, Loss: 1.0963
+Batch 40, Loss: 1.1312
+Batch 50, Loss: 0.6890
+Batch 60, Loss: 0.7096
+Batch 70, Loss: 1.4126
+Batch 80, Loss: 0.7631
+Batch 90, Loss: 1.0817
+Epoch: 147 PixAcc: 0.7422, mIoU: 0.1402
+Batch 0, Loss: 1.4153
+Batch 10, Loss: 1.2956
+Batch 20, Loss: 0.9351
+Batch 30, Loss: 0.5520
+Batch 40, Loss: 1.0256
+Batch 50, Loss: 1.0242
+Batch 60, Loss: 0.6988
+Batch 70, Loss: 0.8069
+Batch 80, Loss: 0.9964
+Batch 90, Loss: 0.9416
+Epoch: 148 PixAcc: 0.7458, mIoU: 0.1409
+Batch 0, Loss: 0.8528
+Batch 10, Loss: 0.7885
+Batch 20, Loss: 0.9557
+Batch 30, Loss: 0.5176
+Batch 40, Loss: 0.9168
+Batch 50, Loss: 1.1365
+Batch 60, Loss: 1.0187
+Batch 70, Loss: 1.0179
+Batch 80, Loss: 1.0066
+Batch 90, Loss: 0.9495
+[1;32mBetter IoU Get![0m
+Epoch: 149 PixAcc: 0.7445, mIoU: 0.1547
+Batch 0, Loss: 0.8475
+Batch 10, Loss: 0.5862
+Batch 20, Loss: 1.0949
+Batch 30, Loss: 1.1735
+Batch 40, Loss: 0.6823
+Batch 50, Loss: 0.8966
+Batch 60, Loss: 1.2258
+Batch 70, Loss: 1.1122
+Batch 80, Loss: 1.0268
+Batch 90, Loss: 0.7172
+Epoch: 150 PixAcc: 0.7388, mIoU: 0.1369
+Batch 0, Loss: 0.6055
+Batch 10, Loss: 0.8753
+Batch 20, Loss: 0.8546
+Batch 30, Loss: 0.9365
+Batch 40, Loss: 0.8652
+Batch 50, Loss: 0.9247
+Batch 60, Loss: 0.7421
+Batch 70, Loss: 0.8942
+Batch 80, Loss: 0.9953
+Batch 90, Loss: 0.5600
+Epoch: 151 PixAcc: 0.7434, mIoU: 0.1445
+Batch 0, Loss: 1.2518
+Batch 10, Loss: 1.0018
+Batch 20, Loss: 1.0412
+Batch 30, Loss: 1.1022
+Batch 40, Loss: 0.8590
+Batch 50, Loss: 1.0941
+Batch 60, Loss: 0.6461
+Batch 70, Loss: 0.7521
+Batch 80, Loss: 1.2647
+Batch 90, Loss: 1.0458
+Epoch: 152 PixAcc: 0.7455, mIoU: 0.1476
+Batch 0, Loss: 1.0488
+Batch 10, Loss: 0.9857
+Batch 20, Loss: 0.9683
+Batch 30, Loss: 0.9812
+Batch 40, Loss: 0.9909
+Batch 50, Loss: 0.9130
+Batch 60, Loss: 0.7856
+Batch 70, Loss: 1.0814
+Batch 80, Loss: 1.0205
+Batch 90, Loss: 1.9469
+Epoch: 153 PixAcc: 0.7441, mIoU: 0.1478
+Batch 0, Loss: 0.8018
+Batch 10, Loss: 0.7769
+Batch 20, Loss: 1.4967
+Batch 30, Loss: 1.1703
+Batch 40, Loss: 0.8906
+Batch 50, Loss: 1.0420
+Batch 60, Loss: 1.2701
+Batch 70, Loss: 0.9718
+Batch 80, Loss: 1.0951
+Batch 90, Loss: 1.2113
+Epoch: 154 PixAcc: 0.7482, mIoU: 0.1533
+Batch 0, Loss: 0.9760
+Batch 10, Loss: 0.9828
+Batch 20, Loss: 0.7062
+Batch 30, Loss: 1.5646
+Batch 40, Loss: 0.8972
+Batch 50, Loss: 1.1456
+Batch 60, Loss: 0.8395
+Batch 70, Loss: 0.8039
+Batch 80, Loss: 1.0302
+Batch 90, Loss: 1.0642
+Epoch: 155 PixAcc: 0.7348, mIoU: 0.1325
+Batch 0, Loss: 0.9301
+Batch 10, Loss: 1.2790
+Batch 20, Loss: 0.8424
+Batch 30, Loss: 0.8678
+Batch 40, Loss: 0.9186
+Batch 50, Loss: 0.9481
+Batch 60, Loss: 1.0857
+Batch 70, Loss: 0.8665
+Batch 80, Loss: 1.1763
+Batch 90, Loss: 1.0722
+Epoch: 156 PixAcc: 0.7418, mIoU: 0.1458
+Batch 0, Loss: 0.9778
+Batch 10, Loss: 1.1364
+Batch 20, Loss: 1.3741
+Batch 30, Loss: 0.8264
+Batch 40, Loss: 0.6394
+Batch 50, Loss: 0.9830
+Batch 60, Loss: 1.0059
+Batch 70, Loss: 1.1041
+Batch 80, Loss: 1.3560
+Batch 90, Loss: 0.7900
+Epoch: 157 PixAcc: 0.7430, mIoU: 0.1524
+Batch 0, Loss: 1.1231
+Batch 10, Loss: 0.7628
+Batch 20, Loss: 1.0681
+Batch 30, Loss: 0.8878
+Batch 40, Loss: 1.2136
+Batch 50, Loss: 1.0618
+Batch 60, Loss: 0.7379
+Batch 70, Loss: 0.7935
+Batch 80, Loss: 1.1303
+Batch 90, Loss: 1.4059
+Epoch: 158 PixAcc: 0.7444, mIoU: 0.1443
+Batch 0, Loss: 0.8905
+Batch 10, Loss: 1.0052
+Batch 20, Loss: 1.2095
+Batch 30, Loss: 0.9032
+Batch 40, Loss: 1.1532
+Batch 50, Loss: 0.6087
+Batch 60, Loss: 1.2389
+Batch 70, Loss: 0.7164
+Batch 80, Loss: 0.9499
+Batch 90, Loss: 0.9044
+[1;32mBetter IoU Get![0m
+Epoch: 159 PixAcc: 0.7499, mIoU: 0.1589
+Batch 0, Loss: 1.0519
+Batch 10, Loss: 0.7327
+Batch 20, Loss: 0.9714
+Batch 30, Loss: 0.9617
+Batch 40, Loss: 0.9741
+Batch 50, Loss: 0.9639
+Batch 60, Loss: 1.2882
+Batch 70, Loss: 1.0863
+Batch 80, Loss: 0.7795
+Batch 90, Loss: 0.9444
+Epoch: 160 PixAcc: 0.7478, mIoU: 0.1530
+Batch 0, Loss: 1.0945
+Batch 10, Loss: 1.4374
+Batch 20, Loss: 0.6130
+Batch 30, Loss: 0.6767
+Batch 40, Loss: 0.6969
+Batch 50, Loss: 0.8029
+Batch 60, Loss: 0.5939
+Batch 70, Loss: 0.9174
+Batch 80, Loss: 1.3178
+Batch 90, Loss: 1.2684
+Epoch: 161 PixAcc: 0.7465, mIoU: 0.1459
+Batch 0, Loss: 0.9656
+Batch 10, Loss: 0.9203
+Batch 20, Loss: 0.8389
+Batch 30, Loss: 1.0406
+Batch 40, Loss: 0.5656
+Batch 50, Loss: 1.0191
+Batch 60, Loss: 0.6755
+Batch 70, Loss: 0.7229
+Batch 80, Loss: 1.0652
+Batch 90, Loss: 0.8797
+Epoch: 162 PixAcc: 0.7484, mIoU: 0.1570
+Batch 0, Loss: 0.7981
+Batch 10, Loss: 1.0270
+Batch 20, Loss: 0.8979
+Batch 30, Loss: 1.1959
+Batch 40, Loss: 1.0799
+Batch 50, Loss: 0.9507
+Batch 60, Loss: 1.3306
+Batch 70, Loss: 0.6524
+Batch 80, Loss: 1.0831
+Batch 90, Loss: 0.5626
+Epoch: 163 PixAcc: 0.7481, mIoU: 0.1589
+Batch 0, Loss: 0.8859
+Batch 10, Loss: 1.0391
+Batch 20, Loss: 1.2096
+Batch 30, Loss: 0.9499
+Batch 40, Loss: 1.3843
+Batch 50, Loss: 1.1822
+Batch 60, Loss: 1.0109
+Batch 70, Loss: 1.1191
+Batch 80, Loss: 1.0013
+Batch 90, Loss: 0.7439
+Epoch: 164 PixAcc: 0.7435, mIoU: 0.1328
+Batch 0, Loss: 1.3202
+Batch 10, Loss: 1.4047
+Batch 20, Loss: 0.9202
+Batch 30, Loss: 0.8839
+Batch 40, Loss: 0.9201
+Batch 50, Loss: 0.8674
+Batch 60, Loss: 0.9111
+Batch 70, Loss: 1.0505
+Batch 80, Loss: 1.1725
+Batch 90, Loss: 0.9367
+Epoch: 165 PixAcc: 0.7399, mIoU: 0.1463
+Batch 0, Loss: 0.9390
+Batch 10, Loss: 0.9173
+Batch 20, Loss: 0.6817
+Batch 30, Loss: 1.2688
+Batch 40, Loss: 0.9406
+Batch 50, Loss: 1.4177
+Batch 60, Loss: 1.1993
+Batch 70, Loss: 1.0307
+Batch 80, Loss: 1.0351
+Batch 90, Loss: 0.9944
+Epoch: 166 PixAcc: 0.7444, mIoU: 0.1576
+Batch 0, Loss: 1.2683
+Batch 10, Loss: 1.4754
+Batch 20, Loss: 1.0115
+Batch 30, Loss: 0.9953
+Batch 40, Loss: 0.9679
+Batch 50, Loss: 0.7056
+Batch 60, Loss: 0.8382
+Batch 70, Loss: 0.9195
+Batch 80, Loss: 1.2361
+Batch 90, Loss: 0.7435
+Epoch: 167 PixAcc: 0.7445, mIoU: 0.1547
+Batch 0, Loss: 0.8959
+Batch 10, Loss: 1.0660
+Batch 20, Loss: 0.8455
+Batch 30, Loss: 1.2394
+Batch 40, Loss: 0.8240
+Batch 50, Loss: 0.9974
+Batch 60, Loss: 0.6715
+Batch 70, Loss: 0.9714
+Batch 80, Loss: 1.0278
+Batch 90, Loss: 1.0138
+[1;32mBetter IoU Get![0m
+Epoch: 168 PixAcc: 0.7483, mIoU: 0.1612
+Batch 0, Loss: 1.0069
+Batch 10, Loss: 1.4868
+Batch 20, Loss: 1.1231
+Batch 30, Loss: 0.8536
+Batch 40, Loss: 0.9623
+Batch 50, Loss: 0.8953
+Batch 60, Loss: 1.0834
+Batch 70, Loss: 0.9100
+Batch 80, Loss: 0.9743
+Batch 90, Loss: 0.6608
+Epoch: 169 PixAcc: 0.7426, mIoU: 0.1460
+Batch 0, Loss: 1.1529
+Batch 10, Loss: 0.9088
+Batch 20, Loss: 1.0866
+Batch 30, Loss: 1.1128
+Batch 40, Loss: 0.8607
+Batch 50, Loss: 1.1990
+Batch 60, Loss: 0.6910
+Batch 70, Loss: 0.7855
+Batch 80, Loss: 1.3003
+Batch 90, Loss: 1.1330
+[1;32mBetter IoU Get![0m
+Epoch: 170 PixAcc: 0.7503, mIoU: 0.1654
+Batch 0, Loss: 1.0607
+Batch 10, Loss: 1.1920
+Batch 20, Loss: 0.7125
+Batch 30, Loss: 0.6137
+Batch 40, Loss: 1.1592
+Batch 50, Loss: 0.6834
+Batch 60, Loss: 0.7067
+Batch 70, Loss: 1.3515
+Batch 80, Loss: 0.7820
+Batch 90, Loss: 1.0258
+Epoch: 171 PixAcc: 0.7463, mIoU: 0.1506
+Batch 0, Loss: 0.5969
+Batch 10, Loss: 1.4613
+Batch 20, Loss: 1.0089
+Batch 30, Loss: 1.3816
+Batch 40, Loss: 1.0719
+Batch 50, Loss: 0.7246
+Batch 60, Loss: 0.9903
+Batch 70, Loss: 0.8408
+Batch 80, Loss: 0.8231
+Batch 90, Loss: 1.0314
+[1;32mBetter IoU Get![0m
+Epoch: 172 PixAcc: 0.7512, mIoU: 0.1661
+Batch 0, Loss: 0.8610
+Batch 10, Loss: 1.2650
+Batch 20, Loss: 1.3228
+Batch 30, Loss: 1.3062
+Batch 40, Loss: 0.9882
+Batch 50, Loss: 0.8728
+Batch 60, Loss: 0.8987
+Batch 70, Loss: 0.8836
+Batch 80, Loss: 1.2806
+Batch 90, Loss: 0.9339
+Epoch: 173 PixAcc: 0.7462, mIoU: 0.1491
+Batch 0, Loss: 0.6600
+Batch 10, Loss: 0.8523
+Batch 20, Loss: 0.9269
+Batch 30, Loss: 1.0952
+Batch 40, Loss: 0.6082
+Batch 50, Loss: 1.0703
+Batch 60, Loss: 0.7629
+Batch 70, Loss: 0.9503
+Batch 80, Loss: 0.6455
+Batch 90, Loss: 0.8422
+Epoch: 174 PixAcc: 0.7470, mIoU: 0.1548
+Batch 0, Loss: 0.9407
+Batch 10, Loss: 0.9902
+Batch 20, Loss: 1.0757
+Batch 30, Loss: 1.1478
+Batch 40, Loss: 0.9164
+Batch 50, Loss: 1.5742
+Batch 60, Loss: 0.7436
+Batch 70, Loss: 0.8004
+Batch 80, Loss: 1.0116
+Batch 90, Loss: 0.8408
+Epoch: 175 PixAcc: 0.7448, mIoU: 0.1552
+Batch 0, Loss: 1.1450
+Batch 10, Loss: 1.3269
+Batch 20, Loss: 1.1300
+Batch 30, Loss: 1.0967
+Batch 40, Loss: 0.7704
+Batch 50, Loss: 0.8221
+Batch 60, Loss: 0.8409
+Batch 70, Loss: 1.0493
+Batch 80, Loss: 0.7749
+Batch 90, Loss: 1.1257
+[1;32mBetter IoU Get![0m
+Epoch: 176 PixAcc: 0.7502, mIoU: 0.1695
+Batch 0, Loss: 0.9635
+Batch 10, Loss: 1.0981
+Batch 20, Loss: 0.8743
+Batch 30, Loss: 0.9624
+Batch 40, Loss: 0.5863
+Batch 50, Loss: 0.8822
+Batch 60, Loss: 0.8946
+Batch 70, Loss: 0.9721
+Batch 80, Loss: 0.7645
+Batch 90, Loss: 0.6163
+Epoch: 177 PixAcc: 0.7487, mIoU: 0.1636
+Batch 0, Loss: 1.2905
+Batch 10, Loss: 0.8494
+Batch 20, Loss: 1.0767
+Batch 30, Loss: 0.6645
+Batch 40, Loss: 1.1218
+Batch 50, Loss: 0.9043
+Batch 60, Loss: 0.8063
+Batch 70, Loss: 1.0245
+Batch 80, Loss: 0.9750
+Batch 90, Loss: 0.7905
+[1;32mBetter IoU Get![0m
+Epoch: 178 PixAcc: 0.7555, mIoU: 0.1728
+Batch 0, Loss: 0.7939
+Batch 10, Loss: 1.4050
+Batch 20, Loss: 0.9983
+Batch 30, Loss: 0.8992
+Batch 40, Loss: 0.7309
+Batch 50, Loss: 0.9779
+Batch 60, Loss: 0.7342
+Batch 70, Loss: 1.3639
+Batch 80, Loss: 0.9417
+Batch 90, Loss: 0.9610
+Epoch: 179 PixAcc: 0.7514, mIoU: 0.1619
+Batch 0, Loss: 0.9003
+Batch 10, Loss: 1.3331
+Batch 20, Loss: 0.8371
+Batch 30, Loss: 0.9370
+Batch 40, Loss: 1.1003
+Batch 50, Loss: 0.9954
+Batch 60, Loss: 0.9846
+Batch 70, Loss: 0.8597
+Batch 80, Loss: 1.1707
+Batch 90, Loss: 0.7918
+Epoch: 180 PixAcc: 0.7485, mIoU: 0.1556
+Batch 0, Loss: 1.1734
+Batch 10, Loss: 0.7934
+Batch 20, Loss: 0.9901
+Batch 30, Loss: 1.0948
+Batch 40, Loss: 0.7836
+Batch 50, Loss: 0.7738
+Batch 60, Loss: 0.8214
+Batch 70, Loss: 1.4217
+Batch 80, Loss: 0.9380
+Batch 90, Loss: 1.0492
+Epoch: 181 PixAcc: 0.7484, mIoU: 0.1614
+Batch 0, Loss: 0.9739
+Batch 10, Loss: 0.7672
+Batch 20, Loss: 0.9945
+Batch 30, Loss: 1.2897
+Batch 40, Loss: 1.1964
+Batch 50, Loss: 1.2712
+Batch 60, Loss: 1.2853
+Batch 70, Loss: 0.9284
+Batch 80, Loss: 1.1511
+Batch 90, Loss: 1.1006
+Epoch: 182 PixAcc: 0.7495, mIoU: 0.1690
+Batch 0, Loss: 1.5613
+Batch 10, Loss: 1.0782
+Batch 20, Loss: 1.2848
+Batch 30, Loss: 0.9920
+Batch 40, Loss: 1.4435
+Batch 50, Loss: 0.7828
+Batch 60, Loss: 0.7554
+Batch 70, Loss: 0.6273
+Batch 80, Loss: 0.8916
+Batch 90, Loss: 0.5784
+Epoch: 183 PixAcc: 0.7500, mIoU: 0.1651
+Batch 0, Loss: 0.7459
+Batch 10, Loss: 0.6558
+Batch 20, Loss: 1.0095
+Batch 30, Loss: 1.1200
+Batch 40, Loss: 0.7541
+Batch 50, Loss: 0.8372
+Batch 60, Loss: 1.0082
+Batch 70, Loss: 1.1391
+Batch 80, Loss: 0.7022
+Batch 90, Loss: 0.9965
+Epoch: 184 PixAcc: 0.7513, mIoU: 0.1685
+Batch 0, Loss: 0.6966
+Batch 10, Loss: 1.4509
+Batch 20, Loss: 0.6638
+Batch 30, Loss: 0.8201
+Batch 40, Loss: 0.7802
+Batch 50, Loss: 0.8081
+Batch 60, Loss: 0.9264
+Batch 70, Loss: 1.5866
+Batch 80, Loss: 0.7550
+Batch 90, Loss: 0.7749
+Epoch: 185 PixAcc: 0.7553, mIoU: 0.1692
+Batch 0, Loss: 1.1881
+Batch 10, Loss: 0.7597
+Batch 20, Loss: 0.4977
+Batch 30, Loss: 1.1910
+Batch 40, Loss: 0.9755
+Batch 50, Loss: 0.8642
+Batch 60, Loss: 0.8401
+Batch 70, Loss: 0.9094
+Batch 80, Loss: 0.7120
+Batch 90, Loss: 1.4382
+Epoch: 186 PixAcc: 0.7438, mIoU: 0.1624
+Batch 0, Loss: 0.8187
+Batch 10, Loss: 0.9690
+Batch 20, Loss: 0.8056
+Batch 30, Loss: 0.9602
+Batch 40, Loss: 1.0246
+Batch 50, Loss: 0.9036
+Batch 60, Loss: 0.8948
+Batch 70, Loss: 0.5042
+Batch 80, Loss: 1.4245
+Batch 90, Loss: 1.1641
+Epoch: 187 PixAcc: 0.7482, mIoU: 0.1656
+Batch 0, Loss: 0.6881
+Batch 10, Loss: 0.8971
+Batch 20, Loss: 0.9543
+Batch 30, Loss: 0.8774
+Batch 40, Loss: 0.9059
+Batch 50, Loss: 0.8701
+Batch 60, Loss: 0.5254
+Batch 70, Loss: 0.4844
+Batch 80, Loss: 0.9094
+Batch 90, Loss: 0.9482
+[1;32mBetter IoU Get![0m
+Epoch: 188 PixAcc: 0.7551, mIoU: 0.1798
+Batch 0, Loss: 0.7133
+Batch 10, Loss: 1.3097
+Batch 20, Loss: 1.1607
+Batch 30, Loss: 0.8593
+Batch 40, Loss: 0.9092
+Batch 50, Loss: 0.8782
+Batch 60, Loss: 0.8416
+Batch 70, Loss: 0.7764
+Batch 80, Loss: 0.9109
+Batch 90, Loss: 1.0564
+Epoch: 189 PixAcc: 0.7564, mIoU: 0.1769
+Batch 0, Loss: 0.6567
+Batch 10, Loss: 0.6270
+Batch 20, Loss: 0.6003
+Batch 30, Loss: 0.7863
+Batch 40, Loss: 0.9772
+Batch 50, Loss: 0.9683
+Batch 60, Loss: 0.8734
+Batch 70, Loss: 0.9900
+Batch 80, Loss: 0.9370
+Batch 90, Loss: 0.5954
+Epoch: 190 PixAcc: 0.7504, mIoU: 0.1776
+Batch 0, Loss: 1.7537
+Batch 10, Loss: 1.1463
+Batch 20, Loss: 0.9648
+Batch 30, Loss: 0.7519
+Batch 40, Loss: 0.9432
+Batch 50, Loss: 0.9671
+Batch 60, Loss: 0.9781
+Batch 70, Loss: 1.1418
+Batch 80, Loss: 0.6681
+Batch 90, Loss: 0.8701
+Epoch: 191 PixAcc: 0.7518, mIoU: 0.1580
+Batch 0, Loss: 1.8424
+Batch 10, Loss: 0.8077
+Batch 20, Loss: 1.2181
+Batch 30, Loss: 0.9906
+Batch 40, Loss: 1.3107
+Batch 50, Loss: 0.9390
+Batch 60, Loss: 0.7773
+Batch 70, Loss: 1.0867
+Batch 80, Loss: 0.9014
+Batch 90, Loss: 0.8263
+Epoch: 192 PixAcc: 0.7510, mIoU: 0.1731
+Batch 0, Loss: 1.2438
+Batch 10, Loss: 0.9414
+Batch 20, Loss: 1.0408
+Batch 30, Loss: 1.1407
+Batch 40, Loss: 0.8689
+Batch 50, Loss: 0.8365
+Batch 60, Loss: 0.8790
+Batch 70, Loss: 1.1985
+Batch 80, Loss: 0.7588
+Batch 90, Loss: 0.8867
+Epoch: 193 PixAcc: 0.7508, mIoU: 0.1755
+Batch 0, Loss: 0.7284
+Batch 10, Loss: 0.8372
+Batch 20, Loss: 1.2200
+Batch 30, Loss: 0.7665
+Batch 40, Loss: 0.8819
+Batch 50, Loss: 0.7749
+Batch 60, Loss: 0.8697
+Batch 70, Loss: 0.9111
+Batch 80, Loss: 1.0961
+Batch 90, Loss: 0.6617
+Epoch: 194 PixAcc: 0.7465, mIoU: 0.1576
+Batch 0, Loss: 1.0698
+Batch 10, Loss: 0.8844
+Batch 20, Loss: 1.0236
+Batch 30, Loss: 0.7707
+Batch 40, Loss: 0.6517
+Batch 50, Loss: 1.0954
+Batch 60, Loss: 0.8250
+Batch 70, Loss: 0.8574
+Batch 80, Loss: 0.7621
+Batch 90, Loss: 0.8414
+Epoch: 195 PixAcc: 0.7489, mIoU: 0.1669
+Batch 0, Loss: 1.5179
+Batch 10, Loss: 0.7939
+Batch 20, Loss: 0.8008
+Batch 30, Loss: 0.9640
+Batch 40, Loss: 0.7385
+Batch 50, Loss: 0.7407
+Batch 60, Loss: 0.8554
+Batch 70, Loss: 0.6750
+Batch 80, Loss: 1.3260
+Batch 90, Loss: 0.8195
+Epoch: 196 PixAcc: 0.7458, mIoU: 0.1583
+Batch 0, Loss: 1.2058
+Batch 10, Loss: 0.7229
+Batch 20, Loss: 1.0934
+Batch 30, Loss: 1.0217
+Batch 40, Loss: 0.8777
+Batch 50, Loss: 0.8195
+Batch 60, Loss: 0.8437
+Batch 70, Loss: 0.8581
+Batch 80, Loss: 0.7075
+Batch 90, Loss: 0.9679
+Epoch: 197 PixAcc: 0.7575, mIoU: 0.1743
+Batch 0, Loss: 0.9493
+Batch 10, Loss: 0.7227
+Batch 20, Loss: 0.8169
+Batch 30, Loss: 1.0015
+Batch 40, Loss: 1.0301
+Batch 50, Loss: 0.9034
+Batch 60, Loss: 1.3362
+Batch 70, Loss: 0.7363
+Batch 80, Loss: 0.8778
+Batch 90, Loss: 0.9472
+Epoch: 198 PixAcc: 0.7498, mIoU: 0.1721
+Batch 0, Loss: 0.8660
+Batch 10, Loss: 1.0877
+Batch 20, Loss: 1.3247
+Batch 30, Loss: 1.1616
+Batch 40, Loss: 1.1084
+Batch 50, Loss: 0.8741
+Batch 60, Loss: 0.7916
+Batch 70, Loss: 0.9674
+Batch 80, Loss: 0.8917
+Batch 90, Loss: 1.1232
+Epoch: 199 PixAcc: 0.7439, mIoU: 0.1650
+Batch 0, Loss: 0.9627
+Batch 10, Loss: 0.9952
+Batch 20, Loss: 0.9049
+Batch 30, Loss: 0.7392
+Batch 40, Loss: 1.4196
+Batch 50, Loss: 0.9445
+Batch 60, Loss: 0.8236
+Batch 70, Loss: 0.7188
+Batch 80, Loss: 1.0477
+Batch 90, Loss: 0.6778
+Epoch: 200 PixAcc: 0.7519, mIoU: 0.1659
+Batch 0, Loss: 1.0167
+Batch 10, Loss: 1.0919
+Batch 20, Loss: 1.0576
+Batch 30, Loss: 1.0169
+Batch 40, Loss: 0.6532
+Batch 50, Loss: 0.5851
+Batch 60, Loss: 0.9142
+Batch 70, Loss: 0.8822
+Batch 80, Loss: 1.3028
+Batch 90, Loss: 0.8850
+Epoch: 201 PixAcc: 0.7478, mIoU: 0.1784
+Batch 0, Loss: 1.0611
+Batch 10, Loss: 0.6339
+Batch 20, Loss: 0.6154
+Batch 30, Loss: 1.3910
+Batch 40, Loss: 0.9384
+Batch 50, Loss: 0.9158
+Batch 60, Loss: 1.0767
+Batch 70, Loss: 0.7820
+Batch 80, Loss: 0.6833
+Batch 90, Loss: 0.9595
+Epoch: 202 PixAcc: 0.7592, mIoU: 0.1750
+Batch 0, Loss: 0.6959
+Batch 10, Loss: 1.0540
+Batch 20, Loss: 0.8756
+Batch 30, Loss: 0.9801
+Batch 40, Loss: 0.7339
+Batch 50, Loss: 0.6116
+Batch 60, Loss: 1.0499
+Batch 70, Loss: 0.6598
+Batch 80, Loss: 1.2546
+Batch 90, Loss: 0.6294
+Epoch: 203 PixAcc: 0.7482, mIoU: 0.1681
+Batch 0, Loss: 0.9177
+Batch 10, Loss: 0.8773
+Batch 20, Loss: 0.7760
+Batch 30, Loss: 0.7707
+Batch 40, Loss: 0.9261
+Batch 50, Loss: 1.0288
+Batch 60, Loss: 0.6730
+Batch 70, Loss: 1.0823
+Batch 80, Loss: 1.2307
+Batch 90, Loss: 0.7784
+Epoch: 204 PixAcc: 0.7511, mIoU: 0.1781
+Batch 0, Loss: 0.7282
+Batch 10, Loss: 0.8739
+Batch 20, Loss: 0.8190
+Batch 30, Loss: 0.7139
+Batch 40, Loss: 1.2738
+Batch 50, Loss: 0.9369
+Batch 60, Loss: 1.0306
+Batch 70, Loss: 1.1492
+Batch 80, Loss: 0.8374
+Batch 90, Loss: 0.7585
+[1;32mBetter IoU Get![0m
+Epoch: 205 PixAcc: 0.7581, mIoU: 0.1819
+Batch 0, Loss: 0.6577
+Batch 10, Loss: 0.5724
+Batch 20, Loss: 0.9284
+Batch 30, Loss: 0.8114
+Batch 40, Loss: 0.9249
+Batch 50, Loss: 0.9898
+Batch 60, Loss: 1.0239
+Batch 70, Loss: 1.0012
+Batch 80, Loss: 0.9637
+Batch 90, Loss: 0.9070
+Epoch: 206 PixAcc: 0.7451, mIoU: 0.1801
+Batch 0, Loss: 1.0103
+Batch 10, Loss: 1.1686
+Batch 20, Loss: 0.8792
+Batch 30, Loss: 0.8899
+Batch 40, Loss: 0.8218
+Batch 50, Loss: 0.6549
+Batch 60, Loss: 0.8518
+Batch 70, Loss: 1.0358
+Batch 80, Loss: 1.0040
+Batch 90, Loss: 0.8077
+Epoch: 207 PixAcc: 0.7532, mIoU: 0.1718
+Batch 0, Loss: 1.0257
+Batch 10, Loss: 0.7202
+Batch 20, Loss: 0.8052
+Batch 30, Loss: 0.5949
+Batch 40, Loss: 1.5690
+Batch 50, Loss: 0.8033
+Batch 60, Loss: 0.7858
+Batch 70, Loss: 0.9240
+Batch 80, Loss: 1.1216
+Batch 90, Loss: 0.7555
+Epoch: 208 PixAcc: 0.7531, mIoU: 0.1815
+Batch 0, Loss: 0.7453
+Batch 10, Loss: 0.9748
+Batch 20, Loss: 1.1669
+Batch 30, Loss: 0.8901
+Batch 40, Loss: 0.5343
+Batch 50, Loss: 0.9143
+Batch 60, Loss: 0.9831
+Batch 70, Loss: 0.9302
+Batch 80, Loss: 0.9949
+Batch 90, Loss: 1.2246
+[1;32mBetter IoU Get![0m
+Epoch: 209 PixAcc: 0.7607, mIoU: 0.1949
+Batch 0, Loss: 1.1488
+Batch 10, Loss: 0.9414
+Batch 20, Loss: 0.9083
+Batch 30, Loss: 0.8181
+Batch 40, Loss: 0.9538
+Batch 50, Loss: 0.9550
+Batch 60, Loss: 0.9254
+Batch 70, Loss: 1.2506
+Batch 80, Loss: 0.6897
+Batch 90, Loss: 0.9726
+Epoch: 210 PixAcc: 0.7532, mIoU: 0.1646
+Batch 0, Loss: 1.0112
+Batch 10, Loss: 0.7244
+Batch 20, Loss: 0.6543
+Batch 30, Loss: 1.0423
+Batch 40, Loss: 1.3058
+Batch 50, Loss: 0.6589
+Batch 60, Loss: 0.8114
+Batch 70, Loss: 1.2042
+Batch 80, Loss: 1.0550
+Batch 90, Loss: 0.7885
+Epoch: 211 PixAcc: 0.7564, mIoU: 0.1828
+Batch 0, Loss: 1.0830
+Batch 10, Loss: 1.0193
+Batch 20, Loss: 1.0919
+Batch 30, Loss: 0.9336
+Batch 40, Loss: 0.8018
+Batch 50, Loss: 1.6231
+Batch 60, Loss: 0.5277
+Batch 70, Loss: 1.1304
+Batch 80, Loss: 0.9750
+Batch 90, Loss: 1.1301
+Epoch: 212 PixAcc: 0.7510, mIoU: 0.1855
+Batch 0, Loss: 0.9247
+Batch 10, Loss: 0.9343
+Batch 20, Loss: 1.2614
+Batch 30, Loss: 1.1087
+Batch 40, Loss: 0.9918
+Batch 50, Loss: 0.6200
+Batch 60, Loss: 1.0682
+Batch 70, Loss: 0.7386
+Batch 80, Loss: 0.8014
+Batch 90, Loss: 1.0004
+Epoch: 213 PixAcc: 0.7521, mIoU: 0.1795
+Batch 0, Loss: 0.6470
+Batch 10, Loss: 0.8375
+Batch 20, Loss: 0.9142
+Batch 30, Loss: 0.7818
+Batch 40, Loss: 0.7205
+Batch 50, Loss: 1.0734
+Batch 60, Loss: 1.2571
+Batch 70, Loss: 0.9004
+Batch 80, Loss: 1.1918
+Batch 90, Loss: 0.6310
+Epoch: 214 PixAcc: 0.7587, mIoU: 0.1888
+Batch 0, Loss: 0.9529
+Batch 10, Loss: 0.7640
+Batch 20, Loss: 0.6746
+Batch 30, Loss: 0.7896
+Batch 40, Loss: 1.0601
+Batch 50, Loss: 0.7080
+Batch 60, Loss: 0.9213
+Batch 70, Loss: 0.7030
+Batch 80, Loss: 0.9120
+Batch 90, Loss: 1.0167
+Epoch: 215 PixAcc: 0.7494, mIoU: 0.1663
+Batch 0, Loss: 0.6893
+Batch 10, Loss: 0.9392
+Batch 20, Loss: 0.7080
+Batch 30, Loss: 1.0574
+Batch 40, Loss: 1.0749
+Batch 50, Loss: 0.6475
+Batch 60, Loss: 0.7975
+Batch 70, Loss: 0.8519
+Batch 80, Loss: 1.0301
+Batch 90, Loss: 0.6292
+Epoch: 216 PixAcc: 0.7578, mIoU: 0.1843
+Batch 0, Loss: 0.9373
+Batch 10, Loss: 0.8554
+Batch 20, Loss: 0.9479
+Batch 30, Loss: 1.1482
+Batch 40, Loss: 0.6564
+Batch 50, Loss: 1.2969
+Batch 60, Loss: 0.7970
+Batch 70, Loss: 0.5907
+Batch 80, Loss: 0.8397
+Batch 90, Loss: 1.1709
+Epoch: 217 PixAcc: 0.7534, mIoU: 0.1906
+Batch 0, Loss: 0.9274
+Batch 10, Loss: 0.8598
+Batch 20, Loss: 0.7661
+Batch 30, Loss: 0.7998
+Batch 40, Loss: 0.9013
+Batch 50, Loss: 0.7413
+Batch 60, Loss: 0.8629
+Batch 70, Loss: 0.8397
+Batch 80, Loss: 1.1458
+Batch 90, Loss: 1.1111
+Epoch: 218 PixAcc: 0.7512, mIoU: 0.1811
+Batch 0, Loss: 0.6647
+Batch 10, Loss: 0.6455
+Batch 20, Loss: 0.9580
+Batch 30, Loss: 0.7791
+Batch 40, Loss: 1.3357
+Batch 50, Loss: 0.6147
+Batch 60, Loss: 0.6440
+Batch 70, Loss: 0.7024
+Batch 80, Loss: 0.7616
+Batch 90, Loss: 0.6499
+Epoch: 219 PixAcc: 0.7516, mIoU: 0.1910
+Batch 0, Loss: 1.2650
+Batch 10, Loss: 0.6774
+Batch 20, Loss: 0.9946
+Batch 30, Loss: 0.8838
+Batch 40, Loss: 0.7313
+Batch 50, Loss: 1.0193
+Batch 60, Loss: 0.7990
+Batch 70, Loss: 0.9030
+Batch 80, Loss: 1.1161
+Batch 90, Loss: 0.8299
+Epoch: 220 PixAcc: 0.7588, mIoU: 0.1835
+Batch 0, Loss: 0.6753
+Batch 10, Loss: 0.7065
+Batch 20, Loss: 0.7976
+Batch 30, Loss: 1.0142
+Batch 40, Loss: 0.8730
+Batch 50, Loss: 1.0451
+Batch 60, Loss: 1.1838
+Batch 70, Loss: 0.7706
+Batch 80, Loss: 0.8082
+Batch 90, Loss: 1.3118
+Epoch: 221 PixAcc: 0.7488, mIoU: 0.1595
+Batch 0, Loss: 0.8645
+Batch 10, Loss: 0.8089
+Batch 20, Loss: 0.5597
+Batch 30, Loss: 0.9157
+Batch 40, Loss: 0.7220
+Batch 50, Loss: 0.9088
+Batch 60, Loss: 0.8773
+Batch 70, Loss: 0.8813
+Batch 80, Loss: 1.1738
+Batch 90, Loss: 0.8822
+Epoch: 222 PixAcc: 0.7526, mIoU: 0.1910
+Batch 0, Loss: 1.0796
+Batch 10, Loss: 1.2508
+Batch 20, Loss: 0.8206
+Batch 30, Loss: 0.8984
+Batch 40, Loss: 0.9580
+Batch 50, Loss: 0.8572
+Batch 60, Loss: 1.1119
+Batch 70, Loss: 0.8108
+Batch 80, Loss: 0.7134
+Batch 90, Loss: 0.9326
+Epoch: 223 PixAcc: 0.7530, mIoU: 0.1870
+Batch 0, Loss: 0.8537
+Batch 10, Loss: 0.9672
+Batch 20, Loss: 0.6923
+Batch 30, Loss: 1.0433
+Batch 40, Loss: 0.7731
+Batch 50, Loss: 0.7314
+Batch 60, Loss: 0.9363
+Batch 70, Loss: 1.3077
+Batch 80, Loss: 0.7642
+Batch 90, Loss: 0.5760
+Epoch: 224 PixAcc: 0.7518, mIoU: 0.1856
+Batch 0, Loss: 0.9544
+Batch 10, Loss: 0.6406
+Batch 20, Loss: 0.5398
+Batch 30, Loss: 0.6164
+Batch 40, Loss: 1.2461
+Batch 50, Loss: 0.7476
+Batch 60, Loss: 1.2813
+Batch 70, Loss: 1.2777
+Batch 80, Loss: 1.1730
+Batch 90, Loss: 1.3688
+Epoch: 225 PixAcc: 0.7535, mIoU: 0.1795
+Batch 0, Loss: 1.2110
+Batch 10, Loss: 0.7506
+Batch 20, Loss: 0.7442
+Batch 30, Loss: 0.8266
+Batch 40, Loss: 1.1011
+Batch 50, Loss: 1.0174
+Batch 60, Loss: 0.7924
+Batch 70, Loss: 0.8221
+Batch 80, Loss: 0.8125
+Batch 90, Loss: 0.6657
+Epoch: 226 PixAcc: 0.7604, mIoU: 0.1918
+Batch 0, Loss: 1.0538
+Batch 10, Loss: 1.0851
+Batch 20, Loss: 0.9337
+Batch 30, Loss: 0.8824
+Batch 40, Loss: 0.9348
+Batch 50, Loss: 1.0137
+Batch 60, Loss: 0.5316
+Batch 70, Loss: 0.9074
+Batch 80, Loss: 1.0085
+Batch 90, Loss: 0.9107
+Epoch: 227 PixAcc: 0.7476, mIoU: 0.1836
+Batch 0, Loss: 0.5729
+Batch 10, Loss: 0.7501
+Batch 20, Loss: 0.6414
+Batch 30, Loss: 1.2516
+Batch 40, Loss: 0.6705
+Batch 50, Loss: 1.1792
+Batch 60, Loss: 0.7788
+Batch 70, Loss: 0.7368
+Batch 80, Loss: 0.8527
+Batch 90, Loss: 0.9695
+[1;32mBetter IoU Get![0m
+Epoch: 228 PixAcc: 0.7560, mIoU: 0.1960
+Batch 0, Loss: 0.7750
+Batch 10, Loss: 1.2269
+Batch 20, Loss: 0.7440
+Batch 30, Loss: 0.8996
+Batch 40, Loss: 0.9672
+Batch 50, Loss: 0.7001
+Batch 60, Loss: 0.5534
+Batch 70, Loss: 0.7832
+Batch 80, Loss: 0.7689
+Batch 90, Loss: 0.6328
+[1;32mBetter IoU Get![0m
+Epoch: 229 PixAcc: 0.7633, mIoU: 0.2049
+Batch 0, Loss: 1.0153
+Batch 10, Loss: 1.0032
+Batch 20, Loss: 0.6693
+Batch 30, Loss: 0.9165
+Batch 40, Loss: 0.6701
+Batch 50, Loss: 0.9484
+Batch 60, Loss: 1.2167
+Batch 70, Loss: 1.0195
+Batch 80, Loss: 0.9207
+Batch 90, Loss: 0.5907
+Epoch: 230 PixAcc: 0.7614, mIoU: 0.1969
+Batch 0, Loss: 0.6516
+Batch 10, Loss: 0.8714
+Batch 20, Loss: 0.5123
+Batch 30, Loss: 0.9591
+Batch 40, Loss: 1.0208
+Batch 50, Loss: 0.7250
+Batch 60, Loss: 0.7972
+Batch 70, Loss: 0.6673
+Batch 80, Loss: 1.0478
+Batch 90, Loss: 0.9050
+Epoch: 231 PixAcc: 0.7564, mIoU: 0.1961
+Batch 0, Loss: 0.5382
+Batch 10, Loss: 0.7546
+Batch 20, Loss: 0.6022
+Batch 30, Loss: 0.8456
+Batch 40, Loss: 0.6327
+Batch 50, Loss: 0.7199
+Batch 60, Loss: 1.1061
+Batch 70, Loss: 1.0169
+Batch 80, Loss: 0.9759
+Batch 90, Loss: 0.6618
+Epoch: 232 PixAcc: 0.7587, mIoU: 0.1910
+Batch 0, Loss: 1.0320
+Batch 10, Loss: 0.8119
+Batch 20, Loss: 1.3310
+Batch 30, Loss: 0.7662
+Batch 40, Loss: 1.0972
+Batch 50, Loss: 0.7463
+Batch 60, Loss: 0.9306
+Batch 70, Loss: 0.5660
+Batch 80, Loss: 1.1196
+Batch 90, Loss: 0.8502
+[1;32mBetter IoU Get![0m
+Epoch: 233 PixAcc: 0.7596, mIoU: 0.2057
+Batch 0, Loss: 0.7455
+Batch 10, Loss: 0.8380
+Batch 20, Loss: 0.5712
+Batch 30, Loss: 0.8623
+Batch 40, Loss: 0.6497
+Batch 50, Loss: 1.0800
+Batch 60, Loss: 0.9368
+Batch 70, Loss: 0.5958
+Batch 80, Loss: 0.8776
+Batch 90, Loss: 1.1388
+Epoch: 234 PixAcc: 0.7557, mIoU: 0.2006
+Batch 0, Loss: 1.1236
+Batch 10, Loss: 0.8878
+Batch 20, Loss: 1.0270
+Batch 30, Loss: 1.4874
+Batch 40, Loss: 0.8223
+Batch 50, Loss: 1.0680
+Batch 60, Loss: 0.5833
+Batch 70, Loss: 0.7211
+Batch 80, Loss: 0.9398
+Batch 90, Loss: 0.5955
+[1;32mBetter IoU Get![0m
+Epoch: 235 PixAcc: 0.7598, mIoU: 0.2075
+Batch 0, Loss: 0.7413
+Batch 10, Loss: 0.7001
+Batch 20, Loss: 1.1131
+Batch 30, Loss: 1.0676
+Batch 40, Loss: 0.9518
+Batch 50, Loss: 0.8158
+Batch 60, Loss: 0.9672
+Batch 70, Loss: 0.9468
+Batch 80, Loss: 0.9980
+Batch 90, Loss: 1.1895
+Epoch: 236 PixAcc: 0.7558, mIoU: 0.2035
+Batch 0, Loss: 1.0236
+Batch 10, Loss: 0.9538
+Batch 20, Loss: 0.5748
+Batch 30, Loss: 0.9239
+Batch 40, Loss: 0.8404
+Batch 50, Loss: 0.5832
+Batch 60, Loss: 1.1738
+Batch 70, Loss: 0.7585
+Batch 80, Loss: 0.6335
+Batch 90, Loss: 0.7331
+Epoch: 237 PixAcc: 0.7573, mIoU: 0.1954
+Batch 0, Loss: 0.8770
+Batch 10, Loss: 0.7311
+Batch 20, Loss: 0.8947
+Batch 30, Loss: 0.8931
+Batch 40, Loss: 1.0772
+Batch 50, Loss: 0.8836
+Batch 60, Loss: 0.6820
+Batch 70, Loss: 0.9809
+Batch 80, Loss: 0.6885
+Batch 90, Loss: 0.6543
+Epoch: 238 PixAcc: 0.7511, mIoU: 0.1847
+Batch 0, Loss: 0.8275
+Batch 10, Loss: 0.8259
+Batch 20, Loss: 1.2227
+Batch 30, Loss: 1.1814
+Batch 40, Loss: 0.8613
+Batch 50, Loss: 0.8247
+Batch 60, Loss: 0.7860
+Batch 70, Loss: 0.6006
+Batch 80, Loss: 0.5889
+Batch 90, Loss: 0.8907
+Epoch: 239 PixAcc: 0.7569, mIoU: 0.1966
+Batch 0, Loss: 0.9719
+Batch 10, Loss: 0.8020
+Batch 20, Loss: 0.8280
+Batch 30, Loss: 0.9525
+Batch 40, Loss: 0.6397
+Batch 50, Loss: 0.7076
+Batch 60, Loss: 0.7484
+Batch 70, Loss: 0.9906
+Batch 80, Loss: 0.6352
+Batch 90, Loss: 0.7057
+[1;32mBetter IoU Get![0m
+Epoch: 240 PixAcc: 0.7600, mIoU: 0.2087
+Batch 0, Loss: 1.1434
+Batch 10, Loss: 0.8225
+Batch 20, Loss: 0.9534
+Batch 30, Loss: 0.6520
+Batch 40, Loss: 0.6423
+Batch 50, Loss: 0.8981
+Batch 60, Loss: 0.6405
+Batch 70, Loss: 0.6789
+Batch 80, Loss: 0.8798
+Batch 90, Loss: 0.9760
+Epoch: 241 PixAcc: 0.7593, mIoU: 0.2045
+Batch 0, Loss: 0.9337
+Batch 10, Loss: 0.7181
+Batch 20, Loss: 0.5660
+Batch 30, Loss: 0.9425
+Batch 40, Loss: 0.8031
+Batch 50, Loss: 0.8103
+Batch 60, Loss: 0.7571
+Batch 70, Loss: 0.6468
+Batch 80, Loss: 0.5658
+Batch 90, Loss: 0.8330
+Epoch: 242 PixAcc: 0.7596, mIoU: 0.2003
+Batch 0, Loss: 0.7375
+Batch 10, Loss: 0.6419
+Batch 20, Loss: 0.7539
+Batch 30, Loss: 0.4961
+Batch 40, Loss: 0.7119
+Batch 50, Loss: 0.8944
+Batch 60, Loss: 0.6091
+Batch 70, Loss: 1.1148
+Batch 80, Loss: 0.6577
+Batch 90, Loss: 0.8181
+Epoch: 243 PixAcc: 0.7551, mIoU: 0.1913
+Batch 0, Loss: 0.8939
+Batch 10, Loss: 0.9795
+Batch 20, Loss: 1.0057
+Batch 30, Loss: 0.7265
+Batch 40, Loss: 0.9094
+Batch 50, Loss: 0.8804
+Batch 60, Loss: 0.8814
+Batch 70, Loss: 0.7542
+Batch 80, Loss: 0.8324
+Batch 90, Loss: 0.8423
+Epoch: 244 PixAcc: 0.7597, mIoU: 0.1991
+Batch 0, Loss: 0.7555
+Batch 10, Loss: 0.9782
+Batch 20, Loss: 1.1733
+Batch 30, Loss: 0.8536
+Batch 40, Loss: 0.6698
+Batch 50, Loss: 0.7226
+Batch 60, Loss: 0.8552
+Batch 70, Loss: 0.6943
+Batch 80, Loss: 0.8724
+Batch 90, Loss: 0.5547
+[1;32mBetter IoU Get![0m
+Epoch: 245 PixAcc: 0.7627, mIoU: 0.2165
+Batch 0, Loss: 0.9672
+Batch 10, Loss: 0.7487
+Batch 20, Loss: 1.0213
+Batch 30, Loss: 0.7389
+Batch 40, Loss: 0.8543
+Batch 50, Loss: 1.2114
+Batch 60, Loss: 0.8735
+Batch 70, Loss: 0.6964
+Batch 80, Loss: 0.7321
+Batch 90, Loss: 0.8241
+Epoch: 246 PixAcc: 0.7568, mIoU: 0.1934
+Batch 0, Loss: 0.9233
+Batch 10, Loss: 0.7212
+Batch 20, Loss: 0.6697
+Batch 30, Loss: 0.7208
+Batch 40, Loss: 0.7994
+Batch 50, Loss: 0.5838
+Batch 60, Loss: 0.9544
+Batch 70, Loss: 1.3769
+Batch 80, Loss: 1.0585
+Batch 90, Loss: 1.3856
+Epoch: 247 PixAcc: 0.7629, mIoU: 0.2111
+Batch 0, Loss: 1.0207
+Batch 10, Loss: 0.8708
+Batch 20, Loss: 0.6587
+Batch 30, Loss: 0.7212
+Batch 40, Loss: 1.0309
+Batch 50, Loss: 1.3791
+Batch 60, Loss: 0.7470
+Batch 70, Loss: 0.7245
+Batch 80, Loss: 1.2463
+Batch 90, Loss: 1.1987
+Epoch: 248 PixAcc: 0.7572, mIoU: 0.2017
+Batch 0, Loss: 1.0243
+Batch 10, Loss: 0.8087
+Batch 20, Loss: 0.7861
+Batch 30, Loss: 0.7990
+Batch 40, Loss: 0.5946
+Batch 50, Loss: 0.8758
+Batch 60, Loss: 0.7578
+Batch 70, Loss: 1.2444
+Batch 80, Loss: 0.9764
+Batch 90, Loss: 1.8997
+Epoch: 249 PixAcc: 0.7589, mIoU: 0.1918
+Batch 0, Loss: 0.7071
+Batch 10, Loss: 0.7272
+Batch 20, Loss: 0.9529
+Batch 30, Loss: 0.7386
+Batch 40, Loss: 0.6961
+Batch 50, Loss: 1.2133
+Batch 60, Loss: 1.0157
+Batch 70, Loss: 0.7764
+Batch 80, Loss: 0.5525
+Batch 90, Loss: 0.7253
+Epoch: 250 PixAcc: 0.7613, mIoU: 0.2032
+Batch 0, Loss: 1.0078
+Batch 10, Loss: 0.8518
+Batch 20, Loss: 0.8879
+Batch 30, Loss: 0.5475
+Batch 40, Loss: 0.8432
+Batch 50, Loss: 0.7423
+Batch 60, Loss: 0.6453
+Batch 70, Loss: 0.8326
+Batch 80, Loss: 1.4488
+Batch 90, Loss: 0.9595
+Epoch: 251 PixAcc: 0.7458, mIoU: 0.1679
+Batch 0, Loss: 1.1067
+Batch 10, Loss: 1.0607
+Batch 20, Loss: 0.9024
+Batch 30, Loss: 0.7686
+Batch 40, Loss: 0.7702
+Batch 50, Loss: 0.9725
+Batch 60, Loss: 0.6947
+Batch 70, Loss: 0.7857
+Batch 80, Loss: 1.2030
+Batch 90, Loss: 0.8536
+Epoch: 252 PixAcc: 0.7576, mIoU: 0.2104
+Batch 0, Loss: 1.2304
+Batch 10, Loss: 1.0606
+Batch 20, Loss: 0.6400
+Batch 30, Loss: 0.7033
+Batch 40, Loss: 0.6458
+Batch 50, Loss: 0.6334
+Batch 60, Loss: 0.6587
+Batch 70, Loss: 1.0078
+Batch 80, Loss: 0.9087
+Batch 90, Loss: 0.8375
+Epoch: 253 PixAcc: 0.7653, mIoU: 0.2112
+Batch 0, Loss: 0.8831
+Batch 10, Loss: 0.6784
+Batch 20, Loss: 0.8418
+Batch 30, Loss: 0.9308
+Batch 40, Loss: 0.9306
+Batch 50, Loss: 0.7176
+Batch 60, Loss: 0.6588
+Batch 70, Loss: 0.8267
+Batch 80, Loss: 0.5990
+Batch 90, Loss: 0.7628
+Epoch: 254 PixAcc: 0.7572, mIoU: 0.2077
+Batch 0, Loss: 0.8910
+Batch 10, Loss: 0.7088
+Batch 20, Loss: 0.8132
+Batch 30, Loss: 1.2647
+Batch 40, Loss: 0.6897
+Batch 50, Loss: 0.7979
+Batch 60, Loss: 1.1985
+Batch 70, Loss: 1.0574
+Batch 80, Loss: 0.9650
+Batch 90, Loss: 0.7960
+Epoch: 255 PixAcc: 0.7576, mIoU: 0.2006
+Batch 0, Loss: 0.7314
+Batch 10, Loss: 0.5511
+Batch 20, Loss: 0.8595
+Batch 30, Loss: 0.8575
+Batch 40, Loss: 0.9745
+Batch 50, Loss: 0.7230
+Batch 60, Loss: 0.5219
+Batch 70, Loss: 0.7957
+Batch 80, Loss: 1.1362
+Batch 90, Loss: 1.2569
+Epoch: 256 PixAcc: 0.7590, mIoU: 0.2068
+Batch 0, Loss: 0.7861
+Batch 10, Loss: 0.9548
+Batch 20, Loss: 0.7856
+Batch 30, Loss: 1.0262
+Batch 40, Loss: 0.7721
+Batch 50, Loss: 1.1156
+Batch 60, Loss: 0.6539
+Batch 70, Loss: 0.6971
+Batch 80, Loss: 0.8097
+Batch 90, Loss: 0.7553
+Epoch: 257 PixAcc: 0.7668, mIoU: 0.2157
+Batch 0, Loss: 0.7926
+Batch 10, Loss: 0.9064
+Batch 20, Loss: 0.5267
+Batch 30, Loss: 0.6160
+Batch 40, Loss: 0.9956
+Batch 50, Loss: 1.0259
+Batch 60, Loss: 0.8235
+Batch 70, Loss: 0.7128
+Batch 80, Loss: 0.8131
+Batch 90, Loss: 0.8021
+Epoch: 258 PixAcc: 0.7641, mIoU: 0.2122
+Batch 0, Loss: 1.2178
+Batch 10, Loss: 0.6194
+Batch 20, Loss: 1.0657
+Batch 30, Loss: 0.8473
+Batch 40, Loss: 0.9024
+Batch 50, Loss: 1.2865
+Batch 60, Loss: 0.8951
+Batch 70, Loss: 0.6797
+Batch 80, Loss: 1.4669
+Batch 90, Loss: 0.6455
+[1;32mBetter IoU Get![0m
+Epoch: 259 PixAcc: 0.7638, mIoU: 0.2222
+Batch 0, Loss: 0.8250
+Batch 10, Loss: 0.8775
+Batch 20, Loss: 0.9202
+Batch 30, Loss: 0.7111
+Batch 40, Loss: 0.7566
+Batch 50, Loss: 1.0629
+Batch 60, Loss: 0.7635
+Batch 70, Loss: 0.6560
+Batch 80, Loss: 0.8762
+Batch 90, Loss: 0.8483
+Epoch: 260 PixAcc: 0.7604, mIoU: 0.2136
+Batch 0, Loss: 0.6638
+Batch 10, Loss: 0.6179
+Batch 20, Loss: 1.1056
+Batch 30, Loss: 0.6513
+Batch 40, Loss: 0.5096
+Batch 50, Loss: 0.9653
+Batch 60, Loss: 0.9059
+Batch 70, Loss: 0.6185
+Batch 80, Loss: 0.8731
+Batch 90, Loss: 0.7371
+Epoch: 261 PixAcc: 0.7560, mIoU: 0.2017
+Batch 0, Loss: 0.5730
+Batch 10, Loss: 0.7518
+Batch 20, Loss: 0.8123
+Batch 30, Loss: 0.7895
+Batch 40, Loss: 0.7232
+Batch 50, Loss: 0.7621
+Batch 60, Loss: 0.8392
+Batch 70, Loss: 1.6758
+Batch 80, Loss: 1.2461
+Batch 90, Loss: 0.9161
+Epoch: 262 PixAcc: 0.7596, mIoU: 0.2111
+Batch 0, Loss: 0.9062
+Batch 10, Loss: 0.5369
+Batch 20, Loss: 0.7908
+Batch 30, Loss: 0.6998
+Batch 40, Loss: 0.7737
+Batch 50, Loss: 1.0433
+Batch 60, Loss: 0.6769
+Batch 70, Loss: 0.6092
+Batch 80, Loss: 0.8900
+Batch 90, Loss: 0.7515
+Epoch: 263 PixAcc: 0.7605, mIoU: 0.2131
+Batch 0, Loss: 0.7344
+Batch 10, Loss: 0.7936
+Batch 20, Loss: 0.7664
+Batch 30, Loss: 0.9703
+Batch 40, Loss: 0.9754
+Batch 50, Loss: 0.9240
+Batch 60, Loss: 0.8796
+Batch 70, Loss: 1.3511
+Batch 80, Loss: 1.0351
+Batch 90, Loss: 1.0609
+[1;32mBetter IoU Get![0m
+Epoch: 264 PixAcc: 0.7689, mIoU: 0.2232
+Batch 0, Loss: 0.5685
+Batch 10, Loss: 0.5858
+Batch 20, Loss: 0.9111
+Batch 30, Loss: 0.7365
+Batch 40, Loss: 1.1355
+Batch 50, Loss: 0.7477
+Batch 60, Loss: 0.7391
+Batch 70, Loss: 0.6104
+Batch 80, Loss: 1.2095
+Batch 90, Loss: 0.6542
+Epoch: 265 PixAcc: 0.7611, mIoU: 0.2170
+Batch 0, Loss: 0.9590
+Batch 10, Loss: 1.5971
+Batch 20, Loss: 1.1445
+Batch 30, Loss: 0.7627
+Batch 40, Loss: 0.8965
+Batch 50, Loss: 1.1775
+Batch 60, Loss: 0.7270
+Batch 70, Loss: 1.1533
+Batch 80, Loss: 0.8430
+Batch 90, Loss: 0.8897
+Epoch: 266 PixAcc: 0.7665, mIoU: 0.2179
+Batch 0, Loss: 0.5329
+Batch 10, Loss: 0.5352
+Batch 20, Loss: 0.8167
+Batch 30, Loss: 0.9570
+Batch 40, Loss: 0.9331
+Batch 50, Loss: 0.5935
+Batch 60, Loss: 0.6792
+Batch 70, Loss: 0.8652
+Batch 80, Loss: 0.6871
+Batch 90, Loss: 0.9930
+Epoch: 267 PixAcc: 0.7530, mIoU: 0.2104
+Batch 0, Loss: 0.9937
+Batch 10, Loss: 0.9060
+Batch 20, Loss: 0.6724
+Batch 30, Loss: 0.4655
+Batch 40, Loss: 0.5163
+Batch 50, Loss: 0.6967
+Batch 60, Loss: 0.8683
+Batch 70, Loss: 1.5500
+Batch 80, Loss: 0.8029
+Batch 90, Loss: 0.8404
+Epoch: 268 PixAcc: 0.7567, mIoU: 0.2088
+Batch 0, Loss: 0.6718
+Batch 10, Loss: 0.7164
+Batch 20, Loss: 0.6534
+Batch 30, Loss: 0.7318
+Batch 40, Loss: 0.8220
+Batch 50, Loss: 0.9200
+Batch 60, Loss: 0.7957
+Batch 70, Loss: 1.0210
+Batch 80, Loss: 0.8658
+Batch 90, Loss: 0.7645
+Epoch: 269 PixAcc: 0.7565, mIoU: 0.2095
+Batch 0, Loss: 0.7900
+Batch 10, Loss: 0.8958
+Batch 20, Loss: 0.5625
+Batch 30, Loss: 0.6750
+Batch 40, Loss: 0.7156
+Batch 50, Loss: 0.8483
+Batch 60, Loss: 0.6714
+Batch 70, Loss: 0.8788
+Batch 80, Loss: 0.7222
+Batch 90, Loss: 0.7870
+Epoch: 270 PixAcc: 0.7562, mIoU: 0.2167
+Batch 0, Loss: 0.6708
+Batch 10, Loss: 0.7488
+Batch 20, Loss: 0.8768
+Batch 30, Loss: 0.8689
+Batch 40, Loss: 0.6044
+Batch 50, Loss: 0.5888
+Batch 60, Loss: 0.4919
+Batch 70, Loss: 0.5406
+Batch 80, Loss: 0.8607
+Batch 90, Loss: 1.1529
+Epoch: 271 PixAcc: 0.7579, mIoU: 0.2092
+Batch 0, Loss: 1.1500
+Batch 10, Loss: 0.4427
+Batch 20, Loss: 0.6309
+Batch 30, Loss: 0.7663
+Batch 40, Loss: 0.7630
+Batch 50, Loss: 0.8395
+Batch 60, Loss: 0.8790
+Batch 70, Loss: 0.8829
+Batch 80, Loss: 0.7295
+Batch 90, Loss: 0.9453
+Epoch: 272 PixAcc: 0.7572, mIoU: 0.2113
+Batch 0, Loss: 0.9132
+Batch 10, Loss: 0.6919
+Batch 20, Loss: 0.5180
+Batch 30, Loss: 0.9798
+Batch 40, Loss: 0.7115
+Batch 50, Loss: 1.0672
+Batch 60, Loss: 0.9659
+Batch 70, Loss: 1.0129
+Batch 80, Loss: 0.6886
+Batch 90, Loss: 0.6174
+Epoch: 273 PixAcc: 0.7614, mIoU: 0.2066
+Batch 0, Loss: 0.7366
+Batch 10, Loss: 1.0064
+Batch 20, Loss: 0.4256
+Batch 30, Loss: 0.7056
+Batch 40, Loss: 0.8041
+Batch 50, Loss: 0.7876
+Batch 60, Loss: 0.5891
+Batch 70, Loss: 0.7211
+Batch 80, Loss: 0.7390
+Batch 90, Loss: 0.8224
+[1;32mBetter IoU Get![0m
+Epoch: 274 PixAcc: 0.7667, mIoU: 0.2280
+Batch 0, Loss: 1.0267
+Batch 10, Loss: 0.6642
+Batch 20, Loss: 0.9663
+Batch 30, Loss: 0.6268
+Batch 40, Loss: 1.0345
+Batch 50, Loss: 0.8872
+Batch 60, Loss: 0.7895
+Batch 70, Loss: 0.4510
+Batch 80, Loss: 0.8085
+Batch 90, Loss: 0.5022
+[1;32mBetter IoU Get![0m
+Epoch: 275 PixAcc: 0.7640, mIoU: 0.2313
+Batch 0, Loss: 0.7364
+Batch 10, Loss: 0.5943
+Batch 20, Loss: 0.6926
+Batch 30, Loss: 0.7124
+Batch 40, Loss: 0.9789
+Batch 50, Loss: 0.5446
+Batch 60, Loss: 0.6917
+Batch 70, Loss: 0.8229
+Batch 80, Loss: 0.8736
+Batch 90, Loss: 0.7461
+Epoch: 276 PixAcc: 0.7613, mIoU: 0.2116
+Batch 0, Loss: 1.0858
+Batch 10, Loss: 0.8107
+Batch 20, Loss: 0.8653
+Batch 30, Loss: 0.7682
+Batch 40, Loss: 0.6068
+Batch 50, Loss: 0.7513
+Batch 60, Loss: 0.6620
+Batch 70, Loss: 0.7806
+Batch 80, Loss: 0.7367
+Batch 90, Loss: 1.0074
+Epoch: 277 PixAcc: 0.7590, mIoU: 0.2206
+Batch 0, Loss: 0.9049
+Batch 10, Loss: 0.5551
+Batch 20, Loss: 1.1116
+Batch 30, Loss: 0.8361
+Batch 40, Loss: 0.7410
+Batch 50, Loss: 0.6728
+Batch 60, Loss: 0.5657
+Batch 70, Loss: 1.1926
+Batch 80, Loss: 0.6920
+Batch 90, Loss: 0.7376
+Epoch: 278 PixAcc: 0.7553, mIoU: 0.2187
+Batch 0, Loss: 0.7956
+Batch 10, Loss: 0.8076
+Batch 20, Loss: 0.7856
+Batch 30, Loss: 0.9608
+Batch 40, Loss: 0.8944
+Batch 50, Loss: 0.7935
+Batch 60, Loss: 0.6063
+Batch 70, Loss: 0.7558
+Batch 80, Loss: 0.6996
+Batch 90, Loss: 0.6935
+Epoch: 279 PixAcc: 0.7592, mIoU: 0.2046
+Batch 0, Loss: 0.7826
+Batch 10, Loss: 0.7691
+Batch 20, Loss: 0.5318
+Batch 30, Loss: 0.9465
+Batch 40, Loss: 0.9525
+Batch 50, Loss: 0.8180
+Batch 60, Loss: 0.7024
+Batch 70, Loss: 0.8731
+Batch 80, Loss: 1.0853
+Batch 90, Loss: 0.7384
+Epoch: 280 PixAcc: 0.7639, mIoU: 0.2210
+Batch 0, Loss: 0.8201
+Batch 10, Loss: 0.9832
+Batch 20, Loss: 1.0219
+Batch 30, Loss: 0.8970
+Batch 40, Loss: 0.7726
+Batch 50, Loss: 0.6547
+Batch 60, Loss: 0.6939
+Batch 70, Loss: 0.6474
+Batch 80, Loss: 0.7597
+Batch 90, Loss: 0.7818
+Epoch: 281 PixAcc: 0.7676, mIoU: 0.2171
+Batch 0, Loss: 0.5650
+Batch 10, Loss: 0.9976
+Batch 20, Loss: 0.8542
+Batch 30, Loss: 0.6545
+Batch 40, Loss: 1.0467
+Batch 50, Loss: 0.7154
+Batch 60, Loss: 1.0290
+Batch 70, Loss: 0.5754
+Batch 80, Loss: 0.9661
+Batch 90, Loss: 0.8758
+Epoch: 282 PixAcc: 0.7600, mIoU: 0.2187
+Batch 0, Loss: 0.7167
+Batch 10, Loss: 0.6794
+Batch 20, Loss: 0.8023
+Batch 30, Loss: 0.8024
+Batch 40, Loss: 0.8618
+Batch 50, Loss: 0.8974
+Batch 60, Loss: 0.7742
+Batch 70, Loss: 0.9282
+Batch 80, Loss: 0.5602
+Batch 90, Loss: 0.7038
+Epoch: 283 PixAcc: 0.7517, mIoU: 0.1972
+Batch 0, Loss: 1.1257
+Batch 10, Loss: 1.0709
+Batch 20, Loss: 0.7331
+Batch 30, Loss: 0.8823
+Batch 40, Loss: 0.9262
+Batch 50, Loss: 0.9149
+Batch 60, Loss: 0.8133
+Batch 70, Loss: 1.1470
+Batch 80, Loss: 0.8286
+Batch 90, Loss: 0.7253
+Epoch: 284 PixAcc: 0.7682, mIoU: 0.2185
+Batch 0, Loss: 0.7747
+Batch 10, Loss: 0.6637
+Batch 20, Loss: 0.9077
+Batch 30, Loss: 0.5437
+Batch 40, Loss: 0.7568
+Batch 50, Loss: 0.6464
+Batch 60, Loss: 0.9184
+Batch 70, Loss: 1.3444
+Batch 80, Loss: 0.5188
+Batch 90, Loss: 0.7743
+Epoch: 285 PixAcc: 0.7650, mIoU: 0.2235
+Batch 0, Loss: 0.8319
+Batch 10, Loss: 1.2051
+Batch 20, Loss: 0.6766
+Batch 30, Loss: 0.6786
+Batch 40, Loss: 0.9197
+Batch 50, Loss: 1.3239
+Batch 60, Loss: 0.7704
+Batch 70, Loss: 0.8173
+Batch 80, Loss: 0.4870
+Batch 90, Loss: 0.8282
+Epoch: 286 PixAcc: 0.7609, mIoU: 0.1977
+Batch 0, Loss: 0.7076
+Batch 10, Loss: 0.6435
+Batch 20, Loss: 0.6179
+Batch 30, Loss: 1.0812
+Batch 40, Loss: 0.7193
+Batch 50, Loss: 0.7944
+Batch 60, Loss: 0.9517
+Batch 70, Loss: 0.8120
+Batch 80, Loss: 0.9186
+Batch 90, Loss: 0.5363
+[1;32mBetter IoU Get![0m
+Epoch: 287 PixAcc: 0.7663, mIoU: 0.2337
+Batch 0, Loss: 0.7749
+Batch 10, Loss: 0.7792
+Batch 20, Loss: 0.7773
+Batch 30, Loss: 0.6728
+Batch 40, Loss: 0.5725
+Batch 50, Loss: 0.4537
+Batch 60, Loss: 1.0582
+Batch 70, Loss: 0.6464
+Batch 80, Loss: 0.6986
+Batch 90, Loss: 1.1597
+Epoch: 288 PixAcc: 0.7607, mIoU: 0.2103
+Batch 0, Loss: 0.8856
+Batch 10, Loss: 0.8633
+Batch 20, Loss: 1.0028
+Batch 30, Loss: 0.6708
+Batch 40, Loss: 0.6799
+Batch 50, Loss: 0.5449
+Batch 60, Loss: 0.8782
+Batch 70, Loss: 0.9151
+Batch 80, Loss: 0.9161
+Batch 90, Loss: 0.6719
+Epoch: 289 PixAcc: 0.7589, mIoU: 0.2046
+Batch 0, Loss: 0.7161
+Batch 10, Loss: 0.8813
+Batch 20, Loss: 0.8338
+Batch 30, Loss: 0.6774
+Batch 40, Loss: 0.5849
+Batch 50, Loss: 0.7087
+Batch 60, Loss: 0.8655
+Batch 70, Loss: 0.6478
+Batch 80, Loss: 0.7137
+Batch 90, Loss: 0.7137
+Epoch: 290 PixAcc: 0.7645, mIoU: 0.2103
+Batch 0, Loss: 0.7262
+Batch 10, Loss: 0.7313
+Batch 20, Loss: 0.7160
+Batch 30, Loss: 0.6335
+Batch 40, Loss: 0.7911
+Batch 50, Loss: 0.8639
+Batch 60, Loss: 0.8004
+Batch 70, Loss: 0.6949
+Batch 80, Loss: 0.6458
+Batch 90, Loss: 0.6514
+Epoch: 291 PixAcc: 0.7640, mIoU: 0.2182
+Batch 0, Loss: 0.8116
+Batch 10, Loss: 0.9959
+Batch 20, Loss: 0.7626
+Batch 30, Loss: 0.7631
+Batch 40, Loss: 0.7043
+Batch 50, Loss: 0.5741
+Batch 60, Loss: 0.8937
+Batch 70, Loss: 0.8262
+Batch 80, Loss: 0.9102
+Batch 90, Loss: 0.8174
+Epoch: 292 PixAcc: 0.7631, mIoU: 0.2256
+Batch 0, Loss: 0.7305
+Batch 10, Loss: 0.7930
+Batch 20, Loss: 0.5680
+Batch 30, Loss: 0.6904
+Batch 40, Loss: 0.4762
+Batch 50, Loss: 0.7026
+Batch 60, Loss: 1.0073
+Batch 70, Loss: 0.9031
+Batch 80, Loss: 0.5457
+Batch 90, Loss: 0.8266
+Epoch: 293 PixAcc: 0.7704, mIoU: 0.2324
+Batch 0, Loss: 0.7021
+Batch 10, Loss: 0.9215
+Batch 20, Loss: 0.7254
+Batch 30, Loss: 0.6089
+Batch 40, Loss: 0.5519
+Batch 50, Loss: 0.7610
+Batch 60, Loss: 1.3458
+Batch 70, Loss: 0.6528
+Batch 80, Loss: 0.6796
+Batch 90, Loss: 0.6636
+Epoch: 294 PixAcc: 0.7649, mIoU: 0.2235
+Batch 0, Loss: 0.7859
+Batch 10, Loss: 0.7450
+Batch 20, Loss: 1.0054
+Batch 30, Loss: 0.8852
+Batch 40, Loss: 0.9141
+Batch 50, Loss: 1.1632
+Batch 60, Loss: 1.3613
+Batch 70, Loss: 0.8175
+Batch 80, Loss: 0.6008
+Batch 90, Loss: 0.9438
+Epoch: 295 PixAcc: 0.7583, mIoU: 0.2193
+Batch 0, Loss: 0.6005
+Batch 10, Loss: 0.9499
+Batch 20, Loss: 0.9233
+Batch 30, Loss: 0.6104
+Batch 40, Loss: 0.7281
+Batch 50, Loss: 0.6723
+Batch 60, Loss: 1.0156
+Batch 70, Loss: 0.5596
+Batch 80, Loss: 1.0519
+Batch 90, Loss: 0.7441
+Epoch: 296 PixAcc: 0.7622, mIoU: 0.2293
+Batch 0, Loss: 0.7587
+Batch 10, Loss: 0.5767
+Batch 20, Loss: 0.7624
+Batch 30, Loss: 0.4940
+Batch 40, Loss: 0.7858
+Batch 50, Loss: 0.7137
+Batch 60, Loss: 0.8349
+Batch 70, Loss: 0.7770
+Batch 80, Loss: 0.8312
+Batch 90, Loss: 1.2443
+Epoch: 297 PixAcc: 0.7685, mIoU: 0.2256
+Batch 0, Loss: 0.7252
+Batch 10, Loss: 0.7734
+Batch 20, Loss: 0.7157
+Batch 30, Loss: 0.9549
+Batch 40, Loss: 0.9861
+Batch 50, Loss: 1.1169
+Batch 60, Loss: 0.8767
+Batch 70, Loss: 0.7586
+Batch 80, Loss: 0.7631
+Batch 90, Loss: 0.6804
+Epoch: 298 PixAcc: 0.7574, mIoU: 0.2284
+Batch 0, Loss: 0.7967
+Batch 10, Loss: 0.5126
+Batch 20, Loss: 0.8671
+Batch 30, Loss: 0.9605
+Batch 40, Loss: 1.1207
+Batch 50, Loss: 0.7658
+Batch 60, Loss: 0.8172
+Batch 70, Loss: 0.7632
+Batch 80, Loss: 0.6782
+Batch 90, Loss: 0.8270
+Epoch: 299 PixAcc: 0.7650, mIoU: 0.2179
+Batch 0, Loss: 0.9016
+Batch 10, Loss: 0.9395
+Batch 20, Loss: 0.7080
+Batch 30, Loss: 0.9461
+Batch 40, Loss: 0.8801
+Batch 50, Loss: 0.5735
+Batch 60, Loss: 0.6650
+Batch 70, Loss: 0.6600
+Batch 80, Loss: 0.7512
+Batch 90, Loss: 0.9116
+Epoch: 300 PixAcc: 0.7649, mIoU: 0.2239
+Batch 0, Loss: 0.7440
+Batch 10, Loss: 0.6456
+Batch 20, Loss: 0.8986
+Batch 30, Loss: 0.8103
+Batch 40, Loss: 0.8352
+Batch 50, Loss: 0.8420
+Batch 60, Loss: 1.0553
+Batch 70, Loss: 0.6283
+Batch 80, Loss: 0.8579
+Batch 90, Loss: 0.7632
+Epoch: 301 PixAcc: 0.7703, mIoU: 0.2271
+Batch 0, Loss: 0.9168
+Batch 10, Loss: 0.7429
+Batch 20, Loss: 0.7408
+Batch 30, Loss: 0.7867
+Batch 40, Loss: 0.5668
+Batch 50, Loss: 1.0312
+Batch 60, Loss: 0.4359
+Batch 70, Loss: 0.7453
+Batch 80, Loss: 0.7186
+Batch 90, Loss: 0.8674
+Epoch: 302 PixAcc: 0.7564, mIoU: 0.2150
+Batch 0, Loss: 0.6487
+Batch 10, Loss: 0.6598
+Batch 20, Loss: 0.9319
+Batch 30, Loss: 0.5379
+Batch 40, Loss: 0.6966
+Batch 50, Loss: 0.8745
+Batch 60, Loss: 0.7481
+Batch 70, Loss: 0.7933
+Batch 80, Loss: 0.8499
+Batch 90, Loss: 0.7372
+Epoch: 303 PixAcc: 0.7627, mIoU: 0.2206
+Batch 0, Loss: 0.8835
+Batch 10, Loss: 0.6996
+Batch 20, Loss: 0.5321
+Batch 30, Loss: 0.7670
+Batch 40, Loss: 0.7528
+Batch 50, Loss: 0.5513
+Batch 60, Loss: 0.7401
+Batch 70, Loss: 0.7714
+Batch 80, Loss: 0.6694
+Batch 90, Loss: 0.8364
+Epoch: 304 PixAcc: 0.7645, mIoU: 0.2241
+Batch 0, Loss: 0.7317
+Batch 10, Loss: 0.9796
+Batch 20, Loss: 0.8020
+Batch 30, Loss: 0.8523
+Batch 40, Loss: 0.8083
+Batch 50, Loss: 0.8392
+Batch 60, Loss: 0.5579
+Batch 70, Loss: 0.8855
+Batch 80, Loss: 0.6534
+Batch 90, Loss: 0.7132
+Epoch: 305 PixAcc: 0.7570, mIoU: 0.2133
+Batch 0, Loss: 0.5403
+Batch 10, Loss: 0.6505
+Batch 20, Loss: 0.5556
+Batch 30, Loss: 0.4686
+Batch 40, Loss: 0.7104
+Batch 50, Loss: 0.9358
+Batch 60, Loss: 0.6830
+Batch 70, Loss: 0.7295
+Batch 80, Loss: 1.0248
+Batch 90, Loss: 0.8127
+Epoch: 306 PixAcc: 0.7635, mIoU: 0.2322
+Batch 0, Loss: 0.6714
+Batch 10, Loss: 0.7289
+Batch 20, Loss: 0.6663
+Batch 30, Loss: 0.9187
+Batch 40, Loss: 1.1314
+Batch 50, Loss: 0.9675
+Batch 60, Loss: 0.6481
+Batch 70, Loss: 0.5454
+Batch 80, Loss: 0.7016
+Batch 90, Loss: 0.5921
+Epoch: 307 PixAcc: 0.7590, mIoU: 0.2027
+Batch 0, Loss: 0.6233
+Batch 10, Loss: 0.8286
+Batch 20, Loss: 0.6868
+Batch 30, Loss: 0.5283
+Batch 40, Loss: 0.6382
+Batch 50, Loss: 0.6490
+Batch 60, Loss: 0.6892
+Batch 70, Loss: 1.0458
+Batch 80, Loss: 0.6559
+Batch 90, Loss: 0.6645
+Epoch: 308 PixAcc: 0.7669, mIoU: 0.2210
+Batch 0, Loss: 0.6993
+Batch 10, Loss: 0.9787
+Batch 20, Loss: 0.7129
+Batch 30, Loss: 1.0843
+Batch 40, Loss: 0.6983
+Batch 50, Loss: 0.6781
+Batch 60, Loss: 0.6972
+Batch 70, Loss: 0.6797
+Batch 80, Loss: 0.7949
+Batch 90, Loss: 0.8764
+[1;32mBetter IoU Get![0m
+Epoch: 309 PixAcc: 0.7684, mIoU: 0.2364
+Batch 0, Loss: 0.8353
+Batch 10, Loss: 0.6456
+Batch 20, Loss: 0.5122
+Batch 30, Loss: 0.6368
+Batch 40, Loss: 0.6649
+Batch 50, Loss: 0.6500
+Batch 60, Loss: 0.9225
+Batch 70, Loss: 0.7489
+Batch 80, Loss: 0.6279
+Batch 90, Loss: 0.8751
+Epoch: 310 PixAcc: 0.7746, mIoU: 0.2331
+Batch 0, Loss: 0.8436
+Batch 10, Loss: 0.6891
+Batch 20, Loss: 0.7214
+Batch 30, Loss: 0.7607
+Batch 40, Loss: 0.4506
+Batch 50, Loss: 0.5696
+Batch 60, Loss: 0.5944
+Batch 70, Loss: 0.8543
+Batch 80, Loss: 0.7833
+Batch 90, Loss: 1.2243
+[1;32mBetter IoU Get![0m
+Epoch: 311 PixAcc: 0.7679, mIoU: 0.2375
+Batch 0, Loss: 0.7258
+Batch 10, Loss: 0.8985
+Batch 20, Loss: 1.0244
+Batch 30, Loss: 0.5410
+Batch 40, Loss: 0.7243
+Batch 50, Loss: 0.7935
+Batch 60, Loss: 0.8340
+Batch 70, Loss: 0.8510
+Batch 80, Loss: 0.5396
+Batch 90, Loss: 0.8280
+Epoch: 312 PixAcc: 0.7694, mIoU: 0.2305
+Batch 0, Loss: 0.5962
+Batch 10, Loss: 0.6696
+Batch 20, Loss: 0.6800
+Batch 30, Loss: 0.6501
+Batch 40, Loss: 0.5914
+Batch 50, Loss: 0.7203
+Batch 60, Loss: 0.4987
+Batch 70, Loss: 0.6599
+Batch 80, Loss: 0.5052
+Batch 90, Loss: 0.5750
+Epoch: 313 PixAcc: 0.7648, mIoU: 0.2260
+Batch 0, Loss: 0.5651
+Batch 10, Loss: 0.8792
+Batch 20, Loss: 0.5746
+Batch 30, Loss: 0.6572
+Batch 40, Loss: 0.7782
+Batch 50, Loss: 0.7990
+Batch 60, Loss: 0.7289
+Batch 70, Loss: 0.6103
+Batch 80, Loss: 0.5771
+Batch 90, Loss: 0.5309
+[1;32mBetter IoU Get![0m
+Epoch: 314 PixAcc: 0.7743, mIoU: 0.2393
+Batch 0, Loss: 0.5361
+Batch 10, Loss: 0.6767
+Batch 20, Loss: 0.7439
+Batch 30, Loss: 0.8338
+Batch 40, Loss: 0.8799
+Batch 50, Loss: 0.7083
+Batch 60, Loss: 0.7206
+Batch 70, Loss: 0.6698
+Batch 80, Loss: 0.5604
+Batch 90, Loss: 0.8062
+[1;32mBetter IoU Get![0m
+Epoch: 315 PixAcc: 0.7717, mIoU: 0.2450
+Batch 0, Loss: 0.9462
+Batch 10, Loss: 0.5158
+Batch 20, Loss: 0.8526
+Batch 30, Loss: 0.5590
+Batch 40, Loss: 0.4451
+Batch 50, Loss: 0.8881
+Batch 60, Loss: 0.8705
+Batch 70, Loss: 1.4581
+Batch 80, Loss: 0.6508
+Batch 90, Loss: 0.8148
+Epoch: 316 PixAcc: 0.7663, mIoU: 0.2292
+Batch 0, Loss: 0.8216
+Batch 10, Loss: 0.9754
+Batch 20, Loss: 0.8826
+Batch 30, Loss: 0.5927
+Batch 40, Loss: 0.7061
+Batch 50, Loss: 0.8762
+Batch 60, Loss: 1.1450
+Batch 70, Loss: 1.0700
+Batch 80, Loss: 0.7491
+Batch 90, Loss: 0.5367
+Epoch: 317 PixAcc: 0.7666, mIoU: 0.2294
+Batch 0, Loss: 0.8316
+Batch 10, Loss: 0.7608
+Batch 20, Loss: 0.5706
+Batch 30, Loss: 0.8853
+Batch 40, Loss: 0.9793
+Batch 50, Loss: 0.5183
+Batch 60, Loss: 0.8366
+Batch 70, Loss: 0.5515
+Batch 80, Loss: 0.6997
+Batch 90, Loss: 0.7869
+Epoch: 318 PixAcc: 0.7644, mIoU: 0.2265
+Batch 0, Loss: 0.6891
+Batch 10, Loss: 0.7029
+Batch 20, Loss: 0.7727
+Batch 30, Loss: 1.0860
+Batch 40, Loss: 0.9861
+Batch 50, Loss: 0.8511
+Batch 60, Loss: 0.6580
+Batch 70, Loss: 0.8507
+Batch 80, Loss: 0.7113
+Batch 90, Loss: 0.9426
+Epoch: 319 PixAcc: 0.7684, mIoU: 0.2419
+Batch 0, Loss: 0.5505
+Batch 10, Loss: 0.8367
+Batch 20, Loss: 0.7764
+Batch 30, Loss: 0.7199
+Batch 40, Loss: 0.5751
+Batch 50, Loss: 0.5850
+Batch 60, Loss: 0.5422
+Batch 70, Loss: 0.5740
+Batch 80, Loss: 1.0219
+Batch 90, Loss: 0.5065
+[1;32mBetter IoU Get![0m
+Epoch: 320 PixAcc: 0.7690, mIoU: 0.2463
+Batch 0, Loss: 0.5421
+Batch 10, Loss: 0.7085
+Batch 20, Loss: 0.5809
+Batch 30, Loss: 0.8390
+Batch 40, Loss: 0.6406
+Batch 50, Loss: 0.5708
+Batch 60, Loss: 0.8096
+Batch 70, Loss: 0.6362
+Batch 80, Loss: 0.8309
+Batch 90, Loss: 0.7831
+Epoch: 321 PixAcc: 0.7638, mIoU: 0.2078
+Batch 0, Loss: 0.5632
+Batch 10, Loss: 0.5807
+Batch 20, Loss: 0.8828
+Batch 30, Loss: 0.7277
+Batch 40, Loss: 0.6542
+Batch 50, Loss: 0.7261
+Batch 60, Loss: 1.1436
+Batch 70, Loss: 0.9336
+Batch 80, Loss: 0.7604
+Batch 90, Loss: 0.5844
+Epoch: 322 PixAcc: 0.7708, mIoU: 0.2334
+Batch 0, Loss: 0.6954
+Batch 10, Loss: 1.1889
+Batch 20, Loss: 1.1338
+Batch 30, Loss: 0.5585
+Batch 40, Loss: 0.6738
+Batch 50, Loss: 0.8965
+Batch 60, Loss: 0.8011
+Batch 70, Loss: 0.4134
+Batch 80, Loss: 0.6054
+Batch 90, Loss: 0.6777
+Epoch: 323 PixAcc: 0.7478, mIoU: 0.2073
+Batch 0, Loss: 0.7224
+Batch 10, Loss: 0.6867
+Batch 20, Loss: 0.7349
+Batch 30, Loss: 0.9182
+Batch 40, Loss: 0.5996
+Batch 50, Loss: 0.8151
+Batch 60, Loss: 0.7307
+Batch 70, Loss: 0.6795
+Batch 80, Loss: 0.5316
+Batch 90, Loss: 0.7170
+Epoch: 324 PixAcc: 0.7694, mIoU: 0.2349
+Batch 0, Loss: 0.8845
+Batch 10, Loss: 0.6444
+Batch 20, Loss: 0.5023
+Batch 30, Loss: 0.4180
+Batch 40, Loss: 0.8720
+Batch 50, Loss: 0.9821
+Batch 60, Loss: 0.7356
+Batch 70, Loss: 0.9946
+Batch 80, Loss: 0.6580
+Batch 90, Loss: 0.9134
+Epoch: 325 PixAcc: 0.7672, mIoU: 0.2421
+Batch 0, Loss: 0.4753
+Batch 10, Loss: 0.9565
+Batch 20, Loss: 0.4541
+Batch 30, Loss: 0.9594
+Batch 40, Loss: 1.1841
+Batch 50, Loss: 1.0042
+Batch 60, Loss: 0.8364
+Batch 70, Loss: 0.7639
+Batch 80, Loss: 0.9216
+Batch 90, Loss: 0.5890
+Epoch: 326 PixAcc: 0.7610, mIoU: 0.2275
+Batch 0, Loss: 0.9891
+Batch 10, Loss: 0.6319
+Batch 20, Loss: 0.5794
+Batch 30, Loss: 0.4710
+Batch 40, Loss: 0.8521
+Batch 50, Loss: 0.6366
+Batch 60, Loss: 0.7354
+Batch 70, Loss: 0.5957
+Batch 80, Loss: 0.3969
+Batch 90, Loss: 0.5379
+[1;32mBetter IoU Get![0m
+Epoch: 327 PixAcc: 0.7712, mIoU: 0.2518
+Batch 0, Loss: 0.6885
+Batch 10, Loss: 0.4454
+Batch 20, Loss: 1.1306
+Batch 30, Loss: 0.8100
+Batch 40, Loss: 0.7042
+Batch 50, Loss: 0.8722
+Batch 60, Loss: 0.6110
+Batch 70, Loss: 0.7931
+Batch 80, Loss: 0.8508
+Batch 90, Loss: 0.7774
+Epoch: 328 PixAcc: 0.7750, mIoU: 0.2505
+Batch 0, Loss: 0.4528
+Batch 10, Loss: 0.8940
+Batch 20, Loss: 0.7224
+Batch 30, Loss: 0.5768
+Batch 40, Loss: 0.7866
+Batch 50, Loss: 0.7548
+Batch 60, Loss: 0.7261
+Batch 70, Loss: 0.5125
+Batch 80, Loss: 0.5944
+Batch 90, Loss: 0.4682
+Epoch: 329 PixAcc: 0.7603, mIoU: 0.2224
+Batch 0, Loss: 0.7813
+Batch 10, Loss: 0.6626
+Batch 20, Loss: 0.4907
+Batch 30, Loss: 0.6478
+Batch 40, Loss: 0.7592
+Batch 50, Loss: 0.5737
+Batch 60, Loss: 0.6193
+Batch 70, Loss: 0.4836
+Batch 80, Loss: 0.8035
+Batch 90, Loss: 0.5193
+Epoch: 330 PixAcc: 0.7632, mIoU: 0.2171
+Batch 0, Loss: 0.8415
+Batch 10, Loss: 0.8016
+Batch 20, Loss: 0.4873
+Batch 30, Loss: 0.9565
+Batch 40, Loss: 0.6131
+Batch 50, Loss: 0.8405
+Batch 60, Loss: 0.6401
+Batch 70, Loss: 0.7466
+Batch 80, Loss: 0.7727
+Batch 90, Loss: 0.6685
+Epoch: 331 PixAcc: 0.7669, mIoU: 0.2197
+Batch 0, Loss: 0.9335
+Batch 10, Loss: 0.6464
+Batch 20, Loss: 0.8972
+Batch 30, Loss: 0.4571
+Batch 40, Loss: 0.8641
+Batch 50, Loss: 0.6426
+Batch 60, Loss: 0.7280
+Batch 70, Loss: 0.8444
+Batch 80, Loss: 0.8297
+Batch 90, Loss: 0.7310
+Epoch: 332 PixAcc: 0.7680, mIoU: 0.2265
+Batch 0, Loss: 0.6918
+Batch 10, Loss: 0.7482
+Batch 20, Loss: 0.4471
+Batch 30, Loss: 0.7121
+Batch 40, Loss: 0.7273
+Batch 50, Loss: 0.8571
+Batch 60, Loss: 0.9490
+Batch 70, Loss: 0.5862
+Batch 80, Loss: 0.8375
+Batch 90, Loss: 0.9281
+Epoch: 333 PixAcc: 0.7698, mIoU: 0.2474
+Batch 0, Loss: 0.6266
+Batch 10, Loss: 1.0590
+Batch 20, Loss: 0.7593
+Batch 30, Loss: 0.8191
+Batch 40, Loss: 0.6847
+Batch 50, Loss: 0.6211
+Batch 60, Loss: 0.6920
+Batch 70, Loss: 0.4620
+Batch 80, Loss: 0.8916
+Batch 90, Loss: 0.7989
+Epoch: 334 PixAcc: 0.7669, mIoU: 0.2406
+Batch 0, Loss: 0.8012
+Batch 10, Loss: 0.8400
+Batch 20, Loss: 0.7081
+Batch 30, Loss: 0.4766
+Batch 40, Loss: 0.6955
+Batch 50, Loss: 1.2508
+Batch 60, Loss: 0.4829
+Batch 70, Loss: 0.9758
+Batch 80, Loss: 0.6093
+Batch 90, Loss: 0.7283
+Epoch: 335 PixAcc: 0.7645, mIoU: 0.2289
+Batch 0, Loss: 0.7371
+Batch 10, Loss: 0.7756
+Batch 20, Loss: 1.0304
+Batch 30, Loss: 0.5927
+Batch 40, Loss: 0.4443
+Batch 50, Loss: 0.9173
+Batch 60, Loss: 0.8253
+Batch 70, Loss: 0.6163
+Batch 80, Loss: 0.7589
+Batch 90, Loss: 0.6729
+Epoch: 336 PixAcc: 0.7717, mIoU: 0.2336
+Batch 0, Loss: 0.5229
+Batch 10, Loss: 0.9759
+Batch 20, Loss: 0.7097
+Batch 30, Loss: 0.7215
+Batch 40, Loss: 0.9172
+Batch 50, Loss: 1.1542
+Batch 60, Loss: 0.8833
+Batch 70, Loss: 0.7494
+Batch 80, Loss: 0.5053
+Batch 90, Loss: 0.5338
+Epoch: 337 PixAcc: 0.7713, mIoU: 0.2515
+Batch 0, Loss: 0.5252
+Batch 10, Loss: 0.8195
+Batch 20, Loss: 0.4452
+Batch 30, Loss: 0.7060
+Batch 40, Loss: 0.7715
+Batch 50, Loss: 0.7499
+Batch 60, Loss: 0.4082
+Batch 70, Loss: 1.1050
+Batch 80, Loss: 0.7877
+Batch 90, Loss: 0.6962
+Epoch: 338 PixAcc: 0.7671, mIoU: 0.2330
+Batch 0, Loss: 0.4638
+Batch 10, Loss: 0.6266
+Batch 20, Loss: 0.5204
+Batch 30, Loss: 0.6527
+Batch 40, Loss: 0.7585
+Batch 50, Loss: 0.5058
+Batch 60, Loss: 0.6738
+Batch 70, Loss: 0.9986
+Batch 80, Loss: 0.5393
+Batch 90, Loss: 0.6337
+[1;32mBetter IoU Get![0m
+Epoch: 339 PixAcc: 0.7715, mIoU: 0.2581
+Batch 0, Loss: 0.4752
+Batch 10, Loss: 0.7957
+Batch 20, Loss: 0.6473
+Batch 30, Loss: 0.7425
+Batch 40, Loss: 0.6255
+Batch 50, Loss: 0.4570
+Batch 60, Loss: 0.8053
+Batch 70, Loss: 1.0927
+Batch 80, Loss: 0.9904
+Batch 90, Loss: 0.8104
+Epoch: 340 PixAcc: 0.7714, mIoU: 0.2425
+Batch 0, Loss: 0.4756
+Batch 10, Loss: 0.6390
+Batch 20, Loss: 0.8768
+Batch 30, Loss: 0.7452
+Batch 40, Loss: 0.7053
+Batch 50, Loss: 0.7204
+Batch 60, Loss: 0.5153
+Batch 70, Loss: 0.7123
+Batch 80, Loss: 0.8263
+Batch 90, Loss: 0.6092
+Epoch: 341 PixAcc: 0.7652, mIoU: 0.2354
+Batch 0, Loss: 0.6932
+Batch 10, Loss: 0.6373
+Batch 20, Loss: 0.6642
+Batch 30, Loss: 0.6591
+Batch 40, Loss: 0.5186
+Batch 50, Loss: 0.6438
+Batch 60, Loss: 0.7956
+Batch 70, Loss: 0.7655
+Batch 80, Loss: 0.5571
+Batch 90, Loss: 0.9209
+Epoch: 342 PixAcc: 0.7725, mIoU: 0.2344
+Batch 0, Loss: 0.8868
+Batch 10, Loss: 0.9402
+Batch 20, Loss: 0.3126
+Batch 30, Loss: 0.3777
+Batch 40, Loss: 0.9154
+Batch 50, Loss: 0.6582
+Batch 60, Loss: 0.6541
+Batch 70, Loss: 1.0183
+Batch 80, Loss: 0.6317
+Batch 90, Loss: 0.6035
+Epoch: 343 PixAcc: 0.7712, mIoU: 0.2354
+Batch 0, Loss: 0.5942
+Batch 10, Loss: 0.6664
+Batch 20, Loss: 0.5651
+Batch 30, Loss: 0.6455
+Batch 40, Loss: 0.5550
+Batch 50, Loss: 0.7938
+Batch 60, Loss: 0.5734
+Batch 70, Loss: 0.6880
+Batch 80, Loss: 0.7428
+Batch 90, Loss: 0.5884
+Epoch: 344 PixAcc: 0.7594, mIoU: 0.2204
+Batch 0, Loss: 0.6757
+Batch 10, Loss: 1.0660
+Batch 20, Loss: 0.7990
+Batch 30, Loss: 0.7643
+Batch 40, Loss: 0.5189
+Batch 50, Loss: 0.6456
+Batch 60, Loss: 0.7145
+Batch 70, Loss: 0.8183
+Batch 80, Loss: 0.7004
+Batch 90, Loss: 0.7129
+Epoch: 345 PixAcc: 0.7730, mIoU: 0.2443
+Batch 0, Loss: 0.6831
+Batch 10, Loss: 0.5376
+Batch 20, Loss: 0.6388
+Batch 30, Loss: 0.7327
+Batch 40, Loss: 0.6999
+Batch 50, Loss: 0.5692
+Batch 60, Loss: 0.4132
+Batch 70, Loss: 0.7686
+Batch 80, Loss: 0.5425
+Batch 90, Loss: 0.6861
+Epoch: 346 PixAcc: 0.7690, mIoU: 0.2213
+Batch 0, Loss: 0.6134
+Batch 10, Loss: 0.5558
+Batch 20, Loss: 0.5624
+Batch 30, Loss: 0.8662
+Batch 40, Loss: 0.6785
+Batch 50, Loss: 0.6433
+Batch 60, Loss: 0.9303
+Batch 70, Loss: 0.5810
+Batch 80, Loss: 0.8026
+Batch 90, Loss: 0.8198
+Epoch: 347 PixAcc: 0.7687, mIoU: 0.2211
+Batch 0, Loss: 0.5129
+Batch 10, Loss: 0.8500
+Batch 20, Loss: 0.6903
+Batch 30, Loss: 0.7654
+Batch 40, Loss: 1.1019
+Batch 50, Loss: 0.5062
+Batch 60, Loss: 0.7277
+Batch 70, Loss: 0.6570
+Batch 80, Loss: 0.6216
+Batch 90, Loss: 0.8888
+Epoch: 348 PixAcc: 0.7656, mIoU: 0.2329
+Batch 0, Loss: 0.8616
+Batch 10, Loss: 0.8183
+Batch 20, Loss: 0.9384
+Batch 30, Loss: 0.9399
+Batch 40, Loss: 0.4940
+Batch 50, Loss: 0.8091
+Batch 60, Loss: 0.9247
+Batch 70, Loss: 0.9893
+Batch 80, Loss: 0.8309
+Batch 90, Loss: 0.6198
+Epoch: 349 PixAcc: 0.7671, mIoU: 0.2205
+Batch 0, Loss: 0.5159
+Batch 10, Loss: 0.7384
+Batch 20, Loss: 0.6241
+Batch 30, Loss: 0.6448
+Batch 40, Loss: 0.9116
+Batch 50, Loss: 0.6202
+Batch 60, Loss: 0.4835
+Batch 70, Loss: 0.6761
+Batch 80, Loss: 0.7319
+Batch 90, Loss: 0.6372
+Epoch: 350 PixAcc: 0.7755, mIoU: 0.2403
+Batch 0, Loss: 0.5053
+Batch 10, Loss: 0.5239
+Batch 20, Loss: 0.6512
+Batch 30, Loss: 0.7236
+Batch 40, Loss: 0.4839
+Batch 50, Loss: 0.8458
+Batch 60, Loss: 0.5782
+Batch 70, Loss: 0.5884
+Batch 80, Loss: 0.8562
+Batch 90, Loss: 0.5401
+Epoch: 351 PixAcc: 0.7725, mIoU: 0.2561
+Batch 0, Loss: 0.6949
+Batch 10, Loss: 1.0633
+Batch 20, Loss: 0.6985
+Batch 30, Loss: 0.8072
+Batch 40, Loss: 0.6407
+Batch 50, Loss: 0.8156
+Batch 60, Loss: 0.8434
+Batch 70, Loss: 0.6136
+Batch 80, Loss: 0.6926
+Batch 90, Loss: 0.9750
+Epoch: 352 PixAcc: 0.7721, mIoU: 0.2282
+Batch 0, Loss: 0.8372
+Batch 10, Loss: 0.5703
+Batch 20, Loss: 0.6272
+Batch 30, Loss: 0.8768
+Batch 40, Loss: 0.4459
+Batch 50, Loss: 0.8145
+Batch 60, Loss: 0.7308
+Batch 70, Loss: 0.6463
+Batch 80, Loss: 1.1225
+Batch 90, Loss: 0.5440
+[1;32mBetter IoU Get![0m
+Epoch: 353 PixAcc: 0.7747, mIoU: 0.2601
+Batch 0, Loss: 0.8051
+Batch 10, Loss: 0.8697
+Batch 20, Loss: 1.0736
+Batch 30, Loss: 0.7711
+Batch 40, Loss: 0.7384
+Batch 50, Loss: 0.7755
+Batch 60, Loss: 0.8387
+Batch 70, Loss: 0.8712
+Batch 80, Loss: 0.8673
+Batch 90, Loss: 0.8446
+Epoch: 354 PixAcc: 0.7691, mIoU: 0.2285
+Batch 0, Loss: 0.7590
+Batch 10, Loss: 0.9104
+Batch 20, Loss: 0.5106
+Batch 30, Loss: 0.6060
+Batch 40, Loss: 0.6492
+Batch 50, Loss: 0.5534
+Batch 60, Loss: 0.6258
+Batch 70, Loss: 0.6401
+Batch 80, Loss: 0.7369
+Batch 90, Loss: 0.5750
+Epoch: 355 PixAcc: 0.7696, mIoU: 0.2495
+Batch 0, Loss: 0.7740
+Batch 10, Loss: 0.5955
+Batch 20, Loss: 0.6643
+Batch 30, Loss: 0.5021
+Batch 40, Loss: 0.5764
+Batch 50, Loss: 0.5971
+Batch 60, Loss: 0.9068
+Batch 70, Loss: 0.6108
+Batch 80, Loss: 0.5055
+Batch 90, Loss: 0.5110
+Epoch: 356 PixAcc: 0.7721, mIoU: 0.2477
+Batch 0, Loss: 0.9328
+Batch 10, Loss: 0.6606
+Batch 20, Loss: 0.6229
+Batch 30, Loss: 0.8968
+Batch 40, Loss: 0.6160
+Batch 50, Loss: 0.5072
+Batch 60, Loss: 0.9377
+Batch 70, Loss: 0.6187
+Batch 80, Loss: 0.5907
+Batch 90, Loss: 0.4813
+Epoch: 357 PixAcc: 0.7710, mIoU: 0.2455
+Batch 0, Loss: 0.7333
+Batch 10, Loss: 0.9129
+Batch 20, Loss: 0.6193
+Batch 30, Loss: 0.4335
+Batch 40, Loss: 0.5795
+Batch 50, Loss: 0.5772
+Batch 60, Loss: 0.5984
+Batch 70, Loss: 0.8035
+Batch 80, Loss: 0.7997
+Batch 90, Loss: 0.8782
+Epoch: 358 PixAcc: 0.7734, mIoU: 0.2562
+Batch 0, Loss: 0.6181
+Batch 10, Loss: 0.7474
+Batch 20, Loss: 0.8829
+Batch 30, Loss: 0.5260
+Batch 40, Loss: 0.7432
+Batch 50, Loss: 0.7430
+Batch 60, Loss: 0.8190
+Batch 70, Loss: 0.7986
+Batch 80, Loss: 0.5815
+Batch 90, Loss: 0.6388
+Epoch: 359 PixAcc: 0.7497, mIoU: 0.2273
+Batch 0, Loss: 0.7156
+Batch 10, Loss: 0.6435
+Batch 20, Loss: 0.7150
+Batch 30, Loss: 0.6012
+Batch 40, Loss: 0.6308
+Batch 50, Loss: 0.6630
+Batch 60, Loss: 0.5032
+Batch 70, Loss: 0.5772
+Batch 80, Loss: 0.6136
+Batch 90, Loss: 0.5452
+Epoch: 360 PixAcc: 0.7777, mIoU: 0.2566
+Batch 0, Loss: 0.4451
+Batch 10, Loss: 0.7881
+Batch 20, Loss: 0.6053
+Batch 30, Loss: 0.6837
+Batch 40, Loss: 0.5733
+Batch 50, Loss: 0.8001
+Batch 60, Loss: 0.6658
+Batch 70, Loss: 0.4781
+Batch 80, Loss: 0.5015
+Batch 90, Loss: 0.5372
+Epoch: 361 PixAcc: 0.7750, mIoU: 0.2482
+Batch 0, Loss: 0.5151
+Batch 10, Loss: 0.7342
+Batch 20, Loss: 0.9517
+Batch 30, Loss: 1.0616
+Batch 40, Loss: 0.7437
+Batch 50, Loss: 0.6412
+Batch 60, Loss: 0.4685
+Batch 70, Loss: 0.8003
+Batch 80, Loss: 0.8081
+Batch 90, Loss: 0.8240
+Epoch: 362 PixAcc: 0.7649, mIoU: 0.2429
+Batch 0, Loss: 0.7067
+Batch 10, Loss: 0.6739
+Batch 20, Loss: 0.7393
+Batch 30, Loss: 0.6560
+Batch 40, Loss: 0.6677
+Batch 50, Loss: 1.1876
+Batch 60, Loss: 0.5259
+Batch 70, Loss: 0.5057
+Batch 80, Loss: 0.5648
+Batch 90, Loss: 0.8249
+[1;32mBetter IoU Get![0m
+Epoch: 363 PixAcc: 0.7796, mIoU: 0.2642
+Batch 0, Loss: 0.5433
+Batch 10, Loss: 0.9075
+Batch 20, Loss: 0.7850
+Batch 30, Loss: 1.0049
+Batch 40, Loss: 0.9430
+Batch 50, Loss: 0.6510
+Batch 60, Loss: 0.5181
+Batch 70, Loss: 0.3193
+Batch 80, Loss: 1.0212
+Batch 90, Loss: 0.7948
+Epoch: 364 PixAcc: 0.7668, mIoU: 0.2454
+Batch 0, Loss: 0.8852
+Batch 10, Loss: 0.6710
+Batch 20, Loss: 0.4773
+Batch 30, Loss: 0.3576
+Batch 40, Loss: 0.6998
+Batch 50, Loss: 0.5334
+Batch 60, Loss: 0.6071
+Batch 70, Loss: 0.5724
+Batch 80, Loss: 0.6633
+Batch 90, Loss: 0.5159
+Epoch: 365 PixAcc: 0.7734, mIoU: 0.2503
+Batch 0, Loss: 0.5211
+Batch 10, Loss: 0.7573
+Batch 20, Loss: 0.8838
+Batch 30, Loss: 0.4155
+Batch 40, Loss: 0.8568
+Batch 50, Loss: 0.6065
+Batch 60, Loss: 0.9154
+Batch 70, Loss: 0.9716
+Batch 80, Loss: 0.9371
+Batch 90, Loss: 1.0483
+Epoch: 366 PixAcc: 0.7693, mIoU: 0.2350
+Batch 0, Loss: 0.5342
+Batch 10, Loss: 0.7655
+Batch 20, Loss: 0.6573
+Batch 30, Loss: 0.6985
+Batch 40, Loss: 0.4934
+Batch 50, Loss: 0.5287
+Batch 60, Loss: 0.7127
+Batch 70, Loss: 0.6195
+Batch 80, Loss: 1.3057
+Batch 90, Loss: 0.5691
+Epoch: 367 PixAcc: 0.7708, mIoU: 0.2464
+Batch 0, Loss: 0.8204
+Batch 10, Loss: 0.5682
+Batch 20, Loss: 0.4864
+Batch 30, Loss: 0.6426
+Batch 40, Loss: 0.6816
+Batch 50, Loss: 0.5321
+Batch 60, Loss: 0.4352
+Batch 70, Loss: 0.4964
+Batch 80, Loss: 0.7495
+Batch 90, Loss: 0.6755
+Epoch: 368 PixAcc: 0.7692, mIoU: 0.2466
+Batch 0, Loss: 0.7386
+Batch 10, Loss: 0.8837
+Batch 20, Loss: 0.8116
+Batch 30, Loss: 0.6003
+Batch 40, Loss: 0.7081
+Batch 50, Loss: 0.5876
+Batch 60, Loss: 0.6796
+Batch 70, Loss: 0.4962
+Batch 80, Loss: 0.8606
+Batch 90, Loss: 0.6185
+Epoch: 369 PixAcc: 0.7749, mIoU: 0.2571
+Batch 0, Loss: 0.7296
+Batch 10, Loss: 0.6293
+Batch 20, Loss: 0.9743
+Batch 30, Loss: 0.5564
+Batch 40, Loss: 0.7683
+Batch 50, Loss: 1.2050
+Batch 60, Loss: 0.7842
+Batch 70, Loss: 0.5719
+Batch 80, Loss: 0.7605
+Batch 90, Loss: 0.6468
+Epoch: 370 PixAcc: 0.7773, mIoU: 0.2528
+Batch 0, Loss: 0.5379
+Batch 10, Loss: 1.0441
+Batch 20, Loss: 0.7405
+Batch 30, Loss: 0.5246
+Batch 40, Loss: 0.6798
+Batch 50, Loss: 0.6524
+Batch 60, Loss: 0.7935
+Batch 70, Loss: 0.7955
+Batch 80, Loss: 0.5199
+Batch 90, Loss: 0.5297
+Epoch: 371 PixAcc: 0.7738, mIoU: 0.2469
+Batch 0, Loss: 0.4992
+Batch 10, Loss: 0.7005
+Batch 20, Loss: 0.8456
+Batch 30, Loss: 0.7079
+Batch 40, Loss: 0.6542
+Batch 50, Loss: 0.9831
+Batch 60, Loss: 0.7984
+Batch 70, Loss: 0.9792
+Batch 80, Loss: 0.9094
+Batch 90, Loss: 0.5040
+Epoch: 372 PixAcc: 0.7695, mIoU: 0.2513
+Batch 0, Loss: 0.8690
+Batch 10, Loss: 0.8035
+Batch 20, Loss: 0.6324
+Batch 30, Loss: 0.5241
+Batch 40, Loss: 0.7213
+Batch 50, Loss: 1.1102
+Batch 60, Loss: 0.5479
+Batch 70, Loss: 0.6084
+Batch 80, Loss: 0.5036
+Batch 90, Loss: 0.4239
+Epoch: 373 PixAcc: 0.7566, mIoU: 0.2310
+Batch 0, Loss: 0.8614
+Batch 10, Loss: 0.7273
+Batch 20, Loss: 0.7113
+Batch 30, Loss: 0.6686
+Batch 40, Loss: 0.9668
+Batch 50, Loss: 0.5465
+Batch 60, Loss: 0.6962
+Batch 70, Loss: 0.6039
+Batch 80, Loss: 0.5815
+Batch 90, Loss: 0.9585
+Epoch: 374 PixAcc: 0.7631, mIoU: 0.2148
+Batch 0, Loss: 0.4452
+Batch 10, Loss: 0.7850
+Batch 20, Loss: 0.5082
+Batch 30, Loss: 0.7933
+Batch 40, Loss: 0.6561
+Batch 50, Loss: 0.6747
+Batch 60, Loss: 0.6738
+Batch 70, Loss: 0.9154
+Batch 80, Loss: 0.8170
+Batch 90, Loss: 0.6340
+Epoch: 375 PixAcc: 0.7748, mIoU: 0.2624
+Batch 0, Loss: 0.5666
+Batch 10, Loss: 0.5106
+Batch 20, Loss: 0.5534
+Batch 30, Loss: 0.6125
+Batch 40, Loss: 0.4941
+Batch 50, Loss: 0.6938
+Batch 60, Loss: 0.8215
+Batch 70, Loss: 0.3810
+Batch 80, Loss: 0.4875
+Batch 90, Loss: 0.4967
+Epoch: 376 PixAcc: 0.7777, mIoU: 0.2520
+Batch 0, Loss: 0.6618
+Batch 10, Loss: 0.7887
+Batch 20, Loss: 0.7638
+Batch 30, Loss: 0.5535
+Batch 40, Loss: 0.5787
+Batch 50, Loss: 0.7373
+Batch 60, Loss: 0.7814
+Batch 70, Loss: 0.5938
+Batch 80, Loss: 0.6608
+Batch 90, Loss: 0.6557
+Epoch: 377 PixAcc: 0.7724, mIoU: 0.2474
+Batch 0, Loss: 0.7171
+Batch 10, Loss: 0.8315
+Batch 20, Loss: 0.5602
+Batch 30, Loss: 0.6772
+Batch 40, Loss: 0.5418
+Batch 50, Loss: 0.6134
+Batch 60, Loss: 0.6736
+Batch 70, Loss: 0.8399
+Batch 80, Loss: 0.6866
+Batch 90, Loss: 1.1263
+Epoch: 378 PixAcc: 0.7741, mIoU: 0.2483
+Batch 0, Loss: 0.4856
+Batch 10, Loss: 0.4832
+Batch 20, Loss: 0.8043
+Batch 30, Loss: 0.7440
+Batch 40, Loss: 0.5876
+Batch 50, Loss: 0.5411
+Batch 60, Loss: 0.4637
+Batch 70, Loss: 1.0121
+Batch 80, Loss: 1.4136
+Batch 90, Loss: 0.4914
+Epoch: 379 PixAcc: 0.7652, mIoU: 0.2291
+Batch 0, Loss: 0.8366
+Batch 10, Loss: 0.5915
+Batch 20, Loss: 0.7514
+Batch 30, Loss: 0.7003
+Batch 40, Loss: 0.4872
+Batch 50, Loss: 0.8370
+Batch 60, Loss: 0.5714
+Batch 70, Loss: 0.6955
+Batch 80, Loss: 0.6416
+Batch 90, Loss: 0.5871
+Epoch: 380 PixAcc: 0.7596, mIoU: 0.2558
+Batch 0, Loss: 0.6242
+Batch 10, Loss: 0.4864
+Batch 20, Loss: 0.6004
+Batch 30, Loss: 0.5632
+Batch 40, Loss: 0.6006
+Batch 50, Loss: 0.9285
+Batch 60, Loss: 0.7063
+Batch 70, Loss: 0.7133
+Batch 80, Loss: 0.6469
+Batch 90, Loss: 0.7063
+Epoch: 381 PixAcc: 0.7724, mIoU: 0.2533
+Batch 0, Loss: 0.8095
+Batch 10, Loss: 0.8444
+Batch 20, Loss: 0.6645
+Batch 30, Loss: 0.4712
+Batch 40, Loss: 0.6280
+Batch 50, Loss: 0.6001
+Batch 60, Loss: 0.8985
+Batch 70, Loss: 0.9153
+Batch 80, Loss: 1.0634
+Batch 90, Loss: 0.5950
+Epoch: 382 PixAcc: 0.7641, mIoU: 0.2426
+Batch 0, Loss: 0.7281
+Batch 10, Loss: 0.6929
+Batch 20, Loss: 0.8479
+Batch 30, Loss: 0.6087
+Batch 40, Loss: 0.6525
+Batch 50, Loss: 0.4375
+Batch 60, Loss: 0.7315
+Batch 70, Loss: 0.7546
+Batch 80, Loss: 0.5395
+Batch 90, Loss: 0.5723
+Epoch: 383 PixAcc: 0.7757, mIoU: 0.2626
+Batch 0, Loss: 0.4652
+Batch 10, Loss: 0.5603
+Batch 20, Loss: 0.6741
+Batch 30, Loss: 0.7931
+Batch 40, Loss: 0.4760
+Batch 50, Loss: 0.8804
+Batch 60, Loss: 0.8055
+Batch 70, Loss: 0.8931
+Batch 80, Loss: 0.6823
+Batch 90, Loss: 0.5958
+Epoch: 384 PixAcc: 0.7704, mIoU: 0.2490
+Batch 0, Loss: 0.8536
+Batch 10, Loss: 0.5375
+Batch 20, Loss: 0.8995
+Batch 30, Loss: 0.8636
+Batch 40, Loss: 0.5603
+Batch 50, Loss: 0.6490
+Batch 60, Loss: 0.9154
+Batch 70, Loss: 0.5149
+Batch 80, Loss: 0.6422
+Batch 90, Loss: 0.6623
+Epoch: 385 PixAcc: 0.7724, mIoU: 0.2540
+Batch 0, Loss: 0.5997
+Batch 10, Loss: 0.6464
+Batch 20, Loss: 0.6125
+Batch 30, Loss: 0.8810
+Batch 40, Loss: 0.7110
+Batch 50, Loss: 0.5589
+Batch 60, Loss: 0.5908
+Batch 70, Loss: 0.7816
+Batch 80, Loss: 0.7457
+Batch 90, Loss: 0.5674
+Epoch: 386 PixAcc: 0.7711, mIoU: 0.2420
+Batch 0, Loss: 0.6577
+Batch 10, Loss: 0.6705
+Batch 20, Loss: 0.7639
+Batch 30, Loss: 0.6845
+Batch 40, Loss: 0.7925
+Batch 50, Loss: 0.6610
+Batch 60, Loss: 0.4821
+Batch 70, Loss: 0.5688
+Batch 80, Loss: 0.4333
+Batch 90, Loss: 0.6622
+Epoch: 387 PixAcc: 0.7679, mIoU: 0.2362
+Batch 0, Loss: 0.5720
+Batch 10, Loss: 0.6723
+Batch 20, Loss: 1.1500
+Batch 30, Loss: 0.5222
+Batch 40, Loss: 0.5457
+Batch 50, Loss: 0.5711
+Batch 60, Loss: 0.7469
+Batch 70, Loss: 0.5651
+Batch 80, Loss: 0.7527
+Batch 90, Loss: 0.6362
+Epoch: 388 PixAcc: 0.7716, mIoU: 0.2546
+Batch 0, Loss: 0.7279
+Batch 10, Loss: 0.4704
+Batch 20, Loss: 0.6857
+Batch 30, Loss: 0.5019
+Batch 40, Loss: 0.6272
+Batch 50, Loss: 0.3941
+Batch 60, Loss: 0.7613
+Batch 70, Loss: 0.6749
+Batch 80, Loss: 0.4824
+Batch 90, Loss: 0.4516
+Epoch: 389 PixAcc: 0.7759, mIoU: 0.2504
+Batch 0, Loss: 0.4372
+Batch 10, Loss: 0.4763
+Batch 20, Loss: 0.5555
+Batch 30, Loss: 1.0789
+Batch 40, Loss: 0.6509
+Batch 50, Loss: 0.5642
+Batch 60, Loss: 1.2176
+Batch 70, Loss: 0.5472
+Batch 80, Loss: 0.9763
+Batch 90, Loss: 0.5625
+Epoch: 390 PixAcc: 0.7635, mIoU: 0.2475
+Batch 0, Loss: 0.7710
+Batch 10, Loss: 0.5015
+Batch 20, Loss: 0.5788
+Batch 30, Loss: 0.6092
+Batch 40, Loss: 0.4501
+Batch 50, Loss: 0.6472
+Batch 60, Loss: 1.3367
+Batch 70, Loss: 0.6656
+Batch 80, Loss: 0.7408
+Batch 90, Loss: 0.6550
+Epoch: 391 PixAcc: 0.7682, mIoU: 0.2401
+Batch 0, Loss: 0.8774
+Batch 10, Loss: 0.5831
+Batch 20, Loss: 0.7906
+Batch 30, Loss: 0.4912
+Batch 40, Loss: 0.7492
+Batch 50, Loss: 0.5076
+Batch 60, Loss: 0.7549
+Batch 70, Loss: 0.8716
+Batch 80, Loss: 0.9493
+Batch 90, Loss: 0.5312
+[1;32mBetter IoU Get![0m
+Epoch: 392 PixAcc: 0.7802, mIoU: 0.2705
+Batch 0, Loss: 0.6082
+Batch 10, Loss: 0.7677
+Batch 20, Loss: 0.6361
+Batch 30, Loss: 0.6214
+Batch 40, Loss: 0.5901
+Batch 50, Loss: 0.4482
+Batch 60, Loss: 0.4828
+Batch 70, Loss: 0.7250
+Batch 80, Loss: 0.4653
+Batch 90, Loss: 0.5594
+Epoch: 393 PixAcc: 0.7745, mIoU: 0.2528
+Batch 0, Loss: 0.5258
+Batch 10, Loss: 0.5726
+Batch 20, Loss: 0.6765
+Batch 30, Loss: 0.5737
+Batch 40, Loss: 0.5448
+Batch 50, Loss: 0.5975
+Batch 60, Loss: 0.4757
+Batch 70, Loss: 0.8257
+Batch 80, Loss: 0.8133
+Batch 90, Loss: 0.4384
+Epoch: 394 PixAcc: 0.7661, mIoU: 0.2322
+Batch 0, Loss: 0.3537
+Batch 10, Loss: 0.5625
+Batch 20, Loss: 0.5310
+Batch 30, Loss: 0.5258
+Batch 40, Loss: 0.4379
+Batch 50, Loss: 0.6815
+Batch 60, Loss: 0.7007
+Batch 70, Loss: 0.5490
+Batch 80, Loss: 0.5953
+Batch 90, Loss: 0.6118
+Epoch: 395 PixAcc: 0.7746, mIoU: 0.2555
+Batch 0, Loss: 0.7979
+Batch 10, Loss: 0.4316
+Batch 20, Loss: 0.5382
+Batch 30, Loss: 0.5906
+Batch 40, Loss: 0.6745
+Batch 50, Loss: 0.7071
+Batch 60, Loss: 0.6052
+Batch 70, Loss: 0.4290
+Batch 80, Loss: 0.7381
+Batch 90, Loss: 0.6244
+Epoch: 396 PixAcc: 0.7765, mIoU: 0.2524
+Batch 0, Loss: 0.5813
+Batch 10, Loss: 0.8093
+Batch 20, Loss: 0.5927
+Batch 30, Loss: 1.4662
+Batch 40, Loss: 0.7214
+Batch 50, Loss: 0.5783
+Batch 60, Loss: 0.5848
+Batch 70, Loss: 0.5054
+Batch 80, Loss: 1.1788
+Batch 90, Loss: 0.5977
+Epoch: 397 PixAcc: 0.7828, mIoU: 0.2661
+Batch 0, Loss: 0.6441
+Batch 10, Loss: 0.4557
+Batch 20, Loss: 1.1236
+Batch 30, Loss: 0.8361
+Batch 40, Loss: 0.4109
+Batch 50, Loss: 0.6277
+Batch 60, Loss: 1.1145
+Batch 70, Loss: 0.8094
+Batch 80, Loss: 0.7814
+Batch 90, Loss: 0.6317
+Epoch: 398 PixAcc: 0.7794, mIoU: 0.2657
+Batch 0, Loss: 0.4942
+Batch 10, Loss: 0.6015
+Batch 20, Loss: 0.7098
+Batch 30, Loss: 0.4467
+Batch 40, Loss: 0.7594
+Batch 50, Loss: 0.6867
+Batch 60, Loss: 0.5050
+Batch 70, Loss: 0.5529
+Batch 80, Loss: 0.5962
+Batch 90, Loss: 0.5041
+Epoch: 399 PixAcc: 0.7779, mIoU: 0.2467
+Batch 0, Loss: 0.5802
+Batch 10, Loss: 0.6455
+Batch 20, Loss: 0.8762
+Batch 30, Loss: 0.7501
+Batch 40, Loss: 0.5561
+Batch 50, Loss: 0.4214
+Batch 60, Loss: 0.8540
+Batch 70, Loss: 0.5974
+Batch 80, Loss: 0.5683
+Batch 90, Loss: 0.7432
+Epoch: 400 PixAcc: 0.7778, mIoU: 0.2486
+Batch 0, Loss: 0.5057
+Batch 10, Loss: 0.4746
+Batch 20, Loss: 0.3912
+Batch 30, Loss: 0.5278
+Batch 40, Loss: 0.6304
+Batch 50, Loss: 0.6266
+Batch 60, Loss: 0.6116
+Batch 70, Loss: 0.6749
+Batch 80, Loss: 0.6316
+Batch 90, Loss: 0.6819
+Epoch: 401 PixAcc: 0.7756, mIoU: 0.2296
+Batch 0, Loss: 0.4637
+Batch 10, Loss: 0.6111
+Batch 20, Loss: 0.5882
+Batch 30, Loss: 0.4411
+Batch 40, Loss: 0.5380
+Batch 50, Loss: 0.5614
+Batch 60, Loss: 0.9936
+Batch 70, Loss: 0.4811
+Batch 80, Loss: 0.6276
+Batch 90, Loss: 0.8139
+Epoch: 402 PixAcc: 0.7805, mIoU: 0.2632
+Batch 0, Loss: 0.7208
+Batch 10, Loss: 0.7759
+Batch 20, Loss: 0.5570
+Batch 30, Loss: 0.6481
+Batch 40, Loss: 0.7718
+Batch 50, Loss: 0.4613
+Batch 60, Loss: 0.7783
+Batch 70, Loss: 0.7060
+Batch 80, Loss: 0.5111
+Batch 90, Loss: 0.3641
+Epoch: 403 PixAcc: 0.7691, mIoU: 0.2508
+Batch 0, Loss: 0.5565
+Batch 10, Loss: 0.9383
+Batch 20, Loss: 0.5351
+Batch 30, Loss: 0.4682
+Batch 40, Loss: 0.7648
+Batch 50, Loss: 0.5429
+Batch 60, Loss: 0.5815
+Batch 70, Loss: 0.5941
+Batch 80, Loss: 0.5089
+Batch 90, Loss: 0.3708
+Epoch: 404 PixAcc: 0.7588, mIoU: 0.2204
+Batch 0, Loss: 1.0083
+Batch 10, Loss: 0.6360
+Batch 20, Loss: 0.7082
+Batch 30, Loss: 0.5665
+Batch 40, Loss: 0.8012
+Batch 50, Loss: 0.5364
+Batch 60, Loss: 0.3764
+Batch 70, Loss: 0.6413
+Batch 80, Loss: 0.8385
+Batch 90, Loss: 0.7284
+Epoch: 405 PixAcc: 0.7719, mIoU: 0.2645
+Batch 0, Loss: 0.4246
+Batch 10, Loss: 0.5337
+Batch 20, Loss: 0.7401
+Batch 30, Loss: 0.6657
+Batch 40, Loss: 0.5777
+Batch 50, Loss: 0.3695
+Batch 60, Loss: 0.6292
+Batch 70, Loss: 0.8929
+Batch 80, Loss: 0.6182
+Batch 90, Loss: 0.6594
+Epoch: 406 PixAcc: 0.7781, mIoU: 0.2574
+Batch 0, Loss: 0.6994
+Batch 10, Loss: 0.7278
+Batch 20, Loss: 0.6704
+Batch 30, Loss: 0.7155
+Batch 40, Loss: 0.9239
+Batch 50, Loss: 0.7545
+Batch 60, Loss: 0.4716
+Batch 70, Loss: 0.5062
+Batch 80, Loss: 0.6424
+Batch 90, Loss: 0.4231
+Epoch: 407 PixAcc: 0.7756, mIoU: 0.2586
+Batch 0, Loss: 0.6679
+Batch 10, Loss: 0.9912
+Batch 20, Loss: 0.7055
+Batch 30, Loss: 0.8206
+Batch 40, Loss: 0.3386
+Batch 50, Loss: 0.7938
+Batch 60, Loss: 0.5084
+Batch 70, Loss: 0.6848
+Batch 80, Loss: 0.4541
+Batch 90, Loss: 0.7036
+Epoch: 408 PixAcc: 0.7684, mIoU: 0.2371
+Batch 0, Loss: 0.7932
+Batch 10, Loss: 0.4137
+Batch 20, Loss: 0.6184
+Batch 30, Loss: 0.7231
+Batch 40, Loss: 0.7608
+Batch 50, Loss: 0.5128
+Batch 60, Loss: 0.7159
+Batch 70, Loss: 0.5532
+Batch 80, Loss: 0.6868
+Batch 90, Loss: 0.5897
+Epoch: 409 PixAcc: 0.7786, mIoU: 0.2603
+Batch 0, Loss: 0.6079
+Batch 10, Loss: 0.6867
+Batch 20, Loss: 0.6722
+Batch 30, Loss: 0.6751
+Batch 40, Loss: 0.4802
+Batch 50, Loss: 0.6030
+Batch 60, Loss: 0.7591
+Batch 70, Loss: 0.5264
+Batch 80, Loss: 0.5735
+Batch 90, Loss: 0.5350
+Epoch: 410 PixAcc: 0.7758, mIoU: 0.2551
+Batch 0, Loss: 0.7507
+Batch 10, Loss: 0.4692
+Batch 20, Loss: 0.5159
+Batch 30, Loss: 0.4824
+Batch 40, Loss: 0.6329
+Batch 50, Loss: 0.5665
+Batch 60, Loss: 0.6597
+Batch 70, Loss: 0.7803
+Batch 80, Loss: 0.9319
+Batch 90, Loss: 0.6170
+Epoch: 411 PixAcc: 0.7643, mIoU: 0.2537
+Batch 0, Loss: 0.7038
+Batch 10, Loss: 0.5846
+Batch 20, Loss: 0.6295
+Batch 30, Loss: 0.4755
+Batch 40, Loss: 0.9110
+Batch 50, Loss: 0.6766
+Batch 60, Loss: 0.4512
+Batch 70, Loss: 0.4121
+Batch 80, Loss: 0.5275
+Batch 90, Loss: 0.7307
+Epoch: 412 PixAcc: 0.7781, mIoU: 0.2624
+Batch 0, Loss: 0.7735
+Batch 10, Loss: 0.5345
+Batch 20, Loss: 0.5487
+Batch 30, Loss: 0.4576
+Batch 40, Loss: 0.8229
+Batch 50, Loss: 0.5943
+Batch 60, Loss: 0.4848
+Batch 70, Loss: 0.9900
+Batch 80, Loss: 0.9137
+Batch 90, Loss: 0.5183
+Epoch: 413 PixAcc: 0.7776, mIoU: 0.2487
+Batch 0, Loss: 0.5807
+Batch 10, Loss: 0.4563
+Batch 20, Loss: 0.5484
+Batch 30, Loss: 0.7407
+Batch 40, Loss: 0.5930
+Batch 50, Loss: 0.5083
+Batch 60, Loss: 0.7682
+Batch 70, Loss: 0.5029
+Batch 80, Loss: 0.7155
+Batch 90, Loss: 0.4412
+Epoch: 414 PixAcc: 0.7686, mIoU: 0.2523
+Batch 0, Loss: 0.8322
+Batch 10, Loss: 0.8459
+Batch 20, Loss: 0.5240
+Batch 30, Loss: 0.5830
+Batch 40, Loss: 0.5834
+Batch 50, Loss: 1.3088
+Batch 60, Loss: 0.3570
+Batch 70, Loss: 0.3731
+Batch 80, Loss: 0.7865
+Batch 90, Loss: 0.6860
+Epoch: 415 PixAcc: 0.7760, mIoU: 0.2579
+Batch 0, Loss: 0.4984
+Batch 10, Loss: 0.5437
+Batch 20, Loss: 0.6889
+Batch 30, Loss: 0.5799
+Batch 40, Loss: 0.5273
+Batch 50, Loss: 0.6842
+Batch 60, Loss: 0.5498
+Batch 70, Loss: 0.5348
+Batch 80, Loss: 0.7508
+Batch 90, Loss: 0.5437
+Epoch: 416 PixAcc: 0.7732, mIoU: 0.2465
+Batch 0, Loss: 0.7120
+Batch 10, Loss: 0.5822
+Batch 20, Loss: 0.6478
+Batch 30, Loss: 0.5090
+Batch 40, Loss: 0.5912
+Batch 50, Loss: 0.6790
+Batch 60, Loss: 0.5642
+Batch 70, Loss: 0.6095
+Batch 80, Loss: 0.7034
+Batch 90, Loss: 0.6031
+Epoch: 417 PixAcc: 0.7813, mIoU: 0.2686
+Batch 0, Loss: 0.3901
+Batch 10, Loss: 0.8219
+Batch 20, Loss: 1.0146
+Batch 30, Loss: 0.7309
+Batch 40, Loss: 0.5563
+Batch 50, Loss: 0.5695
+Batch 60, Loss: 0.4818
+Batch 70, Loss: 0.5363
+Batch 80, Loss: 0.8761
+Batch 90, Loss: 0.7548
+Epoch: 418 PixAcc: 0.7744, mIoU: 0.2483
+Batch 0, Loss: 0.7708
+Batch 10, Loss: 0.6275
+Batch 20, Loss: 0.8312
+Batch 30, Loss: 0.5086
+Batch 40, Loss: 0.6272
+Batch 50, Loss: 0.6299
+Batch 60, Loss: 0.5779
+Batch 70, Loss: 0.7418
+Batch 80, Loss: 0.5835
+Batch 90, Loss: 0.8628
+Epoch: 419 PixAcc: 0.7755, mIoU: 0.2561
+Batch 0, Loss: 0.5932
+Batch 10, Loss: 0.6251
+Batch 20, Loss: 0.7616
+Batch 30, Loss: 0.6117
+Batch 40, Loss: 0.9588
+Batch 50, Loss: 0.6697
+Batch 60, Loss: 0.6764
+Batch 70, Loss: 0.7072
+Batch 80, Loss: 0.4385
+Batch 90, Loss: 0.7761
+Epoch: 420 PixAcc: 0.7761, mIoU: 0.2511
+Batch 0, Loss: 0.6373
+Batch 10, Loss: 0.5965
+Batch 20, Loss: 0.7768
+Batch 30, Loss: 0.7502
+Batch 40, Loss: 0.9092
+Batch 50, Loss: 0.4182
+Batch 60, Loss: 0.5910
+Batch 70, Loss: 0.4788
+Batch 80, Loss: 0.7179
+Batch 90, Loss: 0.7227
+Epoch: 421 PixAcc: 0.7721, mIoU: 0.2610
+Batch 0, Loss: 1.0393
+Batch 10, Loss: 0.6390
+Batch 20, Loss: 0.5496
+Batch 30, Loss: 0.4394
+Batch 40, Loss: 0.8619
+Batch 50, Loss: 0.5719
+Batch 60, Loss: 0.6777
+Batch 70, Loss: 0.6621
+Batch 80, Loss: 0.6193
+Batch 90, Loss: 1.1843
+Epoch: 422 PixAcc: 0.7752, mIoU: 0.2634
+Batch 0, Loss: 0.7398
+Batch 10, Loss: 0.7233
+Batch 20, Loss: 0.4931
+Batch 30, Loss: 0.7455
+Batch 40, Loss: 0.8473
+Batch 50, Loss: 0.6316
+Batch 60, Loss: 0.7164
+Batch 70, Loss: 0.5105
+Batch 80, Loss: 0.7310
+Batch 90, Loss: 0.6230
+[1;32mBetter IoU Get![0m
+Epoch: 423 PixAcc: 0.7823, mIoU: 0.2711
+Batch 0, Loss: 0.3751
+Batch 10, Loss: 0.8406
+Batch 20, Loss: 0.6085
+Batch 30, Loss: 0.6372
+Batch 40, Loss: 0.3764
+Batch 50, Loss: 0.6485
+Batch 60, Loss: 0.5340
+Batch 70, Loss: 0.4815
+Batch 80, Loss: 0.5906
+Batch 90, Loss: 0.7883
+Epoch: 424 PixAcc: 0.7717, mIoU: 0.2466
+Batch 0, Loss: 0.5537
+Batch 10, Loss: 0.7696
+Batch 20, Loss: 0.4051
+Batch 30, Loss: 0.4791
+Batch 40, Loss: 0.6802
+Batch 50, Loss: 0.5870
+Batch 60, Loss: 0.8113
+Batch 70, Loss: 0.5343
+Batch 80, Loss: 0.6114
+Batch 90, Loss: 0.7563
+Epoch: 425 PixAcc: 0.7666, mIoU: 0.2480
+Batch 0, Loss: 0.7642
+Batch 10, Loss: 0.5872
+Batch 20, Loss: 0.7423
+Batch 30, Loss: 0.4815
+Batch 40, Loss: 0.6796
+Batch 50, Loss: 0.7268
+Batch 60, Loss: 0.4986
+Batch 70, Loss: 0.4691
+Batch 80, Loss: 0.8181
+Batch 90, Loss: 0.6494
+Epoch: 426 PixAcc: 0.7751, mIoU: 0.2556
+Batch 0, Loss: 0.5625
+Batch 10, Loss: 0.7021
+Batch 20, Loss: 0.8418
+Batch 30, Loss: 0.4203
+Batch 40, Loss: 0.5930
+Batch 50, Loss: 0.7094
+Batch 60, Loss: 0.4813
+Batch 70, Loss: 1.2038
+Batch 80, Loss: 0.4930
+Batch 90, Loss: 0.6934
+Epoch: 427 PixAcc: 0.7780, mIoU: 0.2524
+Batch 0, Loss: 0.7000
+Batch 10, Loss: 0.4298
+Batch 20, Loss: 0.4309
+Batch 30, Loss: 0.5454
+Batch 40, Loss: 0.7029
+Batch 50, Loss: 0.6003
+Batch 60, Loss: 0.8258
+Batch 70, Loss: 0.8236
+Batch 80, Loss: 0.7835
+Batch 90, Loss: 0.6991
+Epoch: 428 PixAcc: 0.7765, mIoU: 0.2580
+Batch 0, Loss: 0.4164
+Batch 10, Loss: 0.6231
+Batch 20, Loss: 0.6227
+Batch 30, Loss: 0.7001
+Batch 40, Loss: 1.0679
+Batch 50, Loss: 0.5907
+Batch 60, Loss: 0.3945
+Batch 70, Loss: 0.5084
+Batch 80, Loss: 0.4226
+Batch 90, Loss: 0.5767
+[1;32mBetter IoU Get![0m
+Epoch: 429 PixAcc: 0.7810, mIoU: 0.2741
+Batch 0, Loss: 0.6946
+Batch 10, Loss: 0.8432
+Batch 20, Loss: 0.4458
+Batch 30, Loss: 0.7248
+Batch 40, Loss: 0.4527
+Batch 50, Loss: 0.4751
+Batch 60, Loss: 0.5302
+Batch 70, Loss: 0.6927
+Batch 80, Loss: 0.6449
+Batch 90, Loss: 0.6475
+[1;32mBetter IoU Get![0m
+Epoch: 430 PixAcc: 0.7794, mIoU: 0.2806
+Batch 0, Loss: 0.7238
+Batch 10, Loss: 0.7199
+Batch 20, Loss: 0.4350
+Batch 30, Loss: 0.5163
+Batch 40, Loss: 0.5465
+Batch 50, Loss: 0.3732
+Batch 60, Loss: 0.6154
+Batch 70, Loss: 0.5285
+Batch 80, Loss: 0.5048
+Batch 90, Loss: 0.6700
+[1;32mBetter IoU Get![0m
+Epoch: 431 PixAcc: 0.7863, mIoU: 0.2880
+Batch 0, Loss: 0.3178
+Batch 10, Loss: 0.6059
+Batch 20, Loss: 0.5695
+Batch 30, Loss: 0.5735
+Batch 40, Loss: 0.6329
+Batch 50, Loss: 0.7158
+Batch 60, Loss: 0.3905
+Batch 70, Loss: 0.7766
+Batch 80, Loss: 0.4812
+Batch 90, Loss: 0.4570
+[1;32mBetter IoU Get![0m
+Epoch: 432 PixAcc: 0.7895, mIoU: 0.2880
+Batch 0, Loss: 0.4769
+Batch 10, Loss: 0.4718
+Batch 20, Loss: 0.8234
+Batch 30, Loss: 0.4168
+Batch 40, Loss: 0.6016
+Batch 50, Loss: 0.3445
+Batch 60, Loss: 0.4539
+Batch 70, Loss: 0.4956
+Batch 80, Loss: 0.6218
+Batch 90, Loss: 0.5386
+Epoch: 433 PixAcc: 0.7894, mIoU: 0.2863
+Batch 0, Loss: 0.5431
+Batch 10, Loss: 0.4505
+Batch 20, Loss: 0.6485
+Batch 30, Loss: 0.5420
+Batch 40, Loss: 0.6587
+Batch 50, Loss: 0.7775
+Batch 60, Loss: 0.7003
+Batch 70, Loss: 0.7849
+Batch 80, Loss: 0.5655
+Batch 90, Loss: 0.5724
+[1;32mBetter IoU Get![0m
+Epoch: 434 PixAcc: 0.7874, mIoU: 0.2890
+Batch 0, Loss: 0.2785
+Batch 10, Loss: 0.3458
+Batch 20, Loss: 0.3964
+Batch 30, Loss: 0.6673
+Batch 40, Loss: 0.7248
+Batch 50, Loss: 0.5477
+Batch 60, Loss: 0.7933
+Batch 70, Loss: 0.4514
+Batch 80, Loss: 0.7986
+Batch 90, Loss: 0.3223
+Epoch: 435 PixAcc: 0.7898, mIoU: 0.2887
+Batch 0, Loss: 0.4763
+Batch 10, Loss: 0.5957
+Batch 20, Loss: 0.7136
+Batch 30, Loss: 0.6296
+Batch 40, Loss: 0.5183
+Batch 50, Loss: 0.3392
+Batch 60, Loss: 0.5350
+Batch 70, Loss: 0.7257
+Batch 80, Loss: 0.5502
+Batch 90, Loss: 0.3236
+[1;32mBetter IoU Get![0m
+Epoch: 436 PixAcc: 0.7900, mIoU: 0.2930
+Batch 0, Loss: 0.3927
+Batch 10, Loss: 0.3380
+Batch 20, Loss: 0.5741
+Batch 30, Loss: 0.4905
+Batch 40, Loss: 0.4679
+Batch 50, Loss: 0.6260
+Batch 60, Loss: 0.4943
+Batch 70, Loss: 0.5013
+Batch 80, Loss: 0.4446
+Batch 90, Loss: 0.7073
+Epoch: 437 PixAcc: 0.7890, mIoU: 0.2916
+Batch 0, Loss: 0.4696
+Batch 10, Loss: 0.7473
+Batch 20, Loss: 1.2125
+Batch 30, Loss: 0.3524
+Batch 40, Loss: 0.2604
+Batch 50, Loss: 0.4049
+Batch 60, Loss: 0.5284
+Batch 70, Loss: 0.4537
+Batch 80, Loss: 0.6104
+Batch 90, Loss: 0.7531
+Epoch: 438 PixAcc: 0.7897, mIoU: 0.2888
+Batch 0, Loss: 0.6543
+Batch 10, Loss: 0.5454
+Batch 20, Loss: 0.5176
+Batch 30, Loss: 0.3373
+Batch 40, Loss: 0.3597
+Batch 50, Loss: 0.3158
+Batch 60, Loss: 0.5594
+Batch 70, Loss: 0.5767
+Batch 80, Loss: 0.3877
+Batch 90, Loss: 0.7433
+[1;32mBetter IoU Get![0m
+Epoch: 439 PixAcc: 0.7894, mIoU: 0.2931
+Batch 0, Loss: 0.4486
+Batch 10, Loss: 0.4849
+Batch 20, Loss: 0.4598
+Batch 30, Loss: 0.4649
+Batch 40, Loss: 0.7556
+Batch 50, Loss: 0.4598
+Batch 60, Loss: 0.4526
+Batch 70, Loss: 0.7744
+Batch 80, Loss: 0.4940
+Batch 90, Loss: 0.3981
+Epoch: 440 PixAcc: 0.7901, mIoU: 0.2923
+Batch 0, Loss: 0.5179
+Batch 10, Loss: 0.5511
+Batch 20, Loss: 0.7324
+Batch 30, Loss: 0.4648
+Batch 40, Loss: 0.4499
+Batch 50, Loss: 0.5650
+Batch 60, Loss: 0.4862
+Batch 70, Loss: 0.5456
+Batch 80, Loss: 0.7133
+Batch 90, Loss: 0.5774
+[1;32mBetter IoU Get![0m
+Epoch: 441 PixAcc: 0.7896, mIoU: 0.2953
+Batch 0, Loss: 0.4801
+Batch 10, Loss: 0.4340
+Batch 20, Loss: 0.4946
+Batch 30, Loss: 0.4340
+Batch 40, Loss: 0.3960
+Batch 50, Loss: 0.6670
+Batch 60, Loss: 0.5132
+Batch 70, Loss: 0.4536
+Batch 80, Loss: 0.4626
+Batch 90, Loss: 0.4884
+Epoch: 442 PixAcc: 0.7909, mIoU: 0.2940
+Batch 0, Loss: 0.5029
+Batch 10, Loss: 0.5000
+Batch 20, Loss: 0.6110
+Batch 30, Loss: 0.8375
+Batch 40, Loss: 0.3964
+Batch 50, Loss: 0.5905
+Batch 60, Loss: 0.3871
+Batch 70, Loss: 0.4990
+Batch 80, Loss: 0.4823
+Batch 90, Loss: 0.6503
+Epoch: 443 PixAcc: 0.7911, mIoU: 0.2918
+Batch 0, Loss: 0.4305
+Batch 10, Loss: 0.4739
+Batch 20, Loss: 0.4565
+Batch 30, Loss: 0.4238
+Batch 40, Loss: 0.5004
+Batch 50, Loss: 0.4739
+Batch 60, Loss: 0.6173
+Batch 70, Loss: 0.6314
+Batch 80, Loss: 0.4756
+Batch 90, Loss: 0.5906
+Epoch: 444 PixAcc: 0.7905, mIoU: 0.2920
+Batch 0, Loss: 0.4019
+Batch 10, Loss: 0.4636
+Batch 20, Loss: 0.3986
+Batch 30, Loss: 0.3729
+Batch 40, Loss: 0.4418
+Batch 50, Loss: 0.6842
+Batch 60, Loss: 0.5423
+Batch 70, Loss: 0.4799
+Batch 80, Loss: 0.5964
+Batch 90, Loss: 0.3550
+Epoch: 445 PixAcc: 0.7914, mIoU: 0.2952
+Batch 0, Loss: 0.5436
+Batch 10, Loss: 0.6546
+Batch 20, Loss: 0.6554
+Batch 30, Loss: 0.6470
+Batch 40, Loss: 0.5768
+Batch 50, Loss: 0.4998
+Batch 60, Loss: 0.3843
+Batch 70, Loss: 0.5458
+Batch 80, Loss: 0.8093
+Batch 90, Loss: 0.5070
+Epoch: 446 PixAcc: 0.7907, mIoU: 0.2947
+Batch 0, Loss: 0.7375
+Batch 10, Loss: 0.4860
+Batch 20, Loss: 0.7467
+Batch 30, Loss: 0.3760
+Batch 40, Loss: 0.7765
+Batch 50, Loss: 0.7201
+Batch 60, Loss: 0.5136
+Batch 70, Loss: 0.5272
+Batch 80, Loss: 0.5394
+Batch 90, Loss: 0.4924
+[1;32mBetter IoU Get![0m
+Epoch: 447 PixAcc: 0.7899, mIoU: 0.2986
+Batch 0, Loss: 0.3859
+Batch 10, Loss: 0.3300
+Batch 20, Loss: 0.7140
+Batch 30, Loss: 0.3968
+Batch 40, Loss: 0.4575
+Batch 50, Loss: 0.4918
+Batch 60, Loss: 0.4417
+Batch 70, Loss: 1.1047
+Batch 80, Loss: 0.5507
+Batch 90, Loss: 0.4729
+Epoch: 448 PixAcc: 0.7892, mIoU: 0.2941
+Batch 0, Loss: 0.6660
+Batch 10, Loss: 0.3153
+Batch 20, Loss: 0.5123
+Batch 30, Loss: 0.3847
+Batch 40, Loss: 0.3829
+Batch 50, Loss: 0.4099
+Batch 60, Loss: 0.5339
+Batch 70, Loss: 0.5266
+Batch 80, Loss: 0.3285
+Batch 90, Loss: 0.3986
+Epoch: 449 PixAcc: 0.7912, mIoU: 0.2943
+Batch 0, Loss: 0.4967
+Batch 10, Loss: 0.7265
+Batch 20, Loss: 0.5552
+Batch 30, Loss: 0.3473
+Batch 40, Loss: 0.9627
+Batch 50, Loss: 0.4164
+Batch 60, Loss: 0.3891
+Batch 70, Loss: 0.5686
+Batch 80, Loss: 0.7136
+Batch 90, Loss: 0.5417
+Epoch: 450 PixAcc: 0.7903, mIoU: 0.2920
+Batch 0, Loss: 0.2704
+Batch 10, Loss: 0.7181
+Batch 20, Loss: 0.7130
+Batch 30, Loss: 0.4937
+Batch 40, Loss: 0.3663
+Batch 50, Loss: 0.4135
+Batch 60, Loss: 0.4612
+Batch 70, Loss: 0.6886
+Batch 80, Loss: 0.3668
+Batch 90, Loss: 0.5440
+Epoch: 451 PixAcc: 0.7912, mIoU: 0.2922
+Batch 0, Loss: 0.5948
+Batch 10, Loss: 0.4811
+Batch 20, Loss: 0.5086
+Batch 30, Loss: 0.4574
+Batch 40, Loss: 0.2628
+Batch 50, Loss: 0.4245
+Batch 60, Loss: 0.3982
+Batch 70, Loss: 0.4505
+Batch 80, Loss: 0.5454
+Batch 90, Loss: 0.2883
+Epoch: 452 PixAcc: 0.7907, mIoU: 0.2938
+Batch 0, Loss: 0.4743
+Batch 10, Loss: 0.4781
+Batch 20, Loss: 0.4625
+Batch 30, Loss: 0.5593
+Batch 40, Loss: 0.4162
+Batch 50, Loss: 0.6479
+Batch 60, Loss: 0.3575
+Batch 70, Loss: 0.5059
+Batch 80, Loss: 0.5589
+Batch 90, Loss: 0.4392
+Epoch: 453 PixAcc: 0.7912, mIoU: 0.2962
+Batch 0, Loss: 0.5496
+Batch 10, Loss: 0.3663
+Batch 20, Loss: 0.3952
+Batch 30, Loss: 0.4209
+Batch 40, Loss: 0.5614
+Batch 50, Loss: 0.4421
+Batch 60, Loss: 0.8073
+Batch 70, Loss: 0.5029
+Batch 80, Loss: 0.4066
+Batch 90, Loss: 0.5133
+Epoch: 454 PixAcc: 0.7916, mIoU: 0.2963
+Batch 0, Loss: 0.4259
+Batch 10, Loss: 0.4692
+Batch 20, Loss: 0.5765
+Batch 30, Loss: 0.4589
+Batch 40, Loss: 0.4908
+Batch 50, Loss: 0.5527
+Batch 60, Loss: 0.3673
+Batch 70, Loss: 0.3948
+Batch 80, Loss: 0.6582
+Batch 90, Loss: 0.5731
+Epoch: 455 PixAcc: 0.7918, mIoU: 0.2918
+Batch 0, Loss: 0.3102
+Batch 10, Loss: 0.6248
+Batch 20, Loss: 0.7671
+Batch 30, Loss: 0.4617
+Batch 40, Loss: 0.6821
+Batch 50, Loss: 0.6059
+Batch 60, Loss: 0.3109
+Batch 70, Loss: 0.3347
+Batch 80, Loss: 0.5011
+Batch 90, Loss: 0.5131
+Epoch: 456 PixAcc: 0.7900, mIoU: 0.2936
+Batch 0, Loss: 0.4031
+Batch 10, Loss: 0.4005
+Batch 20, Loss: 0.5243
+Batch 30, Loss: 0.5501
+Batch 40, Loss: 0.2817
+Batch 50, Loss: 0.5284
+Batch 60, Loss: 0.5302
+Batch 70, Loss: 0.6537
+Batch 80, Loss: 0.4549
+Batch 90, Loss: 0.7973
+Epoch: 457 PixAcc: 0.7913, mIoU: 0.2949
+Batch 0, Loss: 0.4829
+Batch 10, Loss: 0.4509
+Batch 20, Loss: 0.4974
+Batch 30, Loss: 0.5881
+Batch 40, Loss: 0.2569
+Batch 50, Loss: 0.3435
+Batch 60, Loss: 0.3549
+Batch 70, Loss: 0.4283
+Batch 80, Loss: 0.6331
+Batch 90, Loss: 0.4162
+Epoch: 458 PixAcc: 0.7917, mIoU: 0.2934
+Batch 0, Loss: 0.6980
+Batch 10, Loss: 0.7642
+Batch 20, Loss: 0.5603
+Batch 30, Loss: 0.4881
+Batch 40, Loss: 0.3027
+Batch 50, Loss: 0.6077
+Batch 60, Loss: 0.4247
+Batch 70, Loss: 0.4258
+Batch 80, Loss: 0.4163
+Batch 90, Loss: 0.5571
+Epoch: 459 PixAcc: 0.7904, mIoU: 0.2921
+Batch 0, Loss: 0.5928
+Batch 10, Loss: 0.4722
+Batch 20, Loss: 0.2447
+Batch 30, Loss: 0.4164
+Batch 40, Loss: 0.7661
+Batch 50, Loss: 0.5361
+Batch 60, Loss: 0.4638
+Batch 70, Loss: 0.3316
+Batch 80, Loss: 0.4289
+Batch 90, Loss: 0.3816
+Epoch: 460 PixAcc: 0.7900, mIoU: 0.2925
+Batch 0, Loss: 0.5043
+Batch 10, Loss: 0.4037
+Batch 20, Loss: 0.6592
+Batch 30, Loss: 0.4659
+Batch 40, Loss: 0.5713
+Batch 50, Loss: 0.3800
+Batch 60, Loss: 0.5653
+Batch 70, Loss: 0.4437
+Batch 80, Loss: 0.5900
+Batch 90, Loss: 0.4704
+[1;32mBetter IoU Get![0m
+Epoch: 461 PixAcc: 0.7902, mIoU: 0.2989
+Batch 0, Loss: 0.4386
+Batch 10, Loss: 0.3012
+Batch 20, Loss: 0.4931
+Batch 30, Loss: 0.3300
+Batch 40, Loss: 0.4850
+Batch 50, Loss: 0.3625
+Batch 60, Loss: 0.6267
+Batch 70, Loss: 0.6662
+Batch 80, Loss: 0.5881
+Batch 90, Loss: 0.4246
+Epoch: 462 PixAcc: 0.7920, mIoU: 0.2922
+Batch 0, Loss: 0.3993
+Batch 10, Loss: 0.5132
+Batch 20, Loss: 0.3760
+Batch 30, Loss: 0.3842
+Batch 40, Loss: 0.6213
+Batch 50, Loss: 0.3858
+Batch 60, Loss: 0.5060
+Batch 70, Loss: 0.3423
+Batch 80, Loss: 0.3871
+Batch 90, Loss: 0.4094
+Epoch: 463 PixAcc: 0.7891, mIoU: 0.2929
+Batch 0, Loss: 0.4380
+Batch 10, Loss: 0.3996
+Batch 20, Loss: 0.7711
+Batch 30, Loss: 0.8348
+Batch 40, Loss: 0.5876
+Batch 50, Loss: 0.4340
+Batch 60, Loss: 0.4015
+Batch 70, Loss: 0.5440
+Batch 80, Loss: 0.6207
+Batch 90, Loss: 0.2960
+Epoch: 464 PixAcc: 0.7896, mIoU: 0.2961
+Batch 0, Loss: 0.3757
+Batch 10, Loss: 0.5061
+Batch 20, Loss: 0.4052
+Batch 30, Loss: 0.5743
+Batch 40, Loss: 0.4716
+Batch 50, Loss: 0.6238
+Batch 60, Loss: 0.5079
+Batch 70, Loss: 0.4760
+Batch 80, Loss: 0.5472
+Batch 90, Loss: 0.4922
+Epoch: 465 PixAcc: 0.7916, mIoU: 0.2972
+Batch 0, Loss: 0.3589
+Batch 10, Loss: 0.4288
+Batch 20, Loss: 0.3881
+Batch 30, Loss: 0.3934
+Batch 40, Loss: 0.3900
+Batch 50, Loss: 0.5387
+Batch 60, Loss: 0.4651
+Batch 70, Loss: 0.3912
+Batch 80, Loss: 0.3539
+Batch 90, Loss: 0.4855
+Epoch: 466 PixAcc: 0.7896, mIoU: 0.2956
+Batch 0, Loss: 0.4688
+Batch 10, Loss: 0.7240
+Batch 20, Loss: 0.4337
+Batch 30, Loss: 0.7297
+Batch 40, Loss: 0.4383
+Batch 50, Loss: 0.2808
+Batch 60, Loss: 0.6384
+Batch 70, Loss: 0.3883
+Batch 80, Loss: 0.7791
+Batch 90, Loss: 0.3958
+Epoch: 467 PixAcc: 0.7906, mIoU: 0.2911
+Batch 0, Loss: 0.6091
+Batch 10, Loss: 0.5014
+Batch 20, Loss: 0.2807
+Batch 30, Loss: 0.5718
+Batch 40, Loss: 0.6398
+Batch 50, Loss: 0.3571
+Batch 60, Loss: 0.3601
+Batch 70, Loss: 0.4363
+Batch 80, Loss: 0.4319
+Batch 90, Loss: 0.4442
+Epoch: 468 PixAcc: 0.7913, mIoU: 0.2949
+Batch 0, Loss: 0.6495
+Batch 10, Loss: 0.6413
+Batch 20, Loss: 0.6890
+Batch 30, Loss: 0.4994
+Batch 40, Loss: 0.5315
+Batch 50, Loss: 0.5644
+Batch 60, Loss: 0.5377
+Batch 70, Loss: 0.3254
+Batch 80, Loss: 0.4980
+Batch 90, Loss: 0.4040
+Epoch: 469 PixAcc: 0.7909, mIoU: 0.2943
+Batch 0, Loss: 0.5046
+Batch 10, Loss: 0.5778
+Batch 20, Loss: 0.4067
+Batch 30, Loss: 0.5154
+Batch 40, Loss: 0.5850
+Batch 50, Loss: 0.4410
+Batch 60, Loss: 0.9113
+Batch 70, Loss: 0.2992
+Batch 80, Loss: 0.3514
+Batch 90, Loss: 0.4891
+Epoch: 470 PixAcc: 0.7914, mIoU: 0.2979
+Batch 0, Loss: 0.5370
+Batch 10, Loss: 0.4513
+Batch 20, Loss: 0.4659
+Batch 30, Loss: 0.3764
+Batch 40, Loss: 0.7012
+Batch 50, Loss: 0.4611
+Batch 60, Loss: 0.4623
+Batch 70, Loss: 0.4574
+Batch 80, Loss: 0.3363
+Batch 90, Loss: 0.6295
+Epoch: 471 PixAcc: 0.7910, mIoU: 0.2965
+Batch 0, Loss: 0.4817
+Batch 10, Loss: 0.4475
+Batch 20, Loss: 0.4824
+Batch 30, Loss: 0.4580
+Batch 40, Loss: 1.0094
+Batch 50, Loss: 0.4269
+Batch 60, Loss: 0.4862
+Batch 70, Loss: 0.3544
+Batch 80, Loss: 0.3131
+Batch 90, Loss: 0.5694
+Epoch: 472 PixAcc: 0.7913, mIoU: 0.2876
+Batch 0, Loss: 0.5142
+Batch 10, Loss: 0.3804
+Batch 20, Loss: 0.6143
+Batch 30, Loss: 0.4659
+Batch 40, Loss: 0.5003
+Batch 50, Loss: 0.4067
+Batch 60, Loss: 0.4187
+Batch 70, Loss: 0.5729
+Batch 80, Loss: 0.4071
+Batch 90, Loss: 0.5072
+Epoch: 473 PixAcc: 0.7918, mIoU: 0.2974
+Batch 0, Loss: 0.4572
+Batch 10, Loss: 0.4315
+Batch 20, Loss: 0.7494
+Batch 30, Loss: 0.8731
+Batch 40, Loss: 0.6211
+Batch 50, Loss: 0.4284
+Batch 60, Loss: 0.4271
+Batch 70, Loss: 0.5655
+Batch 80, Loss: 0.7524
+Batch 90, Loss: 0.6274
+Epoch: 474 PixAcc: 0.7906, mIoU: 0.2952
+Batch 0, Loss: 0.3685
+Batch 10, Loss: 0.6518
+Batch 20, Loss: 0.8138
+Batch 30, Loss: 0.5318
+Batch 40, Loss: 0.4843
+Batch 50, Loss: 0.3135
+Batch 60, Loss: 0.7106
+Batch 70, Loss: 0.4024
+Batch 80, Loss: 0.5250
+Batch 90, Loss: 0.3329
+Epoch: 475 PixAcc: 0.7903, mIoU: 0.2952
+Batch 0, Loss: 0.3171
+Batch 10, Loss: 0.3970
+Batch 20, Loss: 0.3736
+Batch 30, Loss: 0.4639
+Batch 40, Loss: 0.3992
+Batch 50, Loss: 0.5429
+Batch 60, Loss: 0.4283
+Batch 70, Loss: 0.5763
+Batch 80, Loss: 0.4272
+Batch 90, Loss: 0.5487
+Epoch: 476 PixAcc: 0.7913, mIoU: 0.2950
+Batch 0, Loss: 0.6107
+Batch 10, Loss: 0.7298
+Batch 20, Loss: 0.5694
+Batch 30, Loss: 0.5178
+Batch 40, Loss: 0.5113
+Batch 50, Loss: 0.5175
+Batch 60, Loss: 0.3922
+Batch 70, Loss: 0.3683
+Batch 80, Loss: 0.3964
+Batch 90, Loss: 0.4894
+Epoch: 477 PixAcc: 0.7898, mIoU: 0.2978
+Batch 0, Loss: 0.7298
+Batch 10, Loss: 0.6430
+Batch 20, Loss: 0.4572
+Batch 30, Loss: 0.3439
+Batch 40, Loss: 0.3390
+Batch 50, Loss: 0.5062
+Batch 60, Loss: 0.3869
+Batch 70, Loss: 0.5552
+Batch 80, Loss: 0.3417
+Batch 90, Loss: 0.4788
+Epoch: 478 PixAcc: 0.7908, mIoU: 0.2958
+Batch 0, Loss: 0.4670
+Batch 10, Loss: 0.3925
+Batch 20, Loss: 0.5510
+Batch 30, Loss: 0.4955
+Batch 40, Loss: 0.6304
+Batch 50, Loss: 0.3251
+Batch 60, Loss: 0.4880
+Batch 70, Loss: 0.6950
+Batch 80, Loss: 0.5616
+Batch 90, Loss: 0.5101
+Epoch: 479 PixAcc: 0.7912, mIoU: 0.2950
+Batch 0, Loss: 0.4770
+Batch 10, Loss: 0.6048
+Batch 20, Loss: 0.7591
+Batch 30, Loss: 0.4740
+Batch 40, Loss: 0.3634
+Batch 50, Loss: 0.5458
+Batch 60, Loss: 0.4034
+Batch 70, Loss: 0.4059
+Batch 80, Loss: 0.5541
+Batch 90, Loss: 0.3942
+Epoch: 480 PixAcc: 0.7901, mIoU: 0.2936
+Batch 0, Loss: 0.4565
+Batch 10, Loss: 0.3949
+Batch 20, Loss: 0.4489
+Batch 30, Loss: 0.5189
+Batch 40, Loss: 0.4644
+Batch 50, Loss: 0.5900
+Batch 60, Loss: 0.4339
+Batch 70, Loss: 0.3332
+Batch 80, Loss: 0.4047
+Batch 90, Loss: 0.3862
+Epoch: 481 PixAcc: 0.7921, mIoU: 0.2955
+Batch 0, Loss: 0.3580
+Batch 10, Loss: 0.3045
+Batch 20, Loss: 0.6144
+Batch 30, Loss: 0.8053
+Batch 40, Loss: 0.3974
+Batch 50, Loss: 0.5631
+Batch 60, Loss: 0.4836
+Batch 70, Loss: 0.6241
+Batch 80, Loss: 0.4297
+Batch 90, Loss: 0.3659
+Epoch: 482 PixAcc: 0.7911, mIoU: 0.2988
+Batch 0, Loss: 0.5548
+Batch 10, Loss: 0.5885
+Batch 20, Loss: 0.5307
+Batch 30, Loss: 0.4530
+Batch 40, Loss: 0.3194
+Batch 50, Loss: 0.3235
+Batch 60, Loss: 0.4149
+Batch 70, Loss: 0.5156
+Batch 80, Loss: 0.4366
+Batch 90, Loss: 0.3836
+Epoch: 483 PixAcc: 0.7919, mIoU: 0.2940
+Batch 0, Loss: 0.5814
+Batch 10, Loss: 0.4791
+Batch 20, Loss: 0.4161
+Batch 30, Loss: 0.4281
+Batch 40, Loss: 0.5676
+Batch 50, Loss: 0.5703
+Batch 60, Loss: 0.7531
+Batch 70, Loss: 0.4682
+Batch 80, Loss: 0.4832
+Batch 90, Loss: 0.4786
+Epoch: 484 PixAcc: 0.7912, mIoU: 0.2966
+Batch 0, Loss: 0.4366
+Batch 10, Loss: 0.6874
+Batch 20, Loss: 0.4155
+Batch 30, Loss: 0.4478
+Batch 40, Loss: 0.5775
+Batch 50, Loss: 0.4805
+Batch 60, Loss: 0.6612
+Batch 70, Loss: 0.3305
+Batch 80, Loss: 0.4478
+Batch 90, Loss: 0.5144
+Epoch: 485 PixAcc: 0.7896, mIoU: 0.2929
+Batch 0, Loss: 0.6008
+Batch 10, Loss: 0.7047
+Batch 20, Loss: 0.6529
+Batch 30, Loss: 0.5141
+Batch 40, Loss: 0.4647
+Batch 50, Loss: 0.3018
+Batch 60, Loss: 0.3184
+Batch 70, Loss: 0.5672
+Batch 80, Loss: 0.5452
+Batch 90, Loss: 0.5439
+Epoch: 486 PixAcc: 0.7916, mIoU: 0.2932
+Batch 0, Loss: 0.5452
+Batch 10, Loss: 0.5446
+Batch 20, Loss: 0.3891
+Batch 30, Loss: 0.4122
+Batch 40, Loss: 0.4887
+Batch 50, Loss: 0.3978
+Batch 60, Loss: 0.6014
+Batch 70, Loss: 0.6398
+Batch 80, Loss: 0.6627
+Batch 90, Loss: 0.2862
+Epoch: 487 PixAcc: 0.7917, mIoU: 0.2926
+Batch 0, Loss: 0.5408
+Batch 10, Loss: 0.5467
+Batch 20, Loss: 0.8524
+Batch 30, Loss: 0.5210
+Batch 40, Loss: 0.7135
+Batch 50, Loss: 0.3527
+Batch 60, Loss: 0.5157
+Batch 70, Loss: 0.5637
+Batch 80, Loss: 0.4761
+Batch 90, Loss: 0.3773
+Epoch: 488 PixAcc: 0.7910, mIoU: 0.2928
+Batch 0, Loss: 0.7226
+Batch 10, Loss: 0.3459
+Batch 20, Loss: 0.4912
+Batch 30, Loss: 0.5394
+Batch 40, Loss: 0.5631
+Batch 50, Loss: 0.3842
+Batch 60, Loss: 0.4712
+Batch 70, Loss: 0.4893
+Batch 80, Loss: 0.5097
+Batch 90, Loss: 0.4926
+Epoch: 489 PixAcc: 0.7913, mIoU: 0.2971
+Batch 0, Loss: 0.6428
+Batch 10, Loss: 0.3925
+Batch 20, Loss: 0.4748
+Batch 30, Loss: 0.5610
+Batch 40, Loss: 0.7696
+Batch 50, Loss: 0.2658
+Batch 60, Loss: 0.5335
+Batch 70, Loss: 0.3296
+Batch 80, Loss: 0.8061
+Batch 90, Loss: 0.5144
+Epoch: 490 PixAcc: 0.7919, mIoU: 0.2959
+Batch 0, Loss: 0.5210
+Batch 10, Loss: 0.3869
+Batch 20, Loss: 0.4359
+Batch 30, Loss: 0.5579
+Batch 40, Loss: 0.5223
+Batch 50, Loss: 0.4540
+Batch 60, Loss: 0.3704
+Batch 70, Loss: 0.5577
+Batch 80, Loss: 0.5034
+Batch 90, Loss: 0.5574
+[1;32mBetter IoU Get![0m
+Epoch: 491 PixAcc: 0.7929, mIoU: 0.2999
+Batch 0, Loss: 0.3556
+Batch 10, Loss: 0.3861
+Batch 20, Loss: 0.2749
+Batch 30, Loss: 0.6785
+Batch 40, Loss: 0.7714
+Batch 50, Loss: 0.5001
+Batch 60, Loss: 0.3652
+Batch 70, Loss: 0.5379
+Batch 80, Loss: 0.6702
+Batch 90, Loss: 0.4422
+Epoch: 492 PixAcc: 0.7923, mIoU: 0.2992
+Batch 0, Loss: 0.5505
+Batch 10, Loss: 0.4616
+Batch 20, Loss: 0.4509
+Batch 30, Loss: 0.4522
+Batch 40, Loss: 0.3861
+Batch 50, Loss: 0.3511
+Batch 60, Loss: 0.8082
+Batch 70, Loss: 0.5130
+Batch 80, Loss: 0.3021
+Batch 90, Loss: 0.7322
+Epoch: 493 PixAcc: 0.7914, mIoU: 0.2964
+Batch 0, Loss: 0.4345
+Batch 10, Loss: 0.3742
+Batch 20, Loss: 0.4935
+Batch 30, Loss: 0.7965
+Batch 40, Loss: 0.3759
+Batch 50, Loss: 0.5776
+Batch 60, Loss: 0.4711
+Batch 70, Loss: 0.5003
+Batch 80, Loss: 0.4270
+Batch 90, Loss: 0.4816
+Epoch: 494 PixAcc: 0.7906, mIoU: 0.2941
+Batch 0, Loss: 0.5457
+Batch 10, Loss: 0.5735
+Batch 20, Loss: 0.3789
+Batch 30, Loss: 0.5993
+Batch 40, Loss: 0.6124
+Batch 50, Loss: 0.4044
+Batch 60, Loss: 0.3594
+Batch 70, Loss: 0.3351
+Batch 80, Loss: 0.3152
+Batch 90, Loss: 0.5041
+Epoch: 495 PixAcc: 0.7911, mIoU: 0.2937
+Batch 0, Loss: 0.5173
+Batch 10, Loss: 0.4492
+Batch 20, Loss: 0.5807
+Batch 30, Loss: 0.3187
+Batch 40, Loss: 0.4224
+Batch 50, Loss: 0.5595
+Batch 60, Loss: 0.7556
+Batch 70, Loss: 0.4164
+Batch 80, Loss: 0.5498
+Batch 90, Loss: 0.4765
+Epoch: 496 PixAcc: 0.7908, mIoU: 0.2955
+Batch 0, Loss: 0.5466
+Batch 10, Loss: 0.6263
+Batch 20, Loss: 0.2375
+Batch 30, Loss: 0.7136
+Batch 40, Loss: 0.7815
+Batch 50, Loss: 0.7294
+Batch 60, Loss: 0.4193
+Batch 70, Loss: 0.5323
+Batch 80, Loss: 0.6057
+Batch 90, Loss: 0.6136
+Epoch: 497 PixAcc: 0.7918, mIoU: 0.2958
+Batch 0, Loss: 0.6618
+Batch 10, Loss: 0.4638
+Batch 20, Loss: 0.3374
+Batch 30, Loss: 0.5912
+Batch 40, Loss: 0.6545
+Batch 50, Loss: 0.3541
+Batch 60, Loss: 0.4308
+Batch 70, Loss: 0.5312
+Batch 80, Loss: 0.4450
+Batch 90, Loss: 0.3216
+Epoch: 498 PixAcc: 0.7914, mIoU: 0.2886
+Batch 0, Loss: 0.2568
+Batch 10, Loss: 0.5678
+Batch 20, Loss: 0.5161
+Batch 30, Loss: 0.4835
+Batch 40, Loss: 0.6882
+Batch 50, Loss: 0.5600
+Batch 60, Loss: 0.3182
+Batch 70, Loss: 0.7793
+Batch 80, Loss: 0.5079
+Batch 90, Loss: 0.6527
+Epoch: 499 PixAcc: 0.7919, mIoU: 0.2977
+Batch 0, Loss: 0.2780
+Batch 10, Loss: 0.6558
+Batch 20, Loss: 0.5765
+Batch 30, Loss: 0.4745
+Batch 40, Loss: 0.5047
+Batch 50, Loss: 0.5782
+Batch 60, Loss: 0.6508
+Batch 70, Loss: 0.3884
+Batch 80, Loss: 0.5274
+Batch 90, Loss: 0.4091
+Epoch: 500 PixAcc: 0.7919, mIoU: 0.2964
+Batch 0, Loss: 0.4831
+Batch 10, Loss: 0.6409
+Batch 20, Loss: 0.7119
+Batch 30, Loss: 0.4246
+Batch 40, Loss: 0.4536
+Batch 50, Loss: 0.3799
+Batch 60, Loss: 0.4746
+Batch 70, Loss: 0.3062
+Batch 80, Loss: 0.3531
+Batch 90, Loss: 0.3576
+Epoch: 501 PixAcc: 0.7904, mIoU: 0.2915
+Batch 0, Loss: 0.3899
+Batch 10, Loss: 0.5786
+Batch 20, Loss: 0.4393
+Batch 30, Loss: 0.7918
+Batch 40, Loss: 0.2685
+Batch 50, Loss: 0.3690
+Batch 60, Loss: 0.5855
+Batch 70, Loss: 0.4899
+Batch 80, Loss: 0.3680
+Batch 90, Loss: 0.5458
+Epoch: 502 PixAcc: 0.7912, mIoU: 0.2918
+Batch 0, Loss: 0.4077
+Batch 10, Loss: 0.5714
+Batch 20, Loss: 0.4225
+Batch 30, Loss: 0.6279
+Batch 40, Loss: 0.4913
+Batch 50, Loss: 0.5421
+Batch 60, Loss: 0.4323
+Batch 70, Loss: 0.4657
+Batch 80, Loss: 0.4083
+Batch 90, Loss: 0.3755
+Epoch: 503 PixAcc: 0.7916, mIoU: 0.2979
+Batch 0, Loss: 0.3439
+Batch 10, Loss: 0.5955
+Batch 20, Loss: 0.4588
+Batch 30, Loss: 0.4567
+Batch 40, Loss: 0.5827
+Batch 50, Loss: 0.4542
+Batch 60, Loss: 0.4948
+Batch 70, Loss: 0.4431
+Batch 80, Loss: 0.6049
+Batch 90, Loss: 0.6385
+Epoch: 504 PixAcc: 0.7908, mIoU: 0.2970
+Batch 0, Loss: 0.3711
+Batch 10, Loss: 0.3938
+Batch 20, Loss: 0.2995
+Batch 30, Loss: 0.4918
+Batch 40, Loss: 0.5407
+Batch 50, Loss: 0.3158
+Batch 60, Loss: 0.3996
+Batch 70, Loss: 0.5538
+Batch 80, Loss: 0.5367
+Batch 90, Loss: 0.6353
+Epoch: 505 PixAcc: 0.7920, mIoU: 0.2943
+Batch 0, Loss: 0.4010
+Batch 10, Loss: 0.3373
+Batch 20, Loss: 0.4419
+Batch 30, Loss: 0.3944
+Batch 40, Loss: 0.4123
+Batch 50, Loss: 0.5500
+Batch 60, Loss: 0.7560
+Batch 70, Loss: 0.6434
+Batch 80, Loss: 0.5428
+Batch 90, Loss: 0.4567
+Epoch: 506 PixAcc: 0.7906, mIoU: 0.2939
+Batch 0, Loss: 0.4345
+Batch 10, Loss: 0.4494
+Batch 20, Loss: 0.3626
+Batch 30, Loss: 0.4747
+Batch 40, Loss: 0.3556
+Batch 50, Loss: 0.4855
+Batch 60, Loss: 0.3519
+Batch 70, Loss: 0.7705
+Batch 80, Loss: 0.4957
+Batch 90, Loss: 0.2696
+Epoch: 507 PixAcc: 0.7901, mIoU: 0.2951
+Batch 0, Loss: 0.3506
+Batch 10, Loss: 0.4727
+Batch 20, Loss: 0.4011
+Batch 30, Loss: 0.3379
+Batch 40, Loss: 0.4817
+Batch 50, Loss: 0.5755
+Batch 60, Loss: 1.0478
+Batch 70, Loss: 0.4466
+Batch 80, Loss: 0.5378
+Batch 90, Loss: 0.3688
+Epoch: 508 PixAcc: 0.7900, mIoU: 0.2931
+Batch 0, Loss: 0.4663
+Batch 10, Loss: 0.2726
+Batch 20, Loss: 0.5134
+Batch 30, Loss: 0.5180
+Batch 40, Loss: 0.5460
+Batch 50, Loss: 0.5150
+Batch 60, Loss: 0.4475
+Batch 70, Loss: 0.4367
+Batch 80, Loss: 0.4211
+Batch 90, Loss: 0.7017
+Epoch: 509 PixAcc: 0.7911, mIoU: 0.2922
+Batch 0, Loss: 0.2738
+Batch 10, Loss: 0.3600
+Batch 20, Loss: 0.4907
+Batch 30, Loss: 0.4014
+Batch 40, Loss: 0.4455
+Batch 50, Loss: 0.4510
+Batch 60, Loss: 0.5006
+Batch 70, Loss: 0.3856
+Batch 80, Loss: 0.3721
+Batch 90, Loss: 0.3886
+Epoch: 510 PixAcc: 0.7922, mIoU: 0.2938
+Batch 0, Loss: 0.5038
+Batch 10, Loss: 0.4538
+Batch 20, Loss: 0.4433
+Batch 30, Loss: 0.4271
+Batch 40, Loss: 0.6810
+Batch 50, Loss: 0.5910
+Batch 60, Loss: 0.2629
+Batch 70, Loss: 0.5138
+Batch 80, Loss: 0.4947
+Batch 90, Loss: 0.3769
+Epoch: 511 PixAcc: 0.7909, mIoU: 0.2942
+Batch 0, Loss: 0.5665
+Batch 10, Loss: 0.5507
+Batch 20, Loss: 0.5048
+Batch 30, Loss: 0.6536
+Batch 40, Loss: 0.2214
+Batch 50, Loss: 0.5429
+Batch 60, Loss: 0.4001
+Batch 70, Loss: 0.5041
+Batch 80, Loss: 0.7043
+Batch 90, Loss: 0.5273
+Epoch: 512 PixAcc: 0.7914, mIoU: 0.2933
+Batch 0, Loss: 0.4632
+Batch 10, Loss: 0.7815
+Batch 20, Loss: 0.5404
+Batch 30, Loss: 0.4805
+Batch 40, Loss: 0.5108
+Batch 50, Loss: 0.6061
+Batch 60, Loss: 0.6071
+Batch 70, Loss: 0.3947
+Batch 80, Loss: 0.4735
+Batch 90, Loss: 0.4324
+Epoch: 513 PixAcc: 0.7927, mIoU: 0.2936
+Batch 0, Loss: 0.3636
+Batch 10, Loss: 0.6034
+Batch 20, Loss: 0.3459
+Batch 30, Loss: 0.3750
+Batch 40, Loss: 0.3372
+Batch 50, Loss: 0.5166
+Batch 60, Loss: 0.6094
+Batch 70, Loss: 0.4911
+Batch 80, Loss: 0.5603
+Batch 90, Loss: 0.3496
+Epoch: 514 PixAcc: 0.7907, mIoU: 0.2935
+Batch 0, Loss: 0.5606
+Batch 10, Loss: 0.4354
+Batch 20, Loss: 0.7560
+Batch 30, Loss: 0.6685
+Batch 40, Loss: 0.4878
+Batch 50, Loss: 0.5003
+Batch 60, Loss: 0.5401
+Batch 70, Loss: 0.5488
+Batch 80, Loss: 0.4389
+Batch 90, Loss: 0.4013
+Epoch: 515 PixAcc: 0.7923, mIoU: 0.2962
+Batch 0, Loss: 0.5136
+Batch 10, Loss: 0.4835
+Batch 20, Loss: 0.4925
+Batch 30, Loss: 0.6517
+Batch 40, Loss: 0.4349
+Batch 50, Loss: 0.5549
+Batch 60, Loss: 0.4984
+Batch 70, Loss: 0.8334
+Batch 80, Loss: 0.3233
+Batch 90, Loss: 0.4900
+Epoch: 516 PixAcc: 0.7908, mIoU: 0.2988
+Batch 0, Loss: 0.3755
+Batch 10, Loss: 0.6556
+Batch 20, Loss: 0.9959
+Batch 30, Loss: 0.4574
+Batch 40, Loss: 0.3785
+Batch 50, Loss: 0.6117
+Batch 60, Loss: 0.3432
+Batch 70, Loss: 0.4555
+Batch 80, Loss: 0.5848
+Batch 90, Loss: 0.4115
+Epoch: 517 PixAcc: 0.7913, mIoU: 0.2983
+Batch 0, Loss: 0.5364
+Batch 10, Loss: 0.5896
+Batch 20, Loss: 0.3680
+Batch 30, Loss: 0.7059
+Batch 40, Loss: 0.4619
+Batch 50, Loss: 0.4518
+Batch 60, Loss: 0.3347
+Batch 70, Loss: 0.3421
+Batch 80, Loss: 0.7404
+Batch 90, Loss: 0.3713
+Epoch: 518 PixAcc: 0.7919, mIoU: 0.2948
+Batch 0, Loss: 0.3406
+Batch 10, Loss: 0.2322
+Batch 20, Loss: 0.3754
+Batch 30, Loss: 0.3966
+Batch 40, Loss: 0.5877
+Batch 50, Loss: 0.5992
+Batch 60, Loss: 0.4743
+Batch 70, Loss: 0.6591
+Batch 80, Loss: 0.3252
+Batch 90, Loss: 0.6078
+Epoch: 519 PixAcc: 0.7914, mIoU: 0.2956
+Batch 0, Loss: 0.4137
+Batch 10, Loss: 0.7175
+Batch 20, Loss: 0.3913
+Batch 30, Loss: 0.4724
+Batch 40, Loss: 0.3388
+Batch 50, Loss: 0.3442
+Batch 60, Loss: 0.4937
+Batch 70, Loss: 0.6402
+Batch 80, Loss: 0.6502
+Batch 90, Loss: 0.5660
+Epoch: 520 PixAcc: 0.7917, mIoU: 0.2955
+Batch 0, Loss: 0.4738
+Batch 10, Loss: 0.5058
+Batch 20, Loss: 0.3488
+Batch 30, Loss: 0.7379
+Batch 40, Loss: 0.4401
+Batch 50, Loss: 0.5597
+Batch 60, Loss: 0.4694
+Batch 70, Loss: 0.4552
+Batch 80, Loss: 0.5966
+Batch 90, Loss: 0.3895
+[1;32mBetter IoU Get![0m
+Epoch: 521 PixAcc: 0.7914, mIoU: 0.3000
+Batch 0, Loss: 0.3583
+Batch 10, Loss: 0.5940
+Batch 20, Loss: 0.4531
+Batch 30, Loss: 0.6108
+Batch 40, Loss: 0.4819
+Batch 50, Loss: 0.6082
+Batch 60, Loss: 0.6313
+Batch 70, Loss: 0.5819
+Batch 80, Loss: 0.4078
+Batch 90, Loss: 0.4340
+Epoch: 522 PixAcc: 0.7913, mIoU: 0.2956
+Batch 0, Loss: 0.4812
+Batch 10, Loss: 0.3814
+Batch 20, Loss: 0.7683
+Batch 30, Loss: 0.3821
+Batch 40, Loss: 0.5953
+Batch 50, Loss: 0.2390
+Batch 60, Loss: 0.4269
+Batch 70, Loss: 0.4373
+Batch 80, Loss: 0.3721
+Batch 90, Loss: 0.2975
+Epoch: 523 PixAcc: 0.7897, mIoU: 0.2978
+Batch 0, Loss: 0.4837
+Batch 10, Loss: 0.5342
+Batch 20, Loss: 0.3475
+Batch 30, Loss: 0.6909
+Batch 40, Loss: 0.5240
+Batch 50, Loss: 0.4158
+Batch 60, Loss: 0.4311
+Batch 70, Loss: 0.5186
+Batch 80, Loss: 0.6050
+Batch 90, Loss: 0.3245
+Epoch: 524 PixAcc: 0.7915, mIoU: 0.2969
+Batch 0, Loss: 0.3884
+Batch 10, Loss: 0.4401
+Batch 20, Loss: 0.4173
+Batch 30, Loss: 0.3243
+Batch 40, Loss: 0.5934
+Batch 50, Loss: 0.3998
+Batch 60, Loss: 0.3361
+Batch 70, Loss: 0.3921
+Batch 80, Loss: 0.6789
+Batch 90, Loss: 0.3130
+Epoch: 525 PixAcc: 0.7902, mIoU: 0.2959
+Batch 0, Loss: 0.5308
+Batch 10, Loss: 0.5007
+Batch 20, Loss: 0.6419
+Batch 30, Loss: 0.5139
+Batch 40, Loss: 0.3373
+Batch 50, Loss: 0.3194
+Batch 60, Loss: 0.3293
+Batch 70, Loss: 0.3241
+Batch 80, Loss: 0.5581
+Batch 90, Loss: 0.5042
+Epoch: 526 PixAcc: 0.7909, mIoU: 0.2978
+Batch 0, Loss: 0.4172
+Batch 10, Loss: 0.5401
+Batch 20, Loss: 0.5057
+Batch 30, Loss: 1.0313
+Batch 40, Loss: 0.4130
+Batch 50, Loss: 0.5215
+Batch 60, Loss: 0.3619
+Batch 70, Loss: 0.3443
+Batch 80, Loss: 0.4119
+Batch 90, Loss: 0.6368
+Epoch: 527 PixAcc: 0.7914, mIoU: 0.2956
+Batch 0, Loss: 0.4534
+Batch 10, Loss: 0.5343
+Batch 20, Loss: 0.5592
+Batch 30, Loss: 0.4648
+Batch 40, Loss: 0.5413
+Batch 50, Loss: 0.9322
+Batch 60, Loss: 0.3301
+Batch 70, Loss: 0.5168
+Batch 80, Loss: 0.6851
+Batch 90, Loss: 0.3002
+Epoch: 528 PixAcc: 0.7911, mIoU: 0.2938
+Batch 0, Loss: 0.3612
+Batch 10, Loss: 0.3738
+Batch 20, Loss: 0.4995
+Batch 30, Loss: 0.3963
+Batch 40, Loss: 0.5473
+Batch 50, Loss: 0.4320
+Batch 60, Loss: 0.4263
+Batch 70, Loss: 0.5871
+Batch 80, Loss: 0.3759
+Batch 90, Loss: 0.5005
+Epoch: 529 PixAcc: 0.7910, mIoU: 0.2941
+Batch 0, Loss: 0.4475
+Batch 10, Loss: 0.4979
+Batch 20, Loss: 0.4295
+Batch 30, Loss: 0.3670
+Batch 40, Loss: 0.4522
+Batch 50, Loss: 0.4317
+Batch 60, Loss: 0.3042
+Batch 70, Loss: 0.3304
+Batch 80, Loss: 0.4662
+Batch 90, Loss: 0.4046
+Epoch: 530 PixAcc: 0.7923, mIoU: 0.2966
+Batch 0, Loss: 0.3133
+Batch 10, Loss: 0.4983
+Batch 20, Loss: 0.4170
+Batch 30, Loss: 0.6573
+Batch 40, Loss: 0.4842
+Batch 50, Loss: 0.4317
+Batch 60, Loss: 0.5436
+Batch 70, Loss: 0.5359
+Batch 80, Loss: 0.6654
+Batch 90, Loss: 0.4540
+Epoch: 531 PixAcc: 0.7928, mIoU: 0.2951
+Batch 0, Loss: 0.6885
+Batch 10, Loss: 0.6430
+Batch 20, Loss: 0.5782
+Batch 30, Loss: 0.3116
+Batch 40, Loss: 0.3173
+Batch 50, Loss: 0.3251
+Batch 60, Loss: 0.4540
+Batch 70, Loss: 0.6055
+Batch 80, Loss: 0.6301
+Batch 90, Loss: 0.4892
+Epoch: 532 PixAcc: 0.7905, mIoU: 0.2980
+Batch 0, Loss: 0.3550
+Batch 10, Loss: 0.5509
+Batch 20, Loss: 0.4476
+Batch 30, Loss: 0.3921
+Batch 40, Loss: 0.5824
+Batch 50, Loss: 0.5585
+Batch 60, Loss: 0.5576
+Batch 70, Loss: 0.7068
+Batch 80, Loss: 0.6969
+Batch 90, Loss: 0.3758
+Epoch: 533 PixAcc: 0.7901, mIoU: 0.2995
+Batch 0, Loss: 0.4680
+Batch 10, Loss: 0.4398
+Batch 20, Loss: 0.3318
+Batch 30, Loss: 0.4063
+Batch 40, Loss: 0.5127
+Batch 50, Loss: 0.3113
+Batch 60, Loss: 0.4447
+Batch 70, Loss: 0.5998
+Batch 80, Loss: 0.4972
+Batch 90, Loss: 0.4735
+Epoch: 534 PixAcc: 0.7921, mIoU: 0.2969
+Batch 0, Loss: 0.5481
+Batch 10, Loss: 0.5206
+Batch 20, Loss: 0.7238
+Batch 30, Loss: 0.3827
+Batch 40, Loss: 0.9264
+Batch 50, Loss: 0.5197
+Batch 60, Loss: 0.3216
+Batch 70, Loss: 0.3799
+Batch 80, Loss: 0.4457
+Batch 90, Loss: 0.5789
+Epoch: 535 PixAcc: 0.7925, mIoU: 0.2980
